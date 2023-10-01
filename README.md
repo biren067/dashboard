@@ -16,3 +16,5 @@ npm i @nivo/line
 npm i @nivo/bar
 npm i @nivo/pie
 npm i @nivo/geo
+
+use TailWindshade extension
