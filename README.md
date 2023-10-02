@@ -7,6 +7,7 @@ npm i react-pro-sidebar
 npm i react-router-dom@6
 npm i formik
 npm i yup
+npm i react-icons
 npm i @fullcalendar/core
 npm i @fullcalendar/daygrid
 npm i @fullcalendar/timegrid
@@ -17,4 +18,6 @@ npm i @nivo/bar
 npm i @nivo/pie
 npm i @nivo/geo
 
+npm i react-table
+npm install react-youtube
 use TailWindshade extension

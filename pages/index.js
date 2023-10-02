@@ -1,7 +1,9 @@
 import Image from 'next/image'
 import HomePage from '@/components/HomePage'
+import Testing from '@/components/Testing'
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import { ColorModeContext, useMode } from '../themes'
+// import MovieTable from '@/components/MovieTable'
 
 export default function Home() {
   const [theme, colorMode] = useMode();
@@ -10,7 +12,9 @@ export default function Home() {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <HomePage/>
-              </ThemeProvider>
+        {/* <MovieTable/> */}
+        <Testing/>
+        </ThemeProvider>
     </ColorModeContext.Provider>
 
   )

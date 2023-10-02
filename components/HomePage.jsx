@@ -1,8 +1,13 @@
 import React from 'react'
-
+import Movies from '@/scene/movies/Movies'
+import Link from 'next/Link'
 function HomePage() {
   return (
-    <div className='app'>HomePage0</div>
+    <><div className='app'>HomePage0</div>
+      <Movies/>
+      <Link href="/testing">Original</Link>
+    </>
+    
   )
 }
 
