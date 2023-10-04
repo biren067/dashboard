@@ -83,6 +83,7 @@
       ],
       "Music by": [
          "Sanchit Balhara",
+         "-",
          "Ankit Balhara"
       ],
       "Productioncompany": [
@@ -179,7 +180,9 @@
          "Pritam"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\"><link href=\"mw-data:TemplateStyles:r1126788409\" rel=\"mw-deduplicated-inline-style\"/><div class=\"plainlist\"><ul><li>Viacom18 Studios</li></ul></div></td>",
+      "Distributed by": [
+         "Viacom18 Studios"
+      ],
       "Release date": "28 July 2023",
       "Running time": "168 minutes",
       "Country": [
@@ -222,12 +225,17 @@
       ],
       "Music by": [
          "Sanchit Balhara",
-         "Ankit Balhara"
+         "Ankit Balhara",
+         "Ajay-Atul"
       ],
       "Productioncompany": "None",
       "Distributed by": [
          "AA Films",
-         "KRG Studios"
+         "(Hindi)",
+         "UV Creations (Telugu)",
+         "People Media Factory (Telugu)",
+         "KRG Studios",
+         "(Kannada)"
       ],
       "Release date": "16 June 2023",
       "Running time": "179 minutes",
@@ -267,7 +275,9 @@
          "Viresh Sreevalsa",
          "Bishakh Jyoti"
       ],
-      "Productioncompany": "<td class=\"infobox-data\"><div style=\"vertical-align: middle;\">Sunshine Pictures<sup class=\"reference\" id=\"cite_ref-:2_1-0\"><a href=\"#cite_note-:2-1\">[1]</a></sup></div></td>",
+      "Productioncompany": [
+         "Sunshine Pictures"
+      ],
       "Distributed by": "None",
       "Release date": "5 May 2023",
       "Running time": "138 minutes",
@@ -313,7 +323,9 @@
          "Sandesh Shandilya"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\">Viacom18 Studios</td>",
+      "Distributed by": [
+         "Viacom18 Studios"
+      ],
       "Release date": "11 August 2023",
       "Running time": "155 minutes",
       "Country": [
@@ -633,14 +645,18 @@
       ],
       "Music by": [
          "Mangesh Dhakde",
+         "Rohan-Rohan",
          "Akhil Sachdeva",
+         "Rohan-Rohan",
          "Sumeet Bellary",
          "Durgesh R Rajbhatt"
       ],
       "Productioncompany": [
          "RSVP Movies"
       ],
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/ZEE5\" title=\"ZEE5\">ZEE5</a></td>",
+      "Distributed by": [
+         "ZEE5"
+      ],
       "Release date": "20 January 2023",
       "Running time": "116 minutes",
       "Country": [
@@ -662,7 +678,9 @@
       ],
       "Dialogues by": "None",
       "Story by": "None",
-      "Produced by": "<td class=\"infobox-data\">Manila Santoshi<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\">[1]</a></sup></td>",
+      "Produced by": [
+         "Manila Santoshi"
+      ],
       "Starring": [
          "Deepak Antani",
          "Chinmay Mandlekar",
@@ -777,7 +795,9 @@
       "Productioncompany": "None",
       "Distributed by": [
          "AA Films",
-         "Reliance Entertainment"
+         "(India)",
+         "Reliance Entertainment",
+         "(International)"
       ],
       "Release date": "15 October 2022",
       "Running time": "None",
@@ -792,7 +812,9 @@
       "id": 19,
       "title": "Shiv Shastri Balboa",
       "poster_link": "None",
-      "Directed by": "None",
+      "Directed by": [
+         "Ajayan Venugopalan"
+      ],
       "Screenplay by": "None",
       "Dialogues by": "None",
       "Story by": "None",
@@ -864,7 +886,9 @@
       "Productioncompany": [
          "Zee Studios"
       ],
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/ZEE5\" title=\"ZEE5\">ZEE5</a></td>",
+      "Distributed by": [
+         "ZEE5"
+      ],
       "Release date": "16 February 2023",
       "Running time": "124 minutes",
       "Country": [
@@ -963,6 +987,7 @@
          "Tanishk Bagchi",
          "Yo Yo Honey Singh",
          "The PropheC",
+         "Lijo George-DJ Chetas",
          "Vikram Montrose",
          "Aditya Yadav",
          "Tarun"
@@ -1016,7 +1041,9 @@
       "Productioncompany": [
          "Synchron Entertainment"
       ],
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/Disney%2B_Hotstar\" title=\"Disney+ Hotstar\">Disney+ Hotstar</a></td>",
+      "Distributed by": [
+         "Disney+ Hotstar"
+      ],
       "Release date": "24 February 2023",
       "Running time": "124 minutes",
       "Country": [
@@ -1060,7 +1087,9 @@
          "Alan Demoss"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/Disney%2B_Hotstar\" title=\"Disney+ Hotstar\">Disney+ Hotstar</a></td>",
+      "Distributed by": [
+         "Disney+ Hotstar"
+      ],
       "Release date": "3 March 2023",
       "Running time": "132 minutes",
       "Country": [
@@ -1074,7 +1103,9 @@
       "id": 25,
       "title": "InCar",
       "poster_link": "None",
-      "Directed by": "None",
+      "Directed by": [
+         "Harsh Warrdhan"
+      ],
       "Screenplay by": [
          "Harsh Warrdhan"
       ],
@@ -1182,7 +1213,9 @@
          "Hitesh Sonik"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/Viacom18_Studios\" title=\"Viacom18 Studios\">Viacom18 Studios</a></td>",
+      "Distributed by": [
+         "Viacom18 Studios"
+      ],
       "Release date": "None",
       "Running time": "104 minutes",
       "Country": [
@@ -1196,7 +1229,9 @@
       "id": 29,
       "title": "Am I Next",
       "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/0/0f/Am_I_Next_film.jpg/220px-Am_I_Next_film.jpg",
-      "Directed by": "<td class=\"infobox-data\">Rahat Kazmi<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\">[1]</a></sup></td>",
+      "Directed by": [
+         "Rahat Kazmi"
+      ],
       "Screenplay by": "None",
       "Dialogues by": "None",
       "Story by": [
@@ -1214,13 +1249,19 @@
          "Tariq Khan",
          "Ahmer Haider"
       ],
-      "Cinematography": "<td class=\"infobox-data\">Luxmi Chand<sup class=\"reference\" id=\"cite_ref-:0_2-0\"><a href=\"#cite_note-:0-2\">[2]</a></sup></td>",
-      "Edited by": "<td class=\"infobox-data\">Rahat Kazmi<sup class=\"reference\" id=\"cite_ref-:0_2-1\"><a href=\"#cite_note-:0-2\">[2]</a></sup></td>",
+      "Cinematography": [
+         "Luxmi Chand"
+      ],
+      "Edited by": [
+         "Rahat Kazmi"
+      ],
       "Music by": [
          "Tuhin K Biswas"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/ZEE5\" title=\"ZEE5\">ZEE5</a><sup class=\"reference\" id=\"cite_ref-3\"><a href=\"#cite_note-3\">[3]</a></sup></td>",
+      "Distributed by": [
+         "ZEE5"
+      ],
       "Release date": "17 March 2023",
       "Running time": "85 minutes",
       "Country": [
@@ -1348,11 +1389,14 @@
       ],
       "Edited by": "None",
       "Music by": [
+         "Sachin-Jigar",
          "Shabbir Ahmed",
          "Rachita Arora"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/ZEE5\" title=\"ZEE5\">ZEE5</a></td>",
+      "Distributed by": [
+         "ZEE5"
+      ],
       "Release date": "24 March 2023",
       "Running time": "116 minutes",
       "Country": [
@@ -1402,7 +1446,8 @@
       "Productioncompany": "None",
       "Distributed by": [
          "Panorama Studios",
-         "PVR Pictures"
+         "PVR Pictures",
+         "(Worldwide)"
       ],
       "Release date": "30 March 2023",
       "Running time": "144 minutes",
@@ -1442,7 +1487,9 @@
          "Gaurav Chatterji"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/Disney%2B_Hotstar\" title=\"Disney+ Hotstar\">Disney+ Hotstar</a></td>",
+      "Distributed by": [
+         "Disney+ Hotstar"
+      ],
       "Release date": "31 March 2023",
       "Running time": "111 minutes",
       "Country": [
@@ -1542,7 +1589,9 @@
          "Abhinav Shekhar"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/ZEE5\" title=\"ZEE5\">ZEE5</a></td>",
+      "Distributed by": [
+         "ZEE5"
+      ],
       "Release date": "14 April 2023",
       "Running time": "107 minutes",
       "Country": [
@@ -1632,7 +1681,9 @@
       "Productioncompany": [
          "Balaji Telefilms"
       ],
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/ZEE5\" title=\"ZEE5\">ZEE5</a></td>",
+      "Distributed by": [
+         "ZEE5"
+      ],
       "Release date": "28 April 2023",
       "Running time": "101 minutes",
       "Country": [
@@ -1678,7 +1729,9 @@
       ],
       "Distributed by": [
          "AA Films",
-         "Reliance Entertainment"
+         "(India)",
+         "Reliance Entertainment",
+         "(International)"
       ],
       "Release date": "5 May 2023",
       "Running time": "None",
@@ -1697,6 +1750,7 @@
          "V. V. Vinayak"
       ],
       "Screenplay by": [
+         "A. Mahadev",
          "citation needed"
       ],
       "Dialogues by": [
@@ -1719,6 +1773,7 @@
          "Nizar Shafi"
       ],
       "Edited by": [
+         "Niranjan Devaramane",
          "citation needed"
       ],
       "Music by": [
@@ -1742,7 +1797,9 @@
       "id": 43,
       "title": "Music School",
       "poster_link": "None",
-      "Directed by": "None",
+      "Directed by": [
+         "Papa Rao Biyyala"
+      ],
       "Screenplay by": "None",
       "Dialogues by": "None",
       "Story by": "None",
@@ -1769,7 +1826,8 @@
       ],
       "Productioncompany": "None",
       "Distributed by": [
-         "PVR Pictures"
+         "PVR Pictures",
+         "AP International Films (International)"
       ],
       "Release date": "None",
       "Running time": "None",
@@ -1959,7 +2017,9 @@
       "Music by": [
          "Mark K. Robin"
       ],
-      "Productioncompany": "<td class=\"infobox-data\"><div style=\"vertical-align: middle;\">Studio 99</div></td>",
+      "Productioncompany": [
+         "Studio 99"
+      ],
       "Distributed by": [
          "Platoon Distribution"
       ],
@@ -2043,10 +2103,13 @@
          "Sumeet Kotian"
       ],
       "Music by": [
+         "Sangeet-Siddharth",
          "Roy"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/ZEE5\" title=\"ZEE5\">ZEE5</a></td>",
+      "Distributed by": [
+         "ZEE5"
+      ],
       "Release date": "23 May 2023",
       "Running time": "132 minutes",
       "Country": [
@@ -2106,7 +2169,9 @@
       "id": 51,
       "title": "Coat",
       "poster_link": "None",
-      "Directed by": "None",
+      "Directed by": [
+         "Akshay Ditti"
+      ],
       "Screenplay by": "None",
       "Dialogues by": "None",
       "Story by": "None",
@@ -2380,7 +2445,9 @@
          "Nawazuddin Siddiqui",
          "Avneet Kaur"
       ],
-      "Cinematography": "<td class=\"infobox-data\">Fernando Gayesky<sup class=\"reference\" id=\"cite_ref-1\"><a href=\"#cite_note-1\">[1]</a></sup></td>",
+      "Cinematography": [
+         "Fernando Gayesky"
+      ],
       "Edited by": [
          "Ballu Saluja"
       ],
@@ -2677,7 +2744,9 @@
          "Rohan Vinayak"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/ZEE5\" title=\"ZEE5\">ZEE5</a></td>",
+      "Distributed by": [
+         "ZEE5"
+      ],
       "Release date": "7 July 2023",
       "Running time": "127 minutes",
       "Country": [
@@ -2912,6 +2981,7 @@
          "Shantanu Moitra",
          "Arko Pravo Mukherjee",
          "Mago and Mayank",
+         "Kaushik-Guddu",
          "Zia",
          "Prachotosh Bhowmick",
          "Anupam Roy"
@@ -2984,11 +3054,15 @@
       "id": 71,
       "title": "Ajmer 92",
       "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/3/39/Ajmer_92.jpg/220px-Ajmer_92.jpg",
-      "Directed by": "<td class=\"infobox-data\">Pushpendra Singh <sup class=\"reference\" id=\"cite_ref-IMDb_2023_1-0\"><a href=\"#cite_note-IMDb_2023-1\">[1]</a></sup></td>",
+      "Directed by": [
+         "Pushpendra Singh"
+      ],
       "Screenplay by": "None",
       "Dialogues by": "None",
       "Story by": "None",
-      "Produced by": "<td class=\"infobox-data\">Umesh Kumar Tiwari<sup class=\"reference\" id=\"cite_ref-2\"><a href=\"#cite_note-2\">[2]</a></sup></td>",
+      "Produced by": [
+         "Umesh Kumar Tiwari"
+      ],
       "Starring": [
          "Karan Verma",
          "Sumit Singh",
@@ -3066,11 +3140,17 @@
       "id": 74,
       "title": "Panch Kriti Five Elements",
       "poster_link": "None",
-      "Directed by": "None",
+      "Directed by": [
+         "Sannjoy Bhargv"
+      ],
       "Screenplay by": "None",
       "Dialogues by": "None",
-      "Story by": "<td class=\"infobox-data\">Haripriyaa Bharggav, Sannjoy Bhargv and Kumar Rakesh</td>",
-      "Produced by": "<td class=\"infobox-data\">Haripriyaa Bharggav, Sannjoy Bhargv</td>",
+      "Story by": [
+         "Haripriyaa Bharggav, Sannjoy Bhargv and Kumar Rakesh"
+      ],
+      "Produced by": [
+         "Haripriyaa Bharggav, Sannjoy Bhargv"
+      ],
       "Starring": [
          "Brijendra Kala",
          "Tanmay Chaturvedi",
@@ -3086,7 +3166,9 @@
       "Cinematography": [
          "Yogendra Tripathi"
       ],
-      "Edited by": "<td class=\"infobox-data\">Sunil Yadav, Arun Yadav</td>",
+      "Edited by": [
+         "Sunil Yadav, Arun Yadav"
+      ],
       "Music by": "None",
       "Productioncompany": [
          "Ubon Vision Pvt Ltd"
@@ -3407,7 +3489,9 @@
          "Aalaap Majgavkar",
          "Raunak Phadnis"
       ],
-      "Music by": "<td class=\"infobox-data\">Saurabh-Vaibhav</td>",
+      "Music by": [
+         "Saurabh-Vaibhav"
+      ],
       "Productioncompany": "None",
       "Distributed by": "<td class=\"infobox-data\">M. Ramesh\u2019s Lakshmi Ganapathy Films Studios</td>",
       "Release date": "1 September 2023",
@@ -3446,11 +3530,15 @@
       "Edited by": [
          "Tanya Chhabria"
       ],
-      "Music by": "<td class=\"infobox-data\"><a href=\"/wiki/Rohan-Rohan\" title=\"Rohan-Rohan\">Rohan-Rohan</a></td>",
+      "Music by": [
+         "Rohan-Rohan"
+      ],
       "Productioncompany": [
          "Zee Studios"
       ],
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/ZEE5\" title=\"ZEE5\">ZEE5</a></td>",
+      "Distributed by": [
+         "ZEE5"
+      ],
       "Release date": "7 September 2023",
       "Running time": "None",
       "Country": [
@@ -3491,6 +3579,7 @@
          "Urvashi Saxena"
       ],
       "Music by": [
+         "Sachin-Jigar",
          "Clinton Cerejo"
       ],
       "Productioncompany": "None",
@@ -3583,6 +3672,7 @@
       "Music by": [
          "Karan Kulkarni",
          "Badshah",
+         "- Hiten",
          "Arko"
       ],
       "Productioncompany": "None",
@@ -3642,7 +3732,7 @@
          "India"
       ],
       "Language": "Hindi",
-      "Budget": "\u20b910 crore",
+      "Budget": "\u20b920 crore",
       "Box office": "\u20b95.74 crore"
    },
    {
@@ -3727,7 +3817,9 @@
          "Ananya Purkayastha"
       ],
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\"><a href=\"/wiki/Disney%2B_Hotstar\" title=\"Disney+ Hotstar\">Disney+ Hotstar</a></td>",
+      "Distributed by": [
+         "Disney+ Hotstar"
+      ],
       "Release date": "29 September 2023",
       "Running time": "132 minutes",
       "Country": [
@@ -3837,7 +3929,8 @@
          "Deepak Kingrani"
       ],
       "Story by": [
-         "Deepak Kingrani"
+         "Deepak Kingrani",
+         "Poonam Gill (Idea)"
       ],
       "Produced by": [
          "Vashu Bhagnani",
@@ -3857,6 +3950,7 @@
       ],
       "Music by": [
          "Satinder Sartaaj",
+         "Prem-Hardeep",
          "Arko",
          "Vishal Mishra",
          "Gaurav Chatterji",
@@ -3928,7 +4022,9 @@
       "id": 97,
       "title": "Yaatris",
       "poster_link": "None",
-      "Directed by": "None",
+      "Directed by": [
+         "Harish Vyas"
+      ],
       "Screenplay by": "None",
       "Dialogues by": "None",
       "Story by": "None",
@@ -3996,7 +4092,9 @@
       ],
       "Music by": "None",
       "Productioncompany": "None",
-      "Distributed by": "<td class=\"infobox-data\">Viacom18 Studios</td>",
+      "Distributed by": [
+         "Viacom18 Studios"
+      ],
       "Release date": "13 October 2023",
       "Running time": "None",
       "Country": [
@@ -4030,7 +4128,9 @@
       "Edited by": [
          "Suraj Gunjal"
       ],
-      "Music by": "<td class=\"infobox-data\"><a href=\"/wiki/Indian_Ocean_(band)\" title=\"Indian Ocean (band)\">Indian Ocean (band)</a></td>",
+      "Music by": [
+         "Indian Ocean (band)"
+      ],
       "Productioncompany": [
          "Platoon One Films"
       ],
@@ -4078,7 +4178,8 @@
          "Vishal Mishra",
          "Amit Trivedi",
          "White Noise Studios",
-         "Dr. Zeus"
+         "Dr. Zeus",
+         "Salim-Sulaiman"
       ],
       "Productioncompany": "None",
       "Distributed by": [
@@ -4134,7 +4235,8 @@
          "Manan Bhardwaj",
          "Khaalif",
          "Rahim Shah",
-         "Yo Yo Honey Singh"
+         "Yo Yo Honey Singh",
+         "JAM8"
       ],
       "Productioncompany": "None",
       "Distributed by": [
@@ -4234,7 +4336,9 @@
       "Directed by": [
          "Maneesh Sharma"
       ],
-      "Screenplay by": "<td class=\"infobox-data\">Shridhar Raghavan <link href=\"mw-data:TemplateStyles:r1066479718\" rel=\"mw-deduplicated-inline-style\"/></td>",
+      "Screenplay by": [
+         "Shridhar Raghavan"
+      ],
       "Dialogues by": [
          "Anckur Chaudhry"
       ],
@@ -4385,7 +4489,9 @@
       "id": 107,
       "title": "Sam Bahadur",
       "poster_link": "None",
-      "Directed by": "None",
+      "Directed by": [
+         "Meghna Gulzar"
+      ],
       "Screenplay by": "None",
       "Dialogues by": "None",
       "Story by": "None",
@@ -4410,6 +4516,7 @@
       ],
       "Distributed by": [
          "Zee Studios",
+         "(International)",
          "Pen Marudhar Entertainment"
       ],
       "Release date": "None",
@@ -4579,7 +4686,9 @@
       "Productioncompany": "None",
       "Distributed by": [
          "Pen Marudhar Entertainment",
-         "Yash Raj Films"
+         "(North India)",
+         "Yash Raj Films",
+         "(overseas)"
       ],
       "Release date": "21 December 2023",
       "Running time": "None",

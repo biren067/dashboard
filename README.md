@@ -21,3 +21,7 @@ npm i @nivo/geo
 npm i react-table
 npm install react-youtube
 use TailWindshade extension
+
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyDOWBiCcn_vdv-sHWPKJMOzZkyyzBaYCvU&q=One+Friday+Night+Official+Trailer&regionCode=in
+
+https://www.youtube.com/watch?v=D5oswSO9y-k

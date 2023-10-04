@@ -1,8 +1,36 @@
+
+
 import React from 'react'
+import Link from 'next/link'
+import { useRouter } from 'next/router';
+import styles from '@/styles/Header.module.css'; // Import your CSS module
 
 function Header() {
+  const router = useRouter();
+
+  // Function to determine if a link should be marked as active
+  const isLinkActive = (href) => router.pathname === href;
+
   return (
-    <div>Changed Header</div>
+    <>
+      <div className='flex justify-between items-center w-full py-3 bg-blue-900 text-cyan-300  z-50'>
+
+        <div className='flex justify-center items-center gap-5 mx-auto'>
+          <div className={isLinkActive('/') ? `${styles.menu}` : ''}>
+            <Link href='/'>Movies</Link>
+          </div>
+          <div className={isLinkActive('/recent_bollywood') ? `${styles.menu}` : ''}>
+            <Link href='/recent_bollywood'>Recent Movies</Link>
+          </div>
+          <div className={isLinkActive('/upcoming_bollywood') ? `${styles.menu}` : ''}>
+            <Link href='/upcoming_bollywood'>Upcoming Movies</Link>
+          </div>
+          <div className={isLinkActive('/movie_database') ? `${styles.menu}` : ''}>
+            <Link href='/movie_database'>Movies Database</Link></div>
+
+        </div>
+      </div>
+    </>
   )
 }
 

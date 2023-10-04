@@ -1,0 +1,99 @@
+.image_container{
+padding: auto;
+}
+.image_container:hover .image {
+    transform: scale(2.1);
+    margin: auto;
+    
+    z-index: 3;
+}
+
+
+.table-row:hover {
+    z-index: 2;
+}
+
+.table-row {
+    position: relative;
+    padding: auto;
+}
+.image {
+    max-width: 50px;
+    height: 50px;
+    transition: transform .5s ease-in-out;
+}
+
+
+.moviedatabase__container {
+    max-height: 500px;
+    overflow-y: auto;
+    overflow-x: auto;
+    margin: 3px 10px;
+}
+
+.moviedatabase{
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        /* font-family: Arial, Helvetica, sans-serif; */
+            /* border-collapse: collapse; */
+}
+.moviedatabase__search{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.moviedatabase_row{
+    vertical-align: center;
+    /* height: 30px; */
+        /* Set a fixed height for the cells (adjust as needed) */
+        white-space: nowrap;
+        /* Prevent text from wrapping to the next line */
+        /* overflow: hidden; */
+        /* Hide content that overflows the cell */
+        /* text-overflow: ellipsis; */
+        /* Add ellipsis (...) for truncated text */
+}
+.moviedatabase__columnCell {
+    max-width: 200px;
+    /* Set a fixed width for the column (adjust as needed) */
+    white-space: nowrap;
+    /* Prevent text from wrapping to the next line */
+    overflow: hidden;
+    /* Hide content that overflows the cell */
+    text-overflow: ellipsis;
+    /* Add an ellipsis (...) for truncated text */
+}
+.moviedatabase__table{
+    /* width: 100%; */
+        table-layout: fixed;
+    /* margin:10px;  */
+    /* width: 800px; */
+    /* border-radius: 3px;
+    border:1px solid blue; */
+}
+.moviedatabase__header{
+    background-color: rgb(66, 66, 205);
+    position: sticky;
+    border-top: 1px solid #4a92f6;
+    top:0;
+    /* margin-top: 0    ; */
+    z-index: 100;
+}
+
+.moviedatabase__body{
+
+    border-top: 1px solid #4a92f6;
+}
+
+.moviedatabase td, .moviedatabase th {
+    border: 1px solid #4a92f6;
+    padding: 8px;
+}
+.moviedatabase th {
+    /* position: fixed; */
+}
+.moviedatabase_row:hover{
+    background-color: #172b47;
+    cursor: pointer;
+}

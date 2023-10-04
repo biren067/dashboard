@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import HomePage from '@/components/HomePage'
-import Testing from '@/components/Testing'
+import MainPage from '@/components/MainPage'
+// import Testing from '@/components/Testing'
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import { ColorModeContext, useMode } from '../themes'
 // import MovieTable from '@/components/MovieTable'
@@ -8,14 +9,16 @@ import { ColorModeContext, useMode } from '../themes'
 export default function Home() {
   const [theme, colorMode] = useMode();
   return (
-    <ColorModeContext.Provider value={colorMode}>
-      <ThemeProvider theme={theme}>
-        <CssBaseline />
-        <HomePage/>
+    <>
+    {/* <ColorModeContext.Provider value={colorMode}> */}
+      {/* <ThemeProvider theme={theme}> */}
+        {/* <CssBaseline /> */}
+        {/* <HomePage/> */}
         {/* <MovieTable/> */}
-        <Testing/>
-        </ThemeProvider>
-    </ColorModeContext.Provider>
-
+        {/* bond */}
+        <MainPage/>
+        {/* </ThemeProvider> */}
+    {/* </ColorModeContext.Provider> */}
+    </>
   )
 }

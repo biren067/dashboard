@@ -1,0 +1,16 @@
+.info{
+    color:white;
+    width: 100%;
+}
+.info_video{
+    padding: 2px;
+    max-width: 400px;
+    max-height: 800px;
+}
+.info_content{
+    border: 1px solid #4a92f6;;
+}
+.info_table{
+    display: flex;
+    
+}

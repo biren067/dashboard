@@ -27,6 +27,7 @@
 import React from 'react';
 import YouTube from 'react-youtube';
 import Modal from 'react-modal';
+import {AiFillCloseCircle} from 'react-icons/ai'
 
 Modal.setAppElement('#__next');
 
@@ -44,22 +45,25 @@ const YouTubePopup = ({ isOpen, videoId, onClose }) => {
     event.target.playVideo();
   };
 
+  const closeYouTube = (event)=>{
+    // event.target.closeVideo();
+    onClose()
+  }
   return (
-    <>bond{isOpen?'bond1':'bond2'}
+    <div className=''>
     <Modal
       isOpen={isOpen}
       onRequestClose={onClose}
       className="modal"
       overlayClassName="overlay"
     >
-      <div className="popup">
-        <YouTube videoId={videoId} opts={opts} onReady={onReady} />
-        <button onClick={onClose} className="close-button">
-          Close
-        </button>
+      <div className="popup z-10" >
+      <AiFillCloseCircle onClick={onClose} className=" cursor-pointer text-red-600 text-lg" size={50} />
+        <YouTube videoId={videoId} opts={opts} onReady={onReady} onEnd={closeYouTube} />
+        
       </div>
     </Modal>
-    </>
+    </div>
   );
 };
 
