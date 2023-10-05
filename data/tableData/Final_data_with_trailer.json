@@ -1,4 +1,4 @@
- const movieData = [
+[
     {
         "id": 1,
         "title": "Jawan",
@@ -5455,6 +5455,3 @@
         ]
     }
 ]
-
-
-export  default movieData;

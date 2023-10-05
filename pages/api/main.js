@@ -1,4 +1,5 @@
-import movieData from '@/data/tableData/movieDataOrg'
+// import movieData from '@/data/tableData/movieDataOrg'
+import movieData from '@/data/tableData/movieData'
 
 // ###################### Current Date ################
 function getCurrentDate() {

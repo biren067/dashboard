@@ -1,6 +1,7 @@
 // import data from '@/data/tableData/List_of_movies_in_2023_new.json'
-import movieData from '@/data/tableData/movieDataOrg'
+// import movieData from '@/data/tableData/movieDataOrg'
 
+import movieData from '@/data/tableData/movieData'
 // ###################### Current Date ################
 
 
