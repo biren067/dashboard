@@ -3,20 +3,20 @@
         "id": 1,
         "title": "Jawan",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/3/39/Jawan_film_poster.jpg/220px-Jawan_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Atlee"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Atlee",
             "S. Ramanagirivasan"
         ],
-        "Dialogues by": [
+        "dialogues_by": [
             "Sumit Arora"
         ],
-        "Story by": [
+        "story_by": [
             "Atlee"
         ],
-        "Produced by": [
+        "produced_by": [
             "Gauri Khan",
             "Gaurav Verma"
         ],
@@ -25,29 +25,29 @@
             "Nayanthara",
             "Vijay Sethupathi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "G. K. Vishnu"
         ],
-        "Edited by": [
+        "edited_by": [
             "Ruben"
         ],
-        "Music by": [
+        "music_by": [
             "Anirudh Ravichander"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Red Chillies Entertainment"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "see below"
         ],
         "release_date": "2023-09-07",
-        "Running time": "169 minutes",
-        "Country": [
+        "running_time": "169 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b9300 crore",
-        "Box office": "\u20b91,090.89 crore",
+        "language": "Hindi",
+        "budget": "\u20b9300 crore",
+        "box_office": "\u20b91,090.89 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=COv52Qyctws",
             "https://www.youtube.com/watch?v=Ua1jWmGNw9g",
@@ -60,19 +60,19 @@
         "id": 2,
         "title": "Pathaan",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Siddharth Anand"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Shridhar Raghavan"
         ],
-        "Dialogues by": [
+        "dialogues_by": [
             "Abbas Tyrewala"
         ],
-        "Story by": [
+        "story_by": [
             "Siddharth Anand"
         ],
-        "Produced by": [
+        "produced_by": [
             "Aditya Chopra"
         ],
         "starring": [
@@ -82,31 +82,31 @@
             "Dimple Kapadia",
             "Ashutosh Rana"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Satchith Paulose"
         ],
-        "Edited by": [
+        "edited_by": [
             "Aarif Sheikh"
         ],
-        "Music by": [
+        "music_by": [
             "Sanchit Balhara",
             "-",
             "Ankit Balhara"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Yash Raj Films"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Yash Raj Films"
         ],
         "release_date": "2023-01-25",
-        "Running time": "146 minutes",
-        "Country": [
+        "running_time": "146 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b9225 crore",
-        "Box office": "\u20b91,050.30 crore",
+        "language": "Hindi",
+        "budget": "\u20b9225 crore",
+        "box_office": "\u20b91,050.30 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=vqu4z34wENw",
             "https://www.youtube.com/watch?v=COv52Qyctws",
@@ -119,13 +119,13 @@
         "id": 3,
         "title": "Gadar 2",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/6/62/Gadar_2_film_poster.jpg/220px-Gadar_2_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Anil Sharma"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Anil Sharma",
             "Kamal Mukut"
         ],
@@ -137,30 +137,30 @@
             "Manish Wadhwa",
             "Simrat Kaur"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Najeeb Khan"
         ],
-        "Edited by": [
+        "edited_by": [
             "Ashfaque Makrani",
             "Sanjay Sankla",
             "Vishal Kumar"
         ],
-        "Music by": [
+        "music_by": [
             "Mithoon",
             "Monty Sharma"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Zee Studios"
         ],
         "release_date": "2023-08-11",
-        "Running time": "170 minutes",
-        "Country": [
+        "running_time": "170 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b960 crore",
-        "Box office": "\u20b9690.54 crore",
+        "language": "Hindi",
+        "budget": "\u20b960 crore",
+        "box_office": "\u20b9690.54 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=vhwr4vc_GY0",
             "https://www.youtube.com/watch?v=2nK6WBcGPOw",
@@ -173,13 +173,13 @@
         "id": 4,
         "title": "Rocky Aur Rani Kii Prem Kahaani",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/6/65/Rocky_Aur_Rani_Ki_Prem_Kahani.jpg/220px-Rocky_Aur_Rani_Ki_Prem_Kahani.jpg",
-        "Directed by": [
+        "directed_by": [
             "Karan Johar"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Hiroo Yash Johar",
             "Karan Johar",
             "Apoorva Mehta"
@@ -191,27 +191,27 @@
             "Ranveer Singh",
             "Alia Bhatt"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Manush Nandan"
         ],
-        "Edited by": [
+        "edited_by": [
             "Nitin Baid"
         ],
-        "Music by": [
+        "music_by": [
             "Pritam"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Viacom18 Studios"
         ],
         "release_date": "2023-07-28",
-        "Running time": "168 minutes",
-        "Country": [
+        "running_time": "168 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b9160 crore",
-        "Box office": "\u20b9355.61 crore",
+        "language": "Hindi",
+        "budget": "\u20b9160 crore",
+        "box_office": "\u20b9355.61 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=6mdxy3zohEk",
             "https://www.youtube.com/watch?v=87JIOAX3njM",
@@ -225,13 +225,13 @@
         "id": 5,
         "title": "Adipurush",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Adipurush_poster.jpeg/220px-Adipurush_poster.jpeg",
-        "Directed by": [
+        "directed_by": [
             "Om Raut"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Bhushan Kumar",
             "Krishan Kumar",
             "Om Raut",
@@ -245,20 +245,20 @@
             "Sunny Singh",
             "Devdatta Nage"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Karthik Palani"
         ],
-        "Edited by": [
+        "edited_by": [
             "Apurva Motiwale",
             "Ashish Mhatre"
         ],
-        "Music by": [
+        "music_by": [
             "Sanchit Balhara",
             "Ankit Balhara",
             "Ajay-Atul"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "AA Films",
             "(Hindi)",
             "UV Creations (Telugu)",
@@ -267,13 +267,13 @@
             "(Kannada)"
         ],
         "release_date": "2023-06-16",
-        "Running time": "179 minutes",
-        "Country": [
+        "running_time": "179 minutes",
+        "country": [
             "India"
         ],
-        "Language": "None",
-        "Budget": "\u20b9500\u2013700 crore",
-        "Box office": "\u20b9353\u2013450 crore",
+        "language": "None",
+        "budget": "\u20b9500\u2013700 crore",
+        "box_office": "\u20b9353\u2013450 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=scNmYjoR-qM",
             "https://www.youtube.com/watch?v=X7lRGozX8KQ",
@@ -286,13 +286,13 @@
         "id": 6,
         "title": "The Kerala Story",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/d/d0/The_Kerala_Story_poster.jpg/220px-The_Kerala_Story_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sudipto Sen"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Vipul Amrutlal Shah"
         ],
         "starring": [
@@ -301,28 +301,28 @@
             "Sonia Balani",
             "Siddhi Idnani"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Prasantanu Mohapatra"
         ],
-        "Edited by": [
+        "edited_by": [
             "Sanjay Sharma"
         ],
-        "Music by": [
+        "music_by": [
             "Viresh Sreevalsa",
             "Bishakh Jyoti"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Sunshine Pictures"
         ],
-        "Distributed by": "None",
+        "distributed_by": "None",
         "release_date": "2023-05-05",
-        "Running time": "138 minutes",
-        "Country": [
+        "running_time": "138 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b915\u201320 crore",
-        "Box office": "\u20b9303.97 crore",
+        "language": "Hindi",
+        "budget": "\u20b915\u201320 crore",
+        "box_office": "\u20b9303.97 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=3Jk3vquJDGs",
             "https://www.youtube.com/watch?v=vZDjsGlrNfw",
@@ -335,13 +335,13 @@
         "id": 7,
         "title": "OMG 2",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/5/56/OMG_2_%E2%80%93_Oh_My_God%21_2_poster.jpg/220px-OMG_2_%E2%80%93_Oh_My_God%21_2_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Amit Rai"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Aruna Bhatia",
             "Vipul D. Shah",
             "Rajesh Bahl",
@@ -352,31 +352,31 @@
             "Pankaj Tripathi",
             "Yami Gautam Dhar"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Amalendu Chaudhary"
         ],
-        "Edited by": [
+        "edited_by": [
             "Suvir Nath"
         ],
-        "Music by": [
+        "music_by": [
             "Vikram Montrose",
             "Hansraj Raghuwanshi",
             "Djstrings",
             "Pranaay",
             "Sandesh Shandilya"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Viacom18 Studios"
         ],
         "release_date": "2023-08-11",
-        "Running time": "155 minutes",
-        "Country": [
+        "running_time": "155 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b950 crore",
-        "Box office": "\u20b9221.08 crore",
+        "language": "Hindi",
+        "budget": "\u20b950 crore",
+        "box_office": "\u20b9221.08 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=Y6ZKXqM7HNQ",
             "https://www.youtube.com/watch?v=xZ1FXdIGf9Q",
@@ -389,15 +389,15 @@
         "id": 8,
         "title": "Tu Jhoothi Main Makkaar",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/b6/Tu_Jhoothi_Main_Makkaar_Title_Card.jpeg/220px-Tu_Jhoothi_Main_Makkaar_Title_Card.jpeg",
-        "Directed by": [
+        "directed_by": [
             "Luv Ranjan"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Luv Ranjan"
         ],
-        "Produced by": [
+        "produced_by": [
             "Luv Ranjan",
             "Ankur Garg"
         ],
@@ -405,29 +405,29 @@
             "Ranbir Kapoor",
             "Shraddha Kapoor"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Santhana Krishnan Ravichandran"
         ],
-        "Edited by": [
+        "edited_by": [
             "Akiv Ali",
             "Chetan M. Solanki"
         ],
-        "Music by": [
+        "music_by": [
             "Pritam",
             "Hitesh Sonik"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Yash Raj Films"
         ],
         "release_date": "2023-03-08",
-        "Running time": "164 minutes",
-        "Country": [
+        "running_time": "164 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b9200 crore",
-        "Box office": "\u20b9220.10 crore",
+        "language": "Hindi",
+        "budget": "\u20b9200 crore",
+        "box_office": "\u20b9220.10 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=Cx_Dtwn4ayw",
             "https://www.youtube.com/watch?v=2yeRRm9AIxI",
@@ -440,13 +440,13 @@
         "id": 9,
         "title": "Kisi Ka Bhai Kisi Ki Jaan",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/8/86/Kisi_Ka_Bhai_Kisi_Ki_Jaan_poster.jpg/220px-Kisi_Ka_Bhai_Kisi_Ki_Jaan_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Farhad Samji"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Salma Khan"
         ],
         "starring": [
@@ -454,13 +454,13 @@
             "Pooja Hegde",
             "Venkatesh"
         ],
-        "Cinematography": [
+        "cinematography": [
             "V. Manikandan"
         ],
-        "Edited by": [
+        "edited_by": [
             "Mayuresh Sawant"
         ],
-        "Music by": [
+        "music_by": [
             "Ravi Basrur",
             "Ravi Basrur",
             "Himesh Reshammiya",
@@ -470,20 +470,20 @@
             "Devi Sri Prasad",
             "Amaal Mallik"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Salman Khan Films"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Zee Studios"
         ],
         "release_date": "2023-04-21",
-        "Running time": "144 minutes",
-        "Country": [
+        "running_time": "144 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b9125 crore",
-        "Box office": "\u20b9182.44 crore",
+        "language": "Hindi",
+        "budget": "\u20b9125 crore",
+        "box_office": "\u20b9182.44 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=bsi8_9EoYyg",
             "https://www.youtube.com/watch?v=jVgAMJc4s9M",
@@ -498,13 +498,13 @@
         "id": 10,
         "title": "Dream Girl 2",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/5/57/Dream_Girl_2_film_poster.jpg/220px-Dream_Girl_2_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Raaj Shaandilyaa"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ekta Kapoor",
             "Shobha Kapoor"
         ],
@@ -515,33 +515,33 @@
             "Annu Kapoor",
             "Vijay Raaz"
         ],
-        "Cinematography": [
+        "cinematography": [
             "C. K. Muraleedharan",
             "Jitan Harmeet Singh"
         ],
-        "Edited by": [
+        "edited_by": [
             "Hemal Kothari"
         ],
-        "Music by": [
+        "music_by": [
             "Hitesh Sonik",
             "Meet Bros",
             "Tanishk Bagchi",
             "Arko"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Balaji Motion Pictures"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Pen Marudhar Entertainment"
         ],
         "release_date": "2023-08-25",
-        "Running time": "134 minutes",
-        "Country": [
+        "running_time": "134 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b935 crore",
-        "Box office": "\u20b9140.26 crore",
+        "language": "Hindi",
+        "budget": "\u20b935 crore",
+        "box_office": "\u20b9140.26 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=dlC1tNsr-n8",
             "https://www.youtube.com/watch?v=ATWWmFU-xLk",
@@ -554,13 +554,13 @@
         "id": 11,
         "title": "Kuttey",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/5/54/Kuttey_film_poster.jpg/220px-Kuttey_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Aasmaan Bhardwaj"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Vishal Bhardwaj",
             "Luv Ranjan",
             "Ankur Garg"
@@ -574,27 +574,27 @@
             "Kumud Mishra",
             "Shardul Bhardwaj"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Farhad Ahmed Dehlvi"
         ],
-        "Edited by": [
+        "edited_by": [
             "A. Sreekar Prasad"
         ],
-        "Music by": [
+        "music_by": [
             "Vishal Bhardwaj"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Yash Raj Films"
         ],
         "release_date": "2023-01-13",
-        "Running time": "108 minutes",
-        "Country": [
+        "running_time": "108 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b935 crore",
-        "Box office": "\u20b94.65 crore",
+        "language": "Hindi",
+        "budget": "\u20b935 crore",
+        "box_office": "\u20b94.65 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=76BhvV8ihRM",
             "https://www.youtube.com/watch?v=B3gQ31_Kbvs",
@@ -607,13 +607,13 @@
         "id": 12,
         "title": "Lakadbaggha",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/8/84/Lakadbaggha_official_poster.jpg/220px-Lakadbaggha_official_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Victor Mukherjee"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "First Ray Films"
         ],
         "starring": [
@@ -622,27 +622,27 @@
             "Paresh Pahuja",
             "Milind Soman"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Jean Marc Selva"
         ],
-        "Edited by": [
+        "edited_by": [
             "Aasif Pathan"
         ],
-        "Music by": [
+        "music_by": [
             "Simon Fransquet"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "First Ray Films"
         ],
-        "Distributed by": "None",
+        "distributed_by": "None",
         "release_date": "2023-01-13",
-        "Running time": "125 minutes",
-        "Country": [
+        "running_time": "125 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=hep-UIKFg_Y",
             "https://www.youtube.com/watch?v=MN8kWwqnzZ8",
@@ -655,16 +655,16 @@
         "id": 13,
         "title": "Mission Majnu",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/45/Mission_Majnu.jpg/220px-Mission_Majnu.jpg",
-        "Directed by": [
+        "directed_by": [
             "Shantanu Bagchi"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Parveez Shaikh",
             "Aseem Arrora"
         ],
-        "Produced by": [
+        "produced_by": [
             "Ronnie Screwvala",
             "Amar Butala",
             "Garima Mehta"
@@ -677,32 +677,32 @@
             "Kumud Mishra",
             "Rajit Kapur"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Bijitesh De"
         ],
-        "Edited by": [
+        "edited_by": [
             "Nitin Baid",
             "Siddharth S. Pande"
         ],
-        "Music by": [
+        "music_by": [
             "Ketan Sodha",
             "Tanishk Bagchi",
             "Rochak Kohli",
             "Raghav Sachar",
             "Arko"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Netflix"
         ],
         "release_date": "2023-01-20",
-        "Running time": "129 minutes",
-        "Country": [
+        "running_time": "129 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=Gw77Nx4eBMc",
             "https://www.youtube.com/watch?v=QFf91hnpClI",
@@ -715,13 +715,13 @@
         "id": 14,
         "title": "Chhatriwali",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/e/e4/Chhatriwali_film_poster.jpg/220px-Chhatriwali_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Tejas Deoskar"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ronnie Screwvala"
         ],
         "starring": [
@@ -731,13 +731,13 @@
             "Rajesh Tailang",
             "Dolly Ahluwalia"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Siddharth Vasani"
         ],
-        "Edited by": [
+        "edited_by": [
             "Shruti Bora"
         ],
-        "Music by": [
+        "music_by": [
             "Mangesh Dhakde",
             "Rohan-Rohan",
             "Akhil Sachdeva",
@@ -745,20 +745,20 @@
             "Sumeet Bellary",
             "Durgesh R Rajbhatt"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "RSVP Movies"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "ZEE5"
         ],
         "release_date": "2023-01-20",
-        "Running time": "116 minutes",
-        "Country": [
+        "running_time": "116 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=qdBt_g2ST40",
             "https://www.youtube.com/watch?v=8Ij6dbJdv9Q",
@@ -771,15 +771,15 @@
         "id": 16,
         "title": "Gandhi Godse \u2013 Ek Yudh",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/8/86/Gandhi_Godse_-_Ek_Yudh_poster.jpg/220px-Gandhi_Godse_-_Ek_Yudh_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Rajkumar Santoshi"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Rajkumar Santoshi"
         ],
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Manila Santoshi"
         ],
         "starring": [
@@ -789,29 +789,29 @@
             "Ghanshyam Srivastav",
             "Anuj Saini"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Rishi Punjabi"
         ],
-        "Edited by": [
+        "edited_by": [
             "A. Sreekar Prasad"
         ],
-        "Music by": [
+        "music_by": [
             "A. R. Rahman"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Santoshi Productions LLP"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "PVR Pictures"
         ],
         "release_date": "2023-01-26",
-        "Running time": "110 minutes",
-        "Country": [
+        "running_time": "110 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=2xdHQPhUTJQ",
             "https://www.youtube.com/watch?v=zfRsBEm2yrQ",
@@ -824,13 +824,13 @@
         "id": 17,
         "title": "Almost Pyaar with DJ Mohabbat",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/7/73/Almost_Pyaar_with_DJ_Mohabbat_film_poster.jpg/220px-Almost_Pyaar_with_DJ_Mohabbat_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Anurag Kashyap"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Zee Studios",
             "Ranjan Singh",
             "Akshay Thakker",
@@ -844,25 +844,25 @@
             "Amber Arya",
             "Vicky Kaushal"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Sylvester Fonseca"
         ],
-        "Edited by": [
+        "edited_by": [
             "Konark Saxena"
         ],
-        "Music by": [
+        "music_by": [
             "Amit Trivedi"
         ],
-        "Productioncompany": "None",
-        "Distributed by": "None",
+        "productioncompany": "None",
+        "distributed_by": "None",
         "release_date": "2023-02-03",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=CRdDegCYxJM",
             "https://www.youtube.com/watch?v=SbLFK5TLX2Y",
@@ -875,13 +875,13 @@
         "id": 18,
         "title": "Faraaz",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/a/a6/Faraaz_film_poster.jpg/220px-Faraaz_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Hansal Mehta"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Bhushan Kumar",
             "Krishan Kumar",
             "Anubhav Sinha",
@@ -898,30 +898,30 @@
             "Pallak Lalwani",
             "Reshham Sahaani"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Pratham Mehta"
         ],
-        "Edited by": [
+        "edited_by": [
             "Amitesh Mitesh Mukherjee"
         ],
-        "Music by": [
+        "music_by": [
             "Sameer Rahat"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "AA Films",
             "(India)",
             "Reliance Entertainment",
             "(International)"
         ],
         "release_date": "2022-10-15",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "None",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "None",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=aNvVwGAtnLg",
             "https://www.youtube.com/watch?v=MjY-bhKp3SY",
@@ -934,13 +934,13 @@
         "id": 19,
         "title": "Shiv Shastri Balboa",
         "poster_link": null,
-        "Directed by": [
+        "directed_by": [
             "Ajayan Venugopalan"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Kishore Varieth"
         ],
         "starring": [
@@ -952,25 +952,25 @@
             "Aarav Desai",
             "Anil Joseph"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Joshua Ausley"
         ],
-        "Edited by": [
+        "edited_by": [
             "Praveen Prabhakar"
         ],
-        "Music by": [
+        "music_by": [
             "Alokananda Dasgupta"
         ],
-        "Productioncompany": "None",
-        "Distributed by": "None",
+        "productioncompany": "None",
+        "distributed_by": "None",
         "release_date": "2023-02-10",
-        "Running time": "126 minutes",
-        "Country": [
+        "running_time": "126 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=8Acp006qJPQ",
             "https://www.youtube.com/watch?v=dbpOXwT1ZOs",
@@ -983,13 +983,13 @@
         "id": 20,
         "title": "Lost",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/8/81/Lost_film_poster.jpg/220px-Lost_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Aniruddha Roy Chowdhury"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Zee Studios",
             "Sam Fernandes",
             "Namah Pictures",
@@ -1003,29 +1003,29 @@
             "Pia Bajpiee",
             "Tushar Pandey"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Avik Mukhopadhyay"
         ],
-        "Edited by": [
+        "edited_by": [
             "Bodhaditya Banerjee"
         ],
-        "Music by": [
+        "music_by": [
             "Shantanu Moitra"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Zee Studios"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "ZEE5"
         ],
         "release_date": "2023-02-16",
-        "Running time": "124 minutes",
-        "Country": [
+        "running_time": "124 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=tlQ2iQIgBeQ",
             "https://www.youtube.com/watch?v=KTu8iDynwNc",
@@ -1038,17 +1038,17 @@
         "id": 21,
         "title": "Shehzada",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Shehzada_2023_film_poster.jpg/220px-Shehzada_2023_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Rohit Dhawan"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Rohit Dhawan"
         ],
-        "Dialogues by": "None",
-        "Story by": [
+        "dialogues_by": "None",
+        "story_by": [
             "Trivikram Srinivas"
         ],
-        "Produced by": [
+        "produced_by": [
             "Bhushan Kumar",
             "Krishan Kumar",
             "Aman Gill",
@@ -1062,30 +1062,30 @@
             "Paresh Rawal",
             "Manisha Koirala"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Sudeep Chatterjee",
             "Sanjay F. Gupta"
         ],
-        "Edited by": [
+        "edited_by": [
             "Ritesh Soni"
         ],
-        "Music by": [
+        "music_by": [
             "Pritam",
             "Abhijit Vaghani",
             "Julius Packiam"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "AA Films"
         ],
         "release_date": "2023-02-17",
-        "Running time": "145 minutes",
-        "Country": [
+        "running_time": "145 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b965 crore",
-        "Box office": "\u20b947.43 crore",
+        "language": "Hindi",
+        "budget": "\u20b965 crore",
+        "box_office": "\u20b947.43 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=vbSGPIS2_ao",
             "https://www.youtube.com/watch?v=9GFMdZDg6gw",
@@ -1098,13 +1098,13 @@
         "id": 22,
         "title": "Selfiee",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/3/3a/Selfiee_film.jpg/220px-Selfiee_film.jpg",
-        "Directed by": [
+        "directed_by": [
             "Raj Mehta"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Hiroo Yash Johar",
             "Aruna Bhatia",
             "Supriya Menon",
@@ -1119,13 +1119,13 @@
             "Diana Penty",
             "Nushrratt Bharuccha"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Rajeev Ravi"
         ],
-        "Edited by": [
+        "edited_by": [
             "Ritesh Soni"
         ],
-        "Music by": [
+        "music_by": [
             "Anu Malik",
             "Tanishk Bagchi",
             "Yo Yo Honey Singh",
@@ -1135,18 +1135,18 @@
             "Aditya Yadav",
             "Tarun"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Star Studios"
         ],
         "release_date": "2023-02-24",
-        "Running time": "148 minutes",
-        "Country": [
+        "running_time": "148 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b9100 crore",
-        "Box office": "\u20b923.63 crore",
+        "language": "Hindi",
+        "budget": "\u20b9100 crore",
+        "box_office": "\u20b923.63 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=lS1KScfdr70",
             "https://www.youtube.com/watch?v=aqjZj9f0ceo",
@@ -1159,17 +1159,17 @@
         "id": 23,
         "title": "Rabia and Olivia",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/5/57/Poster_of_movie_Rabia_%26_Olivia.jpeg/220px-Poster_of_movie_Rabia_%26_Olivia.jpeg",
-        "Directed by": [
+        "directed_by": [
             "Shadab Khan"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Shadab Khan"
         ],
-        "Dialogues by": "None",
-        "Story by": [
+        "dialogues_by": "None",
+        "story_by": [
             "Shadab Khan"
         ],
-        "Produced by": [
+        "produced_by": [
             "Yousef Sheikh"
         ],
         "starring": [
@@ -1178,30 +1178,30 @@
             "Mustafa Sheikh",
             "Shadab Khan"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Lenod Kogan",
             "Pankaj Kachua"
         ],
-        "Edited by": [
+        "edited_by": [
             "Prashant Panda"
         ],
-        "Music by": [
+        "music_by": [
             "Ripul Sharma"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Synchron Entertainment"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Disney+ Hotstar"
         ],
         "release_date": "2023-02-24",
-        "Running time": "124 minutes",
-        "Country": [
+        "running_time": "124 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=0wTPn5XXgjg",
             "https://www.youtube.com/watch?v=0szlqpAGZXM",
@@ -1214,13 +1214,13 @@
         "id": 24,
         "title": "Gulmohar",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/d/d5/Gulmohar_film_Poster.jpg/220px-Gulmohar_film_Poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Rahul V. Chittella"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Vikesh Bhutani",
             "Rahul Chittella",
             "Shujaat Saudagar"
@@ -1233,28 +1233,28 @@
             "Amol Palekar",
             "Kaveri Seth"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Eeshit Narain"
         ],
-        "Edited by": [
+        "edited_by": [
             "Tanupriya Sharma"
         ],
-        "Music by": [
+        "music_by": [
             "Siddhartha Khosla",
             "Alan Demoss"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Disney+ Hotstar"
         ],
         "release_date": "2023-03-03",
-        "Running time": "132 minutes",
-        "Country": [
+        "running_time": "132 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=dF-DUTR7rxY",
             "https://www.youtube.com/watch?v=7yO8bk7_Ya0",
@@ -1267,17 +1267,17 @@
         "id": 25,
         "title": "InCar",
         "poster_link": "None",
-        "Directed by": [
+        "directed_by": [
             "Harsh Warrdhan"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Harsh Warrdhan"
         ],
-        "Dialogues by": "None",
-        "Story by": [
+        "dialogues_by": "None",
+        "story_by": [
             "Harsh Warrdhan"
         ],
-        "Produced by": [
+        "produced_by": [
             "Anjum Qureshi",
             "Sajid Qureshi"
         ],
@@ -1286,27 +1286,27 @@
             "Manish Jhanjholia",
             "Sandeep Goyat"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Mithun Gangopadhyay"
         ],
-        "Edited by": [
+        "edited_by": [
             "Manik Dawar"
         ],
-        "Music by": [
+        "music_by": [
             "Mathias Duplessy"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "INBOX pictures"
         ],
         "release_date": "None",
-        "Running time": "106 minutes",
-        "Country": [
+        "running_time": "106 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=O7vZ38k9-ck",
             "https://www.youtube.com/watch?v=99RZQxUPXi0",
@@ -1319,13 +1319,13 @@
         "id": 27,
         "title": "Mrs Chatterjee vs Norway",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/5/51/Mrs_Chatterjee_Vs_Norway_film_poster.jpg/220px-Mrs_Chatterjee_Vs_Norway_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Ashima Chibber"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Monisha Advani",
             "Madhu Bhojwani",
             "Nikkhil Advani"
@@ -1336,25 +1336,25 @@
             "Neena Gupta",
             "Jim Sarbh"
         ],
-        "Cinematography": "<td class=\"infobox-data\">Alvar K\u00f5ue</td>",
-        "Edited by": [
+        "cinematography": "<td class=\"infobox-data\">Alvar K\u00f5ue</td>",
+        "edited_by": [
             "Namrata Rao"
         ],
-        "Music by": [
+        "music_by": [
             "Amit Trivedi"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Zee Studios"
         ],
         "release_date": "2023-03-17",
-        "Running time": "144 minutes",
-        "Country": [
+        "running_time": "144 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b929 crore",
-        "Box office": "\u20b936.53 crore",
+        "language": "Hindi",
+        "budget": "\u20b929 crore",
+        "box_office": "\u20b936.53 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=1Bll53fBa9U",
             "https://www.youtube.com/watch?v=GaG88xge7w0",
@@ -1367,13 +1367,13 @@
         "id": 28,
         "title": "Zwigato",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/2/27/Zwigato_poster.jpg/220px-Zwigato_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Nandita Das"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Sameer Nair",
             "Deepak Segal",
             "Nandita Das"
@@ -1382,26 +1382,26 @@
             "Kapil Sharma",
             "Shahana Goswami"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Ranjan Palit"
         ],
-        "Edited by": "None",
-        "Music by": [
+        "edited_by": "None",
+        "music_by": [
             "Sagar Desai",
             "Hitesh Sonik"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Viacom18 Studios"
         ],
         "release_date": "None",
-        "Running time": "104 minutes",
-        "Country": [
+        "running_time": "104 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "\u20b93.53 crore",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "\u20b93.53 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=RCMxX6lWJcY",
             "https://www.youtube.com/watch?v=Cvw6ohO08lU",
@@ -1414,15 +1414,15 @@
         "id": 29,
         "title": "Am I Next",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/0/0f/Am_I_Next_film.jpg/220px-Am_I_Next_film.jpg",
-        "Directed by": [
+        "directed_by": [
             "Rahat Kazmi"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Kritika Rampal"
         ],
-        "Produced by": [
+        "produced_by": [
             "Rahat Kazmi",
             "Tariq Khan",
             "Zeba Sajid"
@@ -1434,27 +1434,27 @@
             "Tariq Khan",
             "Ahmer Haider"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Luxmi Chand"
         ],
-        "Edited by": [
+        "edited_by": [
             "Rahat Kazmi"
         ],
-        "Music by": [
+        "music_by": [
             "Tuhin K Biswas"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "ZEE5"
         ],
         "release_date": "2023-03-17",
-        "Running time": "85 minutes",
-        "Country": [
+        "running_time": "85 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=5xoSaAWyH7Y",
             "https://www.youtube.com/watch?v=4-XIWbJDm3o",
@@ -1467,13 +1467,13 @@
         "id": 30,
         "title": "Chor Nikal Ke Bhaga",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/a/a2/Chor_Nikal_Ke_Bhaga_film_poster.jpg/220px-Chor_Nikal_Ke_Bhaga_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Ajay Singh"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Dinesh Vijan",
             "Amar Kaushik"
         ],
@@ -1481,30 +1481,30 @@
             "Yami Gautam",
             "Sunny Kaushal"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Gianni Giannelli"
         ],
-        "Edited by": [
+        "edited_by": [
             "Charu Thakkar"
         ],
-        "Music by": [
+        "music_by": [
             "Ketan Sodha",
             "Vishal Mishra"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Maddock Films"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Netflix"
         ],
         "release_date": "2023-03-24",
-        "Running time": "110 minutes",
-        "Country": [
+        "running_time": "110 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=0B4fbzWGub4",
             "https://www.youtube.com/watch?v=H1YR5rsScC8",
@@ -1517,15 +1517,15 @@
         "id": 31,
         "title": "Bheed",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/6/66/Bheed_film_poster.jpg/220px-Bheed_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Anubhav Sinha"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Anubhav Sinha"
         ],
-        "Produced by": [
+        "produced_by": [
             "Anubhav Sinha"
         ],
         "starring": [
@@ -1536,29 +1536,29 @@
             "Pankaj Kapur",
             "Kritika Kamra"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Soumik Mukherjee"
         ],
-        "Edited by": [
+        "edited_by": [
             "Atanu Mukherjee"
         ],
-        "Music by": [
+        "music_by": [
             "Anurag Saikia"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Benaras Media Works"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "AA Films"
         ],
         "release_date": "2023-03-24",
-        "Running time": "114 minutes",
-        "Country": [
+        "running_time": "114 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "\u20b93.33 crore",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "\u20b93.33 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=lGAKZ6L9IVo",
             "https://www.youtube.com/watch?v=G6Wdt73_eCg",
@@ -1571,13 +1571,13 @@
         "id": 32,
         "title": "Kanjoos Makhichoos",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/f/fc/Kanjoos_Makhichoos_Movie_Poster.jpg/220px-Kanjoos_Makhichoos_Movie_Poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Vipul Mehta"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Deepak Mukut",
             "Srishti Sharma",
             "Kushagra Sharma"
@@ -1590,27 +1590,27 @@
             "Rajiv Gupta",
             "Raju Srivastava"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Pratik Parmar"
         ],
-        "Edited by": "None",
-        "Music by": [
+        "edited_by": "None",
+        "music_by": [
             "Sachin-Jigar",
             "Shabbir Ahmed",
             "Rachita Arora"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "ZEE5"
         ],
         "release_date": "2023-03-24",
-        "Running time": "116 minutes",
-        "Country": [
+        "running_time": "116 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=UEm2K24xRwQ",
             "https://www.youtube.com/watch?v=WadghxTUHnY",
@@ -1623,15 +1623,15 @@
         "id": 33,
         "title": "Bholaa",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/e/e1/Bholaa_film_poster.jpg/220px-Bholaa_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Ajay Devgn"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Lokesh Kanagaraj"
         ],
-        "Produced by": [
+        "produced_by": [
             "Ajay Devgn",
             "Bhushan Kumar",
             "Krishan Kumar",
@@ -1647,29 +1647,29 @@
             "Gajraj Rao",
             "Vineet Kumar"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Aseem Bajaj"
         ],
-        "Edited by": [
+        "edited_by": [
             "Dharmendra Sharma"
         ],
-        "Music by": [
+        "music_by": [
             "Ravi Basrur"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Panorama Studios",
             "PVR Pictures",
             "(Worldwide)"
         ],
         "release_date": "2023-03-30",
-        "Running time": "144 minutes",
-        "Country": [
+        "running_time": "144 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b9100 crore",
-        "Box office": "\u20b9111.64 crore",
+        "language": "Hindi",
+        "budget": "\u20b9100 crore",
+        "box_office": "\u20b9111.64 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=K-EMszLvRIQ",
             "https://www.youtube.com/watch?v=W3EC1fx1Yqg",
@@ -1682,13 +1682,13 @@
         "id": 34,
         "title": "Gaslight",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/8/80/Gaslight_film_poster.jpg/220px-Gaslight_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Pavan Kirpalani"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ramesh S. Taurani",
             "Akshai Puri"
         ],
@@ -1697,27 +1697,27 @@
             "Vikrant Massey",
             "Chitrangada Singh"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Ragul Dharuman"
         ],
-        "Edited by": [
+        "edited_by": [
             "Upkar Singh"
         ],
-        "Music by": [
+        "music_by": [
             "Gaurav Chatterji"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Disney+ Hotstar"
         ],
         "release_date": "2023-03-31",
-        "Running time": "111 minutes",
-        "Country": [
+        "running_time": "111 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=bA00GJQbS1s",
             "https://www.youtube.com/watch?v=0ToLfQU2xmg",
@@ -1730,15 +1730,15 @@
         "id": 35,
         "title": "Gumraah",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/b7/Gumraah_2023_poster.jpg/220px-Gumraah_2023_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Vardhan Ketkar"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Magizh Thirumeni"
         ],
-        "Produced by": [
+        "produced_by": [
             "Bhushan Kumar",
             "Murad Khetani",
             "Krishan Kumar",
@@ -1749,31 +1749,31 @@
             "Mrunal Thakur",
             "Ronit Roy"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Vineet Malhotra"
         ],
-        "Edited by": [
+        "edited_by": [
             "Sahil Nayar"
         ],
-        "Music by": [
+        "music_by": [
             "Ketan Sodha",
             "Mithoon",
             "Vishal Mishra",
             "Tanishk Bagchi",
             "Abhijit Vaghani"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pen Marudhar Entertainment"
         ],
         "release_date": "2023-04-07",
-        "Running time": "127 minutes",
-        "Country": [
+        "running_time": "127 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b925 crore",
-        "Box office": "\u20b910.68 crore",
+        "language": "Hindi",
+        "budget": "\u20b925 crore",
+        "box_office": "\u20b910.68 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=lNzZqCb4ero",
             "https://www.youtube.com/watch?v=E7APBBJG34E",
@@ -1786,13 +1786,13 @@
         "id": 36,
         "title": "Mrs Undercover",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/0/02/Mrs_Undercover_Poster.jpg/220px-Mrs_Undercover_Poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Anushree Mehta"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Abir Sengupta",
             "Anushree Mehta",
             "Varun Bajaj",
@@ -1810,30 +1810,30 @@
             "Indrasish Roy",
             "Biswajit Chakraborty"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Abhimanyu Sengupta"
         ],
-        "Edited by": [
+        "edited_by": [
             "Sandeep Kurup"
         ],
-        "Music by": [
+        "music_by": [
             "Kshitij Tarey",
             "Amit Sawant",
             "Ankit Shah",
             "Abhinav Shekhar"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "ZEE5"
         ],
         "release_date": "2023-04-14",
-        "Running time": "107 minutes",
-        "Country": [
+        "running_time": "107 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=tB6J9GDiBB4",
             "https://www.youtube.com/watch?v=GV1cAwqW79s",
@@ -1846,13 +1846,13 @@
         "id": 38,
         "title": "Bad Boy",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/6/67/Bad_Boy_film_poster.jpg/220px-Bad_Boy_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Rajkumar Santoshi"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Anjum Qureshi",
             "Sajid Qureshi"
         ],
@@ -1862,26 +1862,26 @@
             "Darshan Jariwala",
             "Johny Lever"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Tanveer Mir"
         ],
-        "Edited by": [
+        "edited_by": [
             "Steven H. Bernard"
         ],
-        "Music by": [
+        "music_by": [
             "Himesh Reshammiya",
             "Raju Singh"
         ],
-        "Productioncompany": "None",
-        "Distributed by": "None",
+        "productioncompany": "None",
+        "distributed_by": "None",
         "release_date": "2023-04-28",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=bXOD_YOIh_A",
             "https://www.youtube.com/watch?v=u8Pcgeg5FSU",
@@ -1894,15 +1894,15 @@
         "id": 39,
         "title": "U-Turn",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/47/U-Turn_film_poster.jpg/220px-U-Turn_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Arif Khan"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Pawan Kumar"
         ],
-        "Produced by": [
+        "produced_by": [
             "Shobha Kapoor",
             "Ekta Kapoor"
         ],
@@ -1916,30 +1916,30 @@
             "Tariq Mir",
             "Priyanka Arya"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Anubhav Bansal"
         ],
-        "Edited by": "None",
-        "Music by": [
+        "edited_by": "None",
+        "music_by": [
             "Ketan Sodha",
             "Jeet Gannguli",
             "Arko Pravo Mukherjee",
             "Sundeep Gosswami"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Balaji Telefilms"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "ZEE5"
         ],
         "release_date": "2023-04-28",
-        "Running time": "101 minutes",
-        "Country": [
+        "running_time": "101 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=cfEkzG88-Z0",
             "https://www.youtube.com/watch?v=mgsDL3ixSao",
@@ -1952,15 +1952,15 @@
         "id": 40,
         "title": "Afwaah",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/a/a7/Afwaah_film_poster.jpg/220px-Afwaah_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sudhir Mishra"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Sudhir Mishra"
         ],
-        "Produced by": [
+        "produced_by": [
             "Anubhav Sinha"
         ],
         "starring": [
@@ -1969,33 +1969,33 @@
             "Sumeet Vyas",
             "Sharib Hashmi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Mauricio Vidal"
         ],
-        "Edited by": [
+        "edited_by": [
             "Atanu Mukherjee"
         ],
-        "Music by": [
+        "music_by": [
             "Shamir Tandon",
             "Karel Antonin"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Benaras Media Works"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "AA Films",
             "(India)",
             "Reliance Entertainment",
             "(International)"
         ],
         "release_date": "2023-05-05",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=0drCO1XmlNU",
             "https://www.youtube.com/watch?v=ByojhBwG_-E",
@@ -2008,20 +2008,20 @@
         "id": 42,
         "title": "Chatrapathi",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/5/50/Chatrapathi_film_poster.jpg/220px-Chatrapathi_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "V. V. Vinayak"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "A. Mahadev",
             "citation needed"
         ],
-        "Dialogues by": [
+        "dialogues_by": [
             "Mayur Puri"
         ],
-        "Story by": [
+        "story_by": [
             "V. Vijayendra Prasad"
         ],
-        "Produced by": [
+        "produced_by": [
             "Jayantilal Gada",
             "Dhaval Gada",
             "Akshay Gada"
@@ -2031,29 +2031,29 @@
             "Nushrat Bharucha",
             "Sharad Kelkar"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Nizar Shafi"
         ],
-        "Edited by": [
+        "edited_by": [
             "Niranjan Devaramane",
             "citation needed"
         ],
-        "Music by": [
+        "music_by": [
             "Ravi Basrur",
             "Tanishk Bagchi"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Pen India Limited"
         ],
-        "Distributed by": "None",
+        "distributed_by": "None",
         "release_date": "2023-05-12",
-        "Running time": "124 minutes",
-        "Country": [
+        "running_time": "124 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b950 crore",
-        "Box office": "\u20b92.5 crore",
+        "language": "Hindi",
+        "budget": "\u20b950 crore",
+        "box_office": "\u20b92.5 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=6Q0P8KBOt4c",
             "https://www.youtube.com/watch?v=VlnP_sBmmRg",
@@ -2066,13 +2066,13 @@
         "id": 43,
         "title": "Music School",
         "poster_link": "None",
-        "Directed by": [
+        "directed_by": [
             "Papa Rao Biyyala"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Papa Rao Biyyala"
         ],
         "starring": [
@@ -2084,28 +2084,28 @@
             "Suhasini Mulay",
             "Shaan"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Kiran Deohans"
         ],
-        "Edited by": [
+        "edited_by": [
             "Manan Sagar"
         ],
-        "Music by": [
+        "music_by": [
             "Ilaiyaraaja"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "PVR Pictures",
             "AP International Films (International)"
         ],
         "release_date": "None",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "None",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "None",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=-O7iy1_VHGM",
             "https://www.youtube.com/watch?v=J5hD0hutvi0",
@@ -2118,10 +2118,10 @@
         "id": 44,
         "title": "IB71",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/a/a3/IB71_film_poster.jpg/220px-IB71_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sankalp Reddy"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Story House Films LLP",
             "Sankalp Reddy",
             "Arjun Varma",
@@ -2131,14 +2131,14 @@
             "Gargee Singh",
             "Abhimanyu Srivastava"
         ],
-        "Dialogues by": [
+        "dialogues_by": [
             "Junaid Wasi",
             "Sahar Quaze"
         ],
-        "Story by": [
+        "story_by": [
             "Aditya Shastri"
         ],
-        "Produced by": [
+        "produced_by": [
             "Vidyut Jammwal",
             "Abbas Sayyed",
             "Reliance Entertainment",
@@ -2151,28 +2151,28 @@
             "Faizan Khan",
             "Anupam Kher"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Gnana Shekar V. S."
         ],
-        "Edited by": [
+        "edited_by": [
             "Sandeep Francis"
         ],
-        "Music by": [
+        "music_by": [
             "Prashanth R Vihari",
             "Vikram Montrose"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Reliance Entertainment"
         ],
         "release_date": "2023-05-12",
-        "Running time": "117 minutes",
-        "Country": [
+        "running_time": "117 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b928 crore",
-        "Box office": "\u20b929.19 crore",
+        "language": "Hindi",
+        "budget": "\u20b928 crore",
+        "box_office": "\u20b929.19 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=-V9tu8rqWIg",
             "https://www.youtube.com/watch?v=QUzk2XXguro",
@@ -2185,13 +2185,13 @@
         "id": 45,
         "title": "Kathal",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/5/5e/Kathal_film_poster.jpg/220px-Kathal_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Yashowardhan Mishra"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Shobha Kapoor",
             "Ekta Kapoor",
             "Guneet Monga",
@@ -2205,27 +2205,27 @@
             "Brijendra Kala",
             "Neha Saraf"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Harshvir Oberai"
         ],
-        "Edited by": [
+        "edited_by": [
             "Prerna Saigal"
         ],
-        "Music by": [
+        "music_by": [
             "Ram Sampath"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Netflix"
         ],
         "release_date": "2023-05-19",
-        "Running time": "115 minutes",
-        "Country": [
+        "running_time": "115 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=Wkqp8bs3Bro",
             "https://www.youtube.com/watch?v=JO58WTosGSs",
@@ -2238,17 +2238,17 @@
         "id": 46,
         "title": "Aazam",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/5/59/Poster_of_movie_Aazam.jpg/220px-Poster_of_movie_Aazam.jpg",
-        "Directed by": [
+        "directed_by": [
             "Shravan Tiwari"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Shravan Tiwari"
         ],
-        "Dialogues by": "None",
-        "Story by": [
+        "dialogues_by": "None",
+        "story_by": [
             "Shravan Tiwari"
         ],
-        "Produced by": "None",
+        "produced_by": "None",
         "starring": [
             "Jimmy Sheirgill",
             "Abhimanyu Singh",
@@ -2256,27 +2256,27 @@
             "Govind Namdev",
             "Raza Murad"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Ranjit Sahu"
         ],
-        "Edited by": [
+        "edited_by": [
             "Shravan Tiwari"
         ],
-        "Music by": [
+        "music_by": [
             "Natraj Dastidar"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "BMX Motion Pictures"
         ],
-        "Distributed by": "None",
+        "distributed_by": "None",
         "release_date": "2023-05-26",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=ApOjRqnDR3g",
             "https://www.youtube.com/watch?v=qVkMaH6D8Sg",
@@ -2289,13 +2289,13 @@
         "id": 47,
         "title": "8 A.M. Metro",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/6/65/8_A.M._Metro_Theatrical_Release_Poster.png/220px-8_A.M._Metro_Theatrical_Release_Poster.png",
-        "Directed by": [
+        "directed_by": [
             "Raj Rachakonda"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Raj Rachakonda",
             "Kishore Ganji"
         ],
@@ -2305,29 +2305,29 @@
             "Rajiv Kumar Aneja",
             "Nimisha Nair"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Sunny Kurapati"
         ],
-        "Edited by": [
+        "edited_by": [
             "Anil Aalayam"
         ],
-        "Music by": [
+        "music_by": [
             "Mark K. Robin"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Studio 99"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Platoon Distribution"
         ],
         "release_date": "2023-05-19",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b94 crore",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "\u20b94 crore",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=Sf6l492kclQ",
             "https://www.youtube.com/watch?v=evRZzTpdX0E",
@@ -2340,13 +2340,13 @@
         "id": 48,
         "title": "Kacchey Limbu",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/9/93/Kacchey_Limbu_film_poster.jpg/220px-Kacchey_Limbu_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Shubham Yogi"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Jyoti Deshpande",
             "Pranjal Khandhdiya",
             "Neha Anand"
@@ -2356,27 +2356,27 @@
             "Rajat Barmecha",
             "Ayush Mehra"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Piyush Puty"
         ],
-        "Edited by": [
+        "edited_by": [
             "Mitesh Soni"
         ],
-        "Music by": [
+        "music_by": [
             "Anshul Takkar"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "JioCinema"
         ],
         "release_date": "2023-05-19",
-        "Running time": "106 minutes",
-        "Country": [
+        "running_time": "106 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=V4y6oGJzonA",
             "https://www.youtube.com/watch?v=V5yFwl8Kidw",
@@ -2389,13 +2389,13 @@
         "id": 49,
         "title": "Sirf Ek Bandaa Kaafi Hai",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/3/30/Bandaa_Official_Poster.jpg/220px-Bandaa_Official_Poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Apoorv Singh Karki"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Vinod Bhanushali",
             "Kamlesh Bhanushali",
             "Vishal Gurnani",
@@ -2407,28 +2407,28 @@
         "starring": [
             "Manoj Bajpayee"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Arjun Kukreti"
         ],
-        "Edited by": [
+        "edited_by": [
             "Sumeet Kotian"
         ],
-        "Music by": [
+        "music_by": [
             "Sangeet-Siddharth",
             "Roy"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "ZEE5"
         ],
         "release_date": "2023-05-23",
-        "Running time": "132 minutes",
-        "Country": [
+        "running_time": "132 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=MWH7lfZdP-8",
             "https://www.youtube.com/watch?v=uO-csOo3uT4",
@@ -2441,13 +2441,13 @@
         "id": 50,
         "title": "Jogira Sara Ra Ra",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/2/2b/Jogira_Sara_Ra_Ra_film_poster.jpg/220px-Jogira_Sara_Ra_Ra_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Kushan Nandy"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Kiran Shroff",
             "Naeem Siddiqui"
         ],
@@ -2456,32 +2456,32 @@
             "Neha Sharma",
             "Zarina Wahab"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Sourabh Waghmare"
         ],
-        "Edited by": [
+        "edited_by": [
             "Virendra Gharse"
         ],
-        "Music by": [
+        "music_by": [
             "Anup Bhat",
             "Tanishk Bagchi",
             "Meet Bros",
             "Hitesh Modak"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Touchwood Multimedia Creations"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "AA Films"
         ],
         "release_date": "2023-05-26",
-        "Running time": "121 minutes",
-        "Country": [
+        "running_time": "121 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b925 crore",
-        "Box office": "\u20b91.75 crore",
+        "language": "Hindi",
+        "budget": "\u20b925 crore",
+        "box_office": "\u20b91.75 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=D2L6t0wuEtE",
             "https://www.youtube.com/watch?v=pqAvSyjxXMk",
@@ -2494,13 +2494,13 @@
         "id": 51,
         "title": "Coat",
         "poster_link": "None",
-        "Directed by": [
+        "directed_by": [
             "Akshay Ditti"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Kumar Abhishek",
             "Arpit Garg",
             "Pinnu Singh"
@@ -2511,26 +2511,26 @@
             "Sonal Jha",
             "Pooja Pandey"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Yogesh M. Koli"
         ],
-        "Edited by": [
+        "edited_by": [
             "Sanjay Sankla"
         ],
-        "Music by": [
+        "music_by": [
             "Vardan Singh",
             "Hriju Roy"
         ],
-        "Productioncompany": "None",
-        "Distributed by": "None",
+        "productioncompany": "None",
+        "distributed_by": "None",
         "release_date": "2023-05-26",
-        "Running time": "123 minutes",
-        "Country": [
+        "running_time": "123 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=wnIzGtDNGaM",
             "https://www.youtube.com/watch?v=gGSC6rMwYS0",
@@ -2543,13 +2543,13 @@
         "id": 52,
         "title": "Zara Hatke Zara Bachke",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/d/db/Zara_Hatke_Zara_Bachke.jpg/220px-Zara_Hatke_Zara_Bachke.jpg",
-        "Directed by": [
+        "directed_by": [
             "Laxman Utekar"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Dinesh Vijan",
             "Jyoti Deshpande"
         ],
@@ -2557,27 +2557,27 @@
             "Vicky Kaushal",
             "Sara Ali Khan"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Raghav Ramadoss"
         ],
-        "Edited by": [
+        "edited_by": [
             "Manish Pradhan"
         ],
-        "Music by": [
+        "music_by": [
             "Sandeep Shirodkar"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pen Marudhar Cine Entertainment"
         ],
         "release_date": "2023-06-02",
-        "Running time": "132 minutes",
-        "Country": [
+        "running_time": "132 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b950 crore",
-        "Box office": "\u20b9115.89 crore",
+        "language": "Hindi",
+        "budget": "\u20b950 crore",
+        "box_office": "\u20b9115.89 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=ziK8HzNk04A",
             "https://www.youtube.com/watch?v=X7WXHhokylc",
@@ -2590,15 +2590,15 @@
         "id": 53,
         "title": "Mumbaikar",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/f/f9/Mumbaikar_film.jpg/220px-Mumbaikar_film.jpg",
-        "Directed by": [
+        "directed_by": [
             "Santosh Sivan"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Lokesh Kanagaraj"
         ],
-        "Produced by": [
+        "produced_by": [
             "Jyoti Deshpande",
             "Riya Shibu"
         ],
@@ -2608,28 +2608,28 @@
             "Tanya Maniktala",
             "Hridhu Haroon"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Santosh Sivan"
         ],
-        "Edited by": [
+        "edited_by": [
             "Dilip Damodar"
         ],
-        "Music by": [
+        "music_by": [
             "Salil Amrute",
             "Ram Surendar"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "JioCinema"
         ],
         "release_date": "2023-06-02",
-        "Running time": "122 minutes",
-        "Country": [
+        "running_time": "122 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=6-RpbvyLSDw",
             "https://www.youtube.com/watch?v=ogwYhOVs1kI",
@@ -2642,13 +2642,13 @@
         "id": 54,
         "title": "Bloody Daddy",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/8/8a/Bloody_Daddy.jpg/220px-Bloody_Daddy.jpg",
-        "Directed by": [
+        "directed_by": [
             "Ali Abbas Zafar"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Jyoti Deshpande",
             "Sunir Khetarpal",
             "Gaurav Bose",
@@ -2663,29 +2663,29 @@
             "Sanjay Kapoor",
             "Diana Penty"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Marcin Laskawiec"
         ],
-        "Edited by": [
+        "edited_by": [
             "Steven H. Bernard"
         ],
-        "Music by": [
+        "music_by": [
             "Badshah",
             "Anuj Garg",
             "Julius Packiam"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "JioCinema"
         ],
         "release_date": "2023-06-09",
-        "Running time": "121 minutes",
-        "Country": [
+        "running_time": "121 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=O1vDPCGygkQ",
             "https://www.youtube.com/watch?v=KBuUqcJ5rco",
@@ -2698,13 +2698,13 @@
         "id": 56,
         "title": "I Love You",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/45/I_Love_You_film_poster.jpg/220px-I_Love_You_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Nikhil Mahajan"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Gaurav Bose",
             "Jyoti Deshpande",
             "Sunir Khetarpal"
@@ -2714,28 +2714,28 @@
             "Pavail Gulati",
             "Akshay Oberoi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Cameron Bryson"
         ],
-        "Edited by": [
+        "edited_by": [
             "Abhijit Deshpande"
         ],
-        "Music by": [
+        "music_by": [
             "Shor Police",
             "Gaurav Chatterji"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "JioCinema"
         ],
         "release_date": "2023-06-16",
-        "Running time": "95 minutes",
-        "Country": [
+        "running_time": "95 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=x1HXCfxgm0g",
             "https://www.youtube.com/watch?v=j0kro6SuwxM",
@@ -2748,13 +2748,13 @@
         "id": 57,
         "title": "1920 Horrors of the Heart",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/2/29/1920_-_Horrors_of_the_Heart.jpg/220px-1920_-_Horrors_of_the_Heart.jpg",
-        "Directed by": [
+        "directed_by": [
             "Krishna Bhatt"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Vikram Bhatt",
             "Raj Kishor Khaware",
             "Rakesh Juneja",
@@ -2766,27 +2766,27 @@
             "Barkha Bisht",
             "Danish Pandor"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Prakash Kutty"
         ],
-        "Edited by": [
+        "edited_by": [
             "Kuldeep Mehan"
         ],
-        "Music by": [
+        "music_by": [
             "Puneet Dixit"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Laxmi Ganpathy Films"
         ],
         "release_date": "2023-06-23",
-        "Running time": "123 minutes",
-        "Country": [
+        "running_time": "123 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b910 crore",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "\u20b910 crore",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=cLthAiz_PnQ",
             "https://www.youtube.com/watch?v=ap7wcYHuFAI",
@@ -2799,44 +2799,44 @@
         "id": 58,
         "title": "Tiku Weds Sheru",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/3/3d/Poster_of_Tiku_Weds_Sheru.jpg/220px-Poster_of_Tiku_Weds_Sheru.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sai Kabir"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Kangana Ranaut"
         ],
         "starring": [
             "Nawazuddin Siddiqui",
             "Avneet Kaur"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Fernando Gayesky"
         ],
-        "Edited by": [
+        "edited_by": [
             "Ballu Saluja"
         ],
-        "Music by": [
+        "music_by": [
             "Gaurav Chatterji",
             "Sai Kabir",
             "Aman Pant"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Manikarnika Films"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Amazon Prime Video"
         ],
         "release_date": "2023-06-23",
-        "Running time": "111 minutes",
-        "Country": [
+        "running_time": "111 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=0mvglHtAGC8",
             "https://www.youtube.com/watch?v=VLMy0zw_mF8",
@@ -2849,13 +2849,13 @@
         "id": 59,
         "title": "Aseq",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/4e/Aseq.jpg/220px-Aseq.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sarim Momin"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Jyoti Deshpande",
             "Mohaan Nadaar"
         ],
@@ -2864,27 +2864,27 @@
             "Sonnalli Seygall",
             "Siddhanth Kapoor"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Naren Gediaa"
         ],
-        "Edited by": [
+        "edited_by": [
             "Shaju Chandran"
         ],
-        "Music by": [
+        "music_by": [
             "Yug Bhusal"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "JioCinema"
         ],
         "release_date": "2023-06-23",
-        "Running time": "107 minutes",
-        "Country": [
+        "running_time": "107 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=VjP7msJ7xQ4",
             "https://www.youtube.com/watch?v=0TyPk8MSggU",
@@ -2897,13 +2897,13 @@
         "id": 60,
         "title": "Satyaprem Ki Katha",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/9/90/Satyaprem_Ki_Katha_poster.jpg/220px-Satyaprem_Ki_Katha_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sameer Vidwans"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Sajid Nadiadwala",
             "Shareen Mantri Kedia",
             "Kishor Arora"
@@ -2912,13 +2912,13 @@
             "Kartik Aaryan",
             "Kiara Advani"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Ayananka Bose"
         ],
-        "Edited by": [
+        "edited_by": [
             "Charu Shree Roy"
         ],
-        "Music by": [
+        "music_by": [
             "Hitesh Sonik",
             "Meet Bros",
             "Anjjan Bhattacharya",
@@ -2928,18 +2928,18 @@
             "Rochak Kohli",
             "Ali Sethi"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pen Marudhar Entertainment"
         ],
         "release_date": "2023-06-29",
-        "Running time": "144 minutes",
-        "Country": [
+        "running_time": "144 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b960 crore",
-        "Box office": "\u20b9117.77 crore",
+        "language": "Hindi",
+        "budget": "\u20b960 crore",
+        "box_office": "\u20b9117.77 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=8EPJiFfWRfw",
             "https://www.youtube.com/watch?v=Ykg50pOUnQs",
@@ -2953,16 +2953,16 @@
         "id": 61,
         "title": "Lust Stories 2",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/d/d2/Lust_Stories_2.jpg/220px-Lust_Stories_2.jpg",
-        "Directed by": [
+        "directed_by": [
             "R. Balki",
             "Konkona Sen Sharma",
             "Amit Ravindernath Sharma",
             "Sujoy Ghosh"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ronnie Screwvala",
             "Ashi Dua Sara"
         ],
@@ -2977,35 +2977,35 @@
             "Tillotama Shome",
             "Vijay Varma"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Tapan Tushar Basu",
             "P. C. Sreeram",
             "Anand Bansal"
         ],
-        "Edited by": [
+        "edited_by": [
             "Urvashi Saxena",
             "Nayan H. K. Bhadra",
             "Sanyukta Kaza",
             "Chandrashekhar Prajapati"
         ],
-        "Music by": [
+        "music_by": [
             "Raja Narayan Deb",
             "Aman Pant",
             "Sagar Desai",
             "Subhajit Mukherjee"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Netflix"
         ],
         "release_date": "2023-06-29",
-        "Running time": "132 minutes",
-        "Country": [
+        "running_time": "132 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=Z3Z7RocQUXI",
             "https://www.youtube.com/watch?v=4aanxonXWiM",
@@ -3018,13 +3018,13 @@
         "id": 62,
         "title": "Sergeant",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Sergeant_movie.jpg/220px-Sergeant_movie.jpg",
-        "Directed by": [
+        "directed_by": [
             "Prawaal Raman"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ajay Rai",
             "Jyoti Deshpande",
             "Mohit Chhabra"
@@ -3037,30 +3037,30 @@
             "Sonia Goswami",
             "Xavi Nixon"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Benjamin Edgar",
             "James Alfred",
             "Jim Edgar"
         ],
-        "Edited by": [
+        "edited_by": [
             "Praveen Angre"
         ],
-        "Music by": [
+        "music_by": [
             "Aman Pant",
             "Tushar Lall"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "JioCinema"
         ],
         "release_date": "None",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=63CsnILifDw",
             "https://www.youtube.com/watch?v=CcD6npnuSIw",
@@ -3073,13 +3073,13 @@
         "id": 63,
         "title": "Neeyat",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/6/60/Neeyat_film_poster.jpg/220px-Neeyat_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Anu Menon"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Vikram Malhotra"
         ],
         "starring": [
@@ -3094,27 +3094,27 @@
             "Danesh Razvi",
             "Prajakta Koli"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Andreas Neo"
         ],
-        "Edited by": [
+        "edited_by": [
             "Adam Moss"
         ],
-        "Music by": [
+        "music_by": [
             "Mickey McCleary"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pen Marudhar Entertainment"
         ],
         "release_date": "2023-07-07",
-        "Running time": "130 minutes",
-        "Country": [
+        "running_time": "130 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=ptiMDzLQnzo",
             "https://www.youtube.com/watch?v=edvOL96jndI",
@@ -3127,13 +3127,13 @@
         "id": 64,
         "title": "Tarla",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/48/Tarla_Movie_Poster.jpg/220px-Tarla_Movie_Poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Piyush Gupta"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ronnie Screwvala",
             "Ashwiny Iyer Tiwari",
             "Nitesh Tiwari"
@@ -3142,29 +3142,29 @@
             "Huma Qureshi",
             "Sharib Hashmi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Salu K. Thomas"
         ],
-        "Edited by": [
+        "edited_by": [
             "Gaurav Aggarwal"
         ],
-        "Music by": [
+        "music_by": [
             "Nilotpal Bora",
             "Suhit Abhyankar",
             "Rohan Vinayak"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "ZEE5"
         ],
         "release_date": "2023-07-07",
-        "Running time": "127 minutes",
-        "Country": [
+        "running_time": "127 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=n0-_OZDjU2g",
             "https://www.youtube.com/watch?v=Hj24KE1tC4o",
@@ -3177,13 +3177,13 @@
         "id": 65,
         "title": "Blind",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/8/81/Blind_film_poster.jpeg/220px-Blind_film_poster.jpeg",
-        "Directed by": [
+        "directed_by": [
             "Shome Makhija"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Sujoy Ghosh",
             "Avishek Ghosh",
             "Hyunwoo Thomas Kim",
@@ -3198,28 +3198,28 @@
             "Vinay Pathak",
             "Lillete Dubey"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Gairik Sarkar"
         ],
-        "Edited by": [
+        "edited_by": [
             "Tanupriya Sharma"
         ],
-        "Music by": [
+        "music_by": [
             "Clinton Cerejo",
             "Brianca Gomes"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "JioCinema"
         ],
         "release_date": "2023-07-07",
-        "Running time": "124 minutes",
-        "Country": [
+        "running_time": "124 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=YOxnL1jSfFo",
             "https://www.youtube.com/watch?v=bLQ6sJtHRyI",
@@ -3232,13 +3232,13 @@
         "id": 66,
         "title": "72 Hoorain",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/6/69/72_Hoorain_film_poster.jpg/220px-72_Hoorain_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sanjay Puran Singh Chauhan"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Gulab Singh Tanwar",
             "Ashoke Pandit",
             "Kiran Dagar",
@@ -3256,24 +3256,24 @@
             "Narottam Bain",
             "Vijay Sanap"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Chirantan Das"
         ],
-        "Edited by": [
+        "edited_by": [
             "Sanjay Puran Singh Chauhan",
             "Sandeep Singh Bajeli Sandeep Beera"
         ],
-        "Music by": "None",
-        "Productioncompany": "None",
-        "Distributed by": "None",
+        "music_by": "None",
+        "productioncompany": "None",
+        "distributed_by": "None",
         "release_date": "None",
-        "Running time": "80 minutes",
-        "Country": [
+        "running_time": "80 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=5gH3NG2VIug",
             "https://www.youtube.com/watch?v=MUPm4VEj1W0",
@@ -3286,13 +3286,13 @@
         "id": 67,
         "title": "Ishq-e-Nadaan",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/f/f9/Ishq-e-Nadaan_film_poster.jpg/220px-Ishq-e-Nadaan_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Avishek Ghosh"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Jyoti Deshpande",
             "Avishek Ghosh"
         ],
@@ -3304,28 +3304,28 @@
             "Mohit Raina",
             "Kanwaljeet Singh"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Gairik Sarkar"
         ],
-        "Edited by": [
+        "edited_by": [
             "Dnyanada Samarth"
         ],
-        "Music by": [
+        "music_by": [
             "Raja Narayan Deb",
             "Gulraj Singh"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "JioCinema"
         ],
         "release_date": "2023-07-14",
-        "Running time": "106 minutes",
-        "Country": [
+        "running_time": "106 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=ibPlQq5ARWc",
             "https://www.youtube.com/watch?v=ipzhi9l0Yq4",
@@ -3338,15 +3338,15 @@
         "id": 68,
         "title": "Bawaal",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/bb/Bawaal_Official_Poster.jpg/220px-Bawaal_Official_Poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Nitesh Tiwari"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Ashwiny Iyer Tiwari"
         ],
-        "Produced by": [
+        "produced_by": [
             "Sajid Nadiadwala",
             "Ashwiny Iyer Tiwari"
         ],
@@ -3354,30 +3354,30 @@
             "Varun Dhawan",
             "Janhvi Kapoor"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Mitesh Mirchandani"
         ],
-        "Edited by": [
+        "edited_by": [
             "Charu Shree Roy"
         ],
-        "Music by": [
+        "music_by": [
             "Mithoon",
             "Tanishk Bagchi",
             "Akashdeep Sengupta",
             "Daniel B. George"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Amazon Prime Video"
         ],
         "release_date": "2023-07-21",
-        "Running time": "137 minutes",
-        "Country": [
+        "running_time": "137 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=NyeG2mLVCS4",
             "https://www.youtube.com/watch?v=9tbOxIbVsxQ",
@@ -3390,17 +3390,17 @@
         "id": 69,
         "title": "Trial Period",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/1/1f/Trial_Period_film_poster.jpg/220px-Trial_Period_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Aleya Sen"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Aleya Sen",
             "Akshat Trivedi",
             "Shiv Singh"
         ],
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Jyoti Deshpande",
             "Hemant Bhandari",
             "Amit Ravindernath Sharma",
@@ -3416,13 +3416,13 @@
             "Barun Chanda",
             "Zidane Braz"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Manoj Kumar Khatoi"
         ],
-        "Edited by": [
+        "edited_by": [
             "Shahnawaz Mosani"
         ],
-        "Music by": [
+        "music_by": [
             "Shantanu Moitra",
             "Arko Pravo Mukherjee",
             "Mago and Mayank",
@@ -3431,18 +3431,18 @@
             "Prachotosh Bhowmick",
             "Anupam Roy"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "JioCinema"
         ],
         "release_date": "2023-07-21",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=nVaFJnbvf-M",
             "https://www.youtube.com/watch?v=o-RlJPYL_tk",
@@ -3455,19 +3455,19 @@
         "id": 70,
         "title": "Minus 31: The Nagpur Files",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/f/f9/Nagpur_files_poster.jpg/220px-Nagpur_files_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Pratik Moitro"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Charulata Maitra",
             "Ankit Bhuptani"
         ],
-        "Dialogues by": "None",
-        "Story by": [
+        "dialogues_by": "None",
+        "story_by": [
             "Pratik Moitro",
             "Charulata Maitra"
         ],
-        "Produced by": [
+        "produced_by": [
             "Pratik Moitro"
         ],
         "starring": [
@@ -3478,29 +3478,29 @@
             "Santosh Juvekar",
             "Jaya Bhattacharya"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Sulabh Bangale"
         ],
-        "Edited by": [
+        "edited_by": [
             "Abhishek Sharma"
         ],
-        "Music by": [
+        "music_by": [
             "Udayan Dharmadhikari"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Orangepixel Studios PVT. LTD. Production"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Dragon Water Films"
         ],
         "release_date": "2023-07-21",
-        "Running time": "122 minutes",
-        "Country": [
+        "running_time": "122 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=5zqnxuDI4kU",
             "https://www.youtube.com/watch?v=YqH_gFujcGY",
@@ -3513,13 +3513,13 @@
         "id": 71,
         "title": "Ajmer 92",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/3/39/Ajmer_92.jpg/220px-Ajmer_92.jpg",
-        "Directed by": [
+        "directed_by": [
             "Pushpendra Singh"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Umesh Kumar Tiwari"
         ],
         "starring": [
@@ -3531,27 +3531,27 @@
             "Manoj Joshi",
             "Sayaji Shinde"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Madhu Gowda"
         ],
-        "Edited by": [
+        "edited_by": [
             "Sandeep Sethy"
         ],
-        "Music by": [
+        "music_by": [
             "Parthasakha Daskabi"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Reliance Entertainment"
         ],
         "release_date": "2023-07-21",
-        "Running time": "141 minutes",
-        "Country": [
+        "running_time": "141 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b96 crore",
-        "Box office": "\u20b92.12 crore",
+        "language": "Hindi",
+        "budget": "\u20b96 crore",
+        "box_office": "\u20b92.12 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=bHMOc2kb8AM",
             "https://www.youtube.com/watch?v=D5ewCw-rfsY",
@@ -3564,13 +3564,13 @@
         "id": 73,
         "title": "One Friday Night",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/b2/One_Friday_Night_film_poster.jpg/220px-One_Friday_Night_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Manish Gupta"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Jio Studios",
             "Jyoti Deshpande",
             "Manish Trehan"
@@ -3580,27 +3580,27 @@
             "Milind Soman",
             "Vidhi Chitalia"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Binendra Menon"
         ],
-        "Edited by": [
+        "edited_by": [
             "Archit D Rastogi"
         ],
-        "Music by": [
+        "music_by": [
             "Goyell Saab"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Jio Cinema"
         ],
         "release_date": "2023-07-28",
-        "Running time": "92 minutes",
-        "Country": [
+        "running_time": "92 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=xUhH4CZr5Iw",
             "https://www.youtube.com/watch?v=EwSus-3W5Gs",
@@ -3613,15 +3613,15 @@
         "id": 74,
         "title": "Panch Kriti Five Elements",
         "poster_link": "None",
-        "Directed by": [
+        "directed_by": [
             "Sannjoy Bhargv"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Haripriyaa Bharggav, Sannjoy Bhargv and Kumar Rakesh"
         ],
-        "Produced by": [
+        "produced_by": [
             "Haripriyaa Bharggav, Sannjoy Bhargv"
         ],
         "starring": [
@@ -3636,25 +3636,25 @@
             "Sarika Bahroliya",
             "Ravi Chauhan"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Yogendra Tripathi"
         ],
-        "Edited by": [
+        "edited_by": [
             "Sunil Yadav, Arun Yadav"
         ],
-        "Music by": "None",
-        "Productioncompany": [
+        "music_by": "None",
+        "productioncompany": [
             "Ubon Vision Pvt Ltd"
         ],
-        "Distributed by": "None",
+        "distributed_by": "None",
         "release_date": "2023-08-25",
-        "Running time": "124 mins",
-        "Country": [
+        "running_time": "124 mins",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b933 crore",
-        "Box office": "\u20b935.48 crore",
+        "language": "Hindi",
+        "budget": "\u20b933 crore",
+        "box_office": "\u20b935.48 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=1kZtT0xpsww",
             "https://www.youtube.com/watch?v=fm4euY1MyJU",
@@ -3667,17 +3667,17 @@
         "id": 75,
         "title": "Lafzon Mein Pyaar",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Poster_of_movie_Lafzon_Mein_Pyaar.jpeg/220px-Poster_of_movie_Lafzon_Mein_Pyaar.jpeg",
-        "Directed by": [
+        "directed_by": [
             "Dhiraj Mishra",
             "Raja Randeep Giri"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Dhiraj Mishra",
             "Yashomati Devi"
         ],
-        "Produced by": [
+        "produced_by": [
             "Ashok Sawhny"
         ],
         "starring": [
@@ -3692,25 +3692,25 @@
             "Vaani Dogra",
             "Megha Joshi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Birchandan Singh"
         ],
-        "Edited by": [
+        "edited_by": [
             "Parkash Jha"
         ],
-        "Music by": [
+        "music_by": [
             "Ranjeet Rajwada"
         ],
-        "Productioncompany": "None",
-        "Distributed by": "None",
+        "productioncompany": "None",
+        "distributed_by": "None",
         "release_date": "2023-08-04",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "No Link"
         ]
@@ -3719,13 +3719,13 @@
         "id": 78,
         "title": "Ghoomer",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/e/eb/Ghoomer_film_poster.jpg/220px-Ghoomer_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "R. Balki"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Rakesh Jhunjhunwala",
             "Abhishek Bachchan",
             "Gauri Shinde",
@@ -3738,27 +3738,27 @@
             "Saiyami Kher",
             "Angad Bedi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Vishal Sinha"
         ],
-        "Edited by": [
+        "edited_by": [
             "Nipun Ashok Gupta"
         ],
-        "Music by": [
+        "music_by": [
             "Amit Trivedi"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pen Marudhar Entertainment"
         ],
         "release_date": "2023-08-12",
-        "Running time": "134 minutes",
-        "Country": [
+        "running_time": "134 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b920 crore",
-        "Box office": "\u20b96.05 crore",
+        "language": "Hindi",
+        "budget": "\u20b920 crore",
+        "box_office": "\u20b96.05 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=S5ixGOMTliE",
             "https://www.youtube.com/watch?v=TEkPJhbOd7s",
@@ -3771,15 +3771,15 @@
         "id": 79,
         "title": "NonN Stop Dhamaal",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Poster_of_movie_Non_Stop_Dhamaal.png/220px-Poster_of_movie_Non_Stop_Dhamaal.png",
-        "Directed by": [
+        "directed_by": [
             "Irshad Khan"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Irshad Khan"
         ],
-        "Produced by": [
+        "produced_by": [
             "Suresh Gondaliya"
         ],
         "starring": [
@@ -3790,27 +3790,27 @@
             "Priyanshu Chatterjee",
             "Rajesh Jais"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Akash Tiwari"
         ],
-        "Edited by": [
+        "edited_by": [
             "Chandan Arora"
         ],
-        "Music by": [
+        "music_by": [
             "Rahul Bhatt"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Triyom Films"
         ],
-        "Distributed by": "None",
+        "distributed_by": "None",
         "release_date": "2023-08-18",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=vZCoEvDtkPE",
             "https://www.youtube.com/watch?v=sIlK-pHhTjI",
@@ -3823,13 +3823,13 @@
         "id": 81,
         "title": "Akelli",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/5/5e/Akelli_film_poster.jpg/220px-Akelli_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Pranay Meshram"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Aparna Padgaonkar",
             "Shashant Shah",
             "Vicky Sidana",
@@ -3842,33 +3842,33 @@
             "Rajesh Jais",
             "Tsahi Halevi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Pushkar Singh"
         ],
-        "Edited by": [
+        "edited_by": [
             "Sumeet Kotian"
         ],
-        "Music by": [
+        "music_by": [
             "Rohit Kulkarni",
             "Hitesh Sonik",
             "Gurshabad",
             "Aman Pant",
             "Mehul Vyas"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Dashami Studioz"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "PVR Inox Pictures"
         ],
         "release_date": "2023-08-25",
-        "Running time": "127 minutes",
-        "Country": [
+        "running_time": "127 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=HEXTEC-xqWA",
             "https://www.youtube.com/watch?v=KJhgqXku6jI",
@@ -3881,13 +3881,13 @@
         "id": 82,
         "title": "Friday Night Plan",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/a/ac/Friday_Night_Plan_film_poster.jpg/220px-Friday_Night_Plan_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Vatsal Neelakantan"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Farhan Akhtar",
             "Ritesh Sidhwani",
             "Kasim Jagmagia"
@@ -3901,25 +3901,25 @@
             "Aditya Jain",
             "Medha Rana"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Krish Makhija"
         ],
-        "Edited by": "None",
-        "Music by": "None",
-        "Productioncompany": [
+        "edited_by": "None",
+        "music_by": "None",
+        "productioncompany": [
             "Excel Entertainment"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Netflix"
         ],
         "release_date": "None",
-        "Running time": "109 minutes",
-        "Country": [
+        "running_time": "109 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=Lz_jlyGDoqM",
             "https://www.youtube.com/watch?v=pcFGbBxiIKM",
@@ -3932,14 +3932,14 @@
         "id": 83,
         "title": "Mystery of the Tattoo",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/f/fa/Mystery_of_the_Tattoo.jpg",
-        "Directed by": [
+        "directed_by": [
             "Kalaiarasi Sathappan",
             "Ganesh Mahadevan"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Gajinaath Jeyakumar",
             "Kashish Khan",
             "Anushree Shah"
@@ -3951,23 +3951,23 @@
             "Manoj Joshi",
             "Ameesha Patel"
         ],
-        "Cinematography": "None",
-        "Edited by": "None",
-        "Music by": [
+        "cinematography": "None",
+        "edited_by": "None",
+        "music_by": [
             "Magizhan Santhors"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pickle entertainment"
         ],
         "release_date": "2023-09-01",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=pamLV6P1STE",
             "https://www.youtube.com/watch?v=ptjy8yUbbRk",
@@ -3980,18 +3980,18 @@
         "id": 84,
         "title": "Love All",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/7/71/Poster_of_movie_Love_All.jpg/220px-Poster_of_movie_Love_All.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sudhanshu Sharma"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Sudhanshu Sharma",
             "Sonal"
         ],
-        "Dialogues by": "None",
-        "Story by": [
+        "dialogues_by": "None",
+        "story_by": [
             "Sudhanshu Sharma"
         ],
-        "Produced by": [
+        "produced_by": [
             "Sudhanshu Sharma"
         ],
         "starring": [
@@ -4000,26 +4000,26 @@
             "Swastika Mukherjee",
             "Sumit Arora"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Raut Jaywant Murlidhar"
         ],
-        "Edited by": [
+        "edited_by": [
             "Aalaap Majgavkar",
             "Raunak Phadnis"
         ],
-        "Music by": [
+        "music_by": [
             "Saurabh-Vaibhav"
         ],
-        "Productioncompany": "None",
-        "Distributed by": "M. Ramesh\u2019s Lakshmi Ganapathy Films Studios",
+        "productioncompany": "None",
+        "distributed_by": "M. Ramesh\u2019s Lakshmi Ganapathy Films Studios",
         "release_date": "2023-09-01",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=IleX8QX5Uyw",
             "https://www.youtube.com/watch?v=YTuQkEmyIlk",
@@ -4032,13 +4032,13 @@
         "id": 86,
         "title": "Haddi",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/b5/Haddi_Poster.jpg/220px-Haddi_Poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Akshat Ajay Sharma"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Zee Studios",
             "Radhika Nanda",
             "Sanjay Saha"
@@ -4048,30 +4048,30 @@
             "Anurag Kashyap",
             "Ila Arun"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Piyush Puty",
             "Jay Oza"
         ],
-        "Edited by": [
+        "edited_by": [
             "Tanya Chhabria"
         ],
-        "Music by": [
+        "music_by": [
             "Rohan-Rohan"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Zee Studios"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "ZEE5"
         ],
         "release_date": "2023-09-07",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=SRhDjptowzE",
             "https://www.youtube.com/watch?v=Q2WH6R3lKUU",
@@ -4084,15 +4084,15 @@
         "id": 87,
         "title": "Jaane Jaan",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/bc/Jaane_Jaan_Poster.jpeg/220px-Jaane_Jaan_Poster.jpeg",
-        "Directed by": [
+        "directed_by": [
             "Sujoy Ghosh"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Sujoy Ghosh"
         ],
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Jay Shewakramani",
             "Akshai Puri",
             "Hyunwoo Thomas Kim",
@@ -4104,28 +4104,28 @@
             "Jaideep Ahlawat",
             "Vijay Varma"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Avik Mukhopadhyay"
         ],
-        "Edited by": [
+        "edited_by": [
             "Urvashi Saxena"
         ],
-        "Music by": [
+        "music_by": [
             "Sachin-Jigar",
             "Clinton Cerejo"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Netflix"
         ],
         "release_date": "2023-09-21",
-        "Running time": "139 minutes",
-        "Country": [
+        "running_time": "139 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=GHX6yT9Lxfo",
             "https://www.youtube.com/watch?v=ByojhBwG_-E",
@@ -4138,13 +4138,13 @@
         "id": 88,
         "title": "The Great Indian Family",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/6/63/The_Great_Indian_Family_film_poster.jpg/220px-The_Great_Indian_Family_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Vijay Krishna Acharya"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Aditya Chopra"
         ],
         "starring": [
@@ -4153,31 +4153,31 @@
             "Manoj Pahwa",
             "Kumud Mishra"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Ayananka Bose"
         ],
-        "Edited by": [
+        "edited_by": [
             "Charu Shree Roy"
         ],
-        "Music by": [
+        "music_by": [
             "Songs",
             "Pritam Chakraborty",
             "Kingshuk Chakravarty"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Yash Raj Films"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Yash Raj Films"
         ],
         "release_date": "2023-09-22",
-        "Running time": "112 minutes",
-        "Country": [
+        "running_time": "112 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b940 crore",
-        "Box office": "\u20b97.8 crore",
+        "language": "Hindi",
+        "budget": "\u20b940 crore",
+        "box_office": "\u20b97.8 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=jxRgnlvep94",
             "https://www.youtube.com/watch?v=M1vbhsuGLFE",
@@ -4190,13 +4190,13 @@
         "id": 89,
         "title": "Sukhee",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukhee_film_poster.jpg/220px-Sukhee_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sonal Joshi"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Bhushan Kumar",
             "Krishan Kumar",
             "Vikram Malhotra",
@@ -4209,30 +4209,30 @@
             "Kusha Kapila",
             "Pavleen Gujral"
         ],
-        "Cinematography": [
+        "cinematography": [
             "R. Dee"
         ],
-        "Edited by": [
+        "edited_by": [
             "Vini N Raj"
         ],
-        "Music by": [
+        "music_by": [
             "Karan Kulkarni",
             "Badshah",
             "- Hiten",
             "Arko"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pen Marudhar Entertainment"
         ],
         "release_date": "2023-09-22",
-        "Running time": "139 minutes",
-        "Country": [
+        "running_time": "139 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=MjY-bhKp3SY",
             "https://www.youtube.com/watch?v=7EwAT0N1sRw",
@@ -4245,13 +4245,13 @@
         "id": 90,
         "title": "The Vaccine War",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/The_Vaccine_War.jpg/220px-The_Vaccine_War.jpg",
-        "Directed by": [
+        "directed_by": [
             "Vivek Agnihotri"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Pallavi Joshi"
         ],
         "starring": [
@@ -4261,32 +4261,32 @@
             "Raima Sen",
             "Sapthami Gowda"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Udaysingh Mohite"
         ],
-        "Edited by": [
+        "edited_by": [
             "Shankh Rajadhyaksha"
         ],
-        "Music by": [
+        "music_by": [
             "Rohit Sharma",
             "Vanraj Bhatia",
             "Swapnil Bandodkar",
             "Shryea Kaul"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "I Am Buddha Production"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Pen Marudhar Entertainment"
         ],
         "release_date": "2023-09-28",
-        "Running time": "161 minutes",
-        "Country": [
+        "running_time": "161 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b910 crore",
-        "Box office": "\u20b95.74 crore",
+        "language": "Hindi",
+        "budget": "\u20b910 crore",
+        "box_office": "\u20b95.74 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=Y-ULaz6I9oY",
             "https://www.youtube.com/watch?v=oiGUggg32lI",
@@ -4299,13 +4299,13 @@
         "id": 91,
         "title": "Fukrey 3",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/f/fe/Fukrey_3_film_poster.jpg/220px-Fukrey_3_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Mrighdeep Singh Lamba"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Farhan Akhtar",
             "Ritesh Sidhwani"
         ],
@@ -4316,32 +4316,32 @@
             "Richa Chadha",
             "Pankaj Tripathi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Amalendu Chaudhary"
         ],
-        "Edited by": [
+        "edited_by": [
             "Manan Ashwin Mehta"
         ],
-        "Music by": [
+        "music_by": [
             "Tanishk Bagchi",
             "Abhishek Nailwal",
             "Sumeet Bellary",
             "Abhishek Nailwal"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Excel Entertainment"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "AA Films"
         ],
         "release_date": "2023-09-28",
-        "Running time": "147 minutes",
-        "Country": [
+        "running_time": "147 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "\u20b969.24 crore",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "\u20b969.24 crore",
         "trailer": [
             "https://www.youtube.com/watch?v=HeDdkMIyhoQ",
             "https://www.youtube.com/watch?v=ocQ5XBRv_Wg",
@@ -4354,13 +4354,13 @@
         "id": 92,
         "title": "Tumse Na Ho Payega",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/0/02/Tumse_Na_Ho_Payega_poster.jpg/220px-Tumse_Na_Ho_Payega_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Abhishek Sinha"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ronnie Screwvala",
             "Siddharth Roy Kapur",
             "Ashwiny Iyer Tiwari",
@@ -4373,28 +4373,28 @@
             "Gurpreet Saini",
             "Karan Jotwani"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Navagat Prakash"
         ],
-        "Edited by": [
+        "edited_by": [
             "Chandrashekhar Prajapati"
         ],
-        "Music by": [
+        "music_by": [
             "Abhishek Arora",
             "Ananya Purkayastha"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Disney+ Hotstar"
         ],
         "release_date": "2023-09-29",
-        "Running time": "132 minutes",
-        "Country": [
+        "running_time": "132 minutes",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=jcd9YYE1EXk",
             "https://www.youtube.com/watch?v=j1d7W_gnV2w",
@@ -4409,15 +4409,15 @@
         "id": 93,
         "title": "Dono",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/49/Dono_film_poster.jpg/220px-Dono_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Avnish S. Barjatya"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": [
             "Avnish S. Barjatya"
         ],
-        "Produced by": [
+        "produced_by": [
             "Kamal Kumar Barjatya",
             "Rajkumar Barjatya",
             "Ajit Kumar Barjatya"
@@ -4426,27 +4426,27 @@
             "Rajveer Deol",
             "Paloma Dhillon"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Chirantan Das"
         ],
-        "Edited by": [
+        "edited_by": [
             "Shweta Venkat Mathew"
         ],
-        "Music by": [
+        "music_by": [
             "George Joseph"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pen Marudhar Entertainment"
         ],
         "release_date": "2023-10-05",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=vX-8Xvon8tM",
             "https://www.youtube.com/watch?v=s08OwbluBGU",
@@ -4459,13 +4459,13 @@
         "id": 94,
         "title": "Khufiya",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/bf/Khufiya_poster.jpg/220px-Khufiya_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Vishal Bhardwaj"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Vishal Bhardwaj",
             "Rekha Bhardwaj"
         ],
@@ -4474,29 +4474,29 @@
             "Ali Fazal",
             "Wamiqa Gabbi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Farhad Ahmed Dehlvi"
         ],
-        "Edited by": [
+        "edited_by": [
             "A. Sreekar Prasad"
         ],
-        "Music by": [
+        "music_by": [
             "Vishal Bhardwaj"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "VB Films Production"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Netflix"
         ],
         "release_date": "2023-10-05",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=ByojhBwG_-E",
             "https://www.youtube.com/watch?v=9kcYzWG7fxA",
@@ -4509,20 +4509,20 @@
         "id": 95,
         "title": "Mission Raniganj",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/e/ee/Mission_Raniganj_film_poster.jpg/220px-Mission_Raniganj_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Tinu Suresh Desai"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Vipul K Rawal"
         ],
-        "Dialogues by": [
+        "dialogues_by": [
             "Deepak Kingrani"
         ],
-        "Story by": [
+        "story_by": [
             "Deepak Kingrani",
             "Poonam Gill (Idea)"
         ],
-        "Produced by": [
+        "produced_by": [
             "Vashu Bhagnani",
             "Deepshikha Deshmukh",
             "Jackky Bhagnani",
@@ -4532,13 +4532,13 @@
             "Akshay Kumar",
             "Parineeti Chopra"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Aseem Mishra"
         ],
-        "Edited by": [
+        "edited_by": [
             "Aarif Sheikh"
         ],
-        "Music by": [
+        "music_by": [
             "Satinder Sartaaj",
             "Prem-Hardeep",
             "Arko",
@@ -4546,18 +4546,18 @@
             "Gaurav Chatterji",
             "Sandeep Shirodkar"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "PVR Inox Pictures"
         ],
         "release_date": "2023-10-06",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=QFf91hnpClI",
             "https://www.youtube.com/watch?v=aSEcaBuHwlI",
@@ -4570,13 +4570,13 @@
         "id": 96,
         "title": "Thank You for Coming",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/3/33/Thank_You_For_Coming_film_poster.jpg/220px-Thank_You_For_Coming_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Karan Boolani"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Shobha Kapoor",
             "Anil Kapoor",
             "Ekta Kapoor",
@@ -4589,31 +4589,31 @@
             "Kusha Kapila",
             "Shibani Bedi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Anil Mehta"
         ],
-        "Edited by": [
+        "edited_by": [
             "Shweta Venkat Matthew",
             "Manan Sagar"
         ],
-        "Music by": [
+        "music_by": [
             "QARAN",
             "Jamroom",
             "Hanita Bhambri",
             "Aman Pant"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pen Marudhar Entertainment"
         ],
         "release_date": "2023-09-15",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=mHKrjUZJoK4",
             "https://www.youtube.com/watch?v=ahA1Pecwmss",
@@ -4626,13 +4626,13 @@
         "id": 97,
         "title": "Yaatris",
         "poster_link": "None",
-        "Directed by": [
+        "directed_by": [
             "Harish Vyas"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Kuku Mohanka"
         ],
         "starring": [
@@ -4642,29 +4642,29 @@
             "Jamie Lever",
             "Chahat Khanna"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Farukh Mistry"
         ],
-        "Edited by": [
+        "edited_by": [
             "Vikas Arora",
             "Gaurangi Vyas"
         ],
-        "Music by": [
+        "music_by": [
             "Saurabh Kalsi",
             "Rohit Sharma"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Akion Entertainment"
         ],
-        "Distributed by": "None",
+        "distributed_by": "None",
         "release_date": "2023-10-06",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=MNyg8FB71To",
             "https://www.youtube.com/watch?v=VcB7FHVevAY",
@@ -4677,13 +4677,13 @@
         "id": 98,
         "title": "Dhak Dhak",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/3/34/Dhak_Dhak_poster.jpg/220px-Dhak_Dhak_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Tarun Dudeja"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ajit Andhare",
             "Kevin Vaz",
             "Pranjal Khandhdiya",
@@ -4695,25 +4695,25 @@
             "Fatima Sana Shaikh",
             "Sanjana Sanghi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Sreechith Vijayan Damodar"
         ],
-        "Edited by": [
+        "edited_by": [
             "Manish Sharma"
         ],
-        "Music by": "None",
-        "Productioncompany": "None",
-        "Distributed by": [
+        "music_by": "None",
+        "productioncompany": "None",
+        "distributed_by": [
             "Viacom18 Studios"
         ],
         "release_date": "2023-10-13",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=KBuUqcJ5rco",
             "https://www.youtube.com/watch?v=Y6GYtbQDuXw",
@@ -4728,17 +4728,17 @@
         "id": 99,
         "title": "Bhagwan Bharose",
         "poster_link": "//upload.wikimedia.org/wikipedia/commons/thumb/5/58/BB_new.jpg/220px-BB_new.jpg",
-        "Directed by": [
+        "directed_by": [
             "Shiladitya Bora"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Sudhakar Nilmani 'Eklavya'"
         ],
-        "Dialogues by": "None",
-        "Story by": [
+        "dialogues_by": "None",
+        "story_by": [
             "Sudhakar Nilmani 'Eklavya'"
         ],
-        "Produced by": "None",
+        "produced_by": "None",
         "starring": [
             "Satendra Soni",
             "Sparsh Suman",
@@ -4746,29 +4746,29 @@
             "Masumeh Makhija",
             "Manurishi Chaddha"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Surjodeep Ghosh"
         ],
-        "Edited by": [
+        "edited_by": [
             "Suraj Gunjal"
         ],
-        "Music by": [
+        "music_by": [
             "Indian Ocean (band)"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Platoon One Films"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "PVR Inox Pictures"
         ],
         "release_date": "None",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=34rwwNqHB4U",
             "https://www.youtube.com/watch?v=jxRgnlvep94",
@@ -4781,13 +4781,13 @@
         "id": 100,
         "title": "Ganapath",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/7/75/Ganapath_-_Part_1_poster.jpg/220px-Ganapath_-_Part_1_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Vikas Bahl"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Vikas Bahl",
             "Jackky Bhagnani",
             "Vashu Bhagnani",
@@ -4799,31 +4799,31 @@
             "Kriti Sanon",
             "Elli AvrRam"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Sudhakar Reddy Yakkanti"
         ],
-        "Edited by": [
+        "edited_by": [
             "Ritesh Soni"
         ],
-        "Music by": [
+        "music_by": [
             "Vishal Mishra",
             "Amit Trivedi",
             "White Noise Studios",
             "Dr. Zeus",
             "Salim-Sulaiman"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "PVR Inox Pictures"
         ],
         "release_date": "2023-10-20",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b9200 crore",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "\u20b9200 crore",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=Gy_5ZRXU1L0",
             "https://www.youtube.com/watch?v=KySsZCy587g",
@@ -4836,19 +4836,19 @@
         "id": 101,
         "title": "Yaariyan 2",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/1/17/Yaariyan_2_poster.jpg/220px-Yaariyan_2_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Radhika Rao",
             "Vinay Sapru"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Radhika Rao",
             "Vinay Sapru"
         ],
-        "Dialogues by": "None",
-        "Story by": [
+        "dialogues_by": "None",
+        "story_by": [
             "Anjali Menon"
         ],
-        "Produced by": [
+        "produced_by": [
             "Bhushan Kumar",
             "Divya Khosla Kumar",
             "Krishan Kumar",
@@ -4863,31 +4863,31 @@
             "Priya Prakash Varrier",
             "Pearl V Puri"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Ravi Yadav"
         ],
-        "Edited by": [
+        "edited_by": [
             "Abhishek Kumar Singh"
         ],
-        "Music by": [
+        "music_by": [
             "Manan Bhardwaj",
             "Khaalif",
             "Rahim Shah",
             "Yo Yo Honey Singh",
             "JAM8"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "AA Films"
         ],
         "release_date": "2023-10-20",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=XRgVik3IsPU",
             "https://www.youtube.com/watch?v=ZWUgBdzgGyQ",
@@ -4900,13 +4900,13 @@
         "id": 102,
         "title": "12th Fail",
         "poster_link": "None",
-        "Directed by": [
+        "directed_by": [
             "Vidhu Vinod Chopra"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Vidhu Vinod Chopra",
             "Yogesh Ishwar"
         ],
@@ -4914,39 +4914,39 @@
             "Vikrant Massey",
             "Pallak Lalwani"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Rangarajan Ramabadran"
         ],
-        "Edited by": [
+        "edited_by": [
             "Jaskunwar Kohli",
             "Vidhu Vinod Chopra"
         ],
-        "Music by": [
+        "music_by": [
             "Shantanu Moitra"
         ],
-        "Productioncompany": "None",
-        "Distributed by": "None",
+        "productioncompany": "None",
+        "distributed_by": "None",
         "release_date": "2023-10-27",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": "https://www.youtube.com/watch?v=COv52Qyctws"
     },
     {
         "id": 103,
         "title": "Aankh Micholi",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/41/Aankh_Micholi_film_poster.jpg/220px-Aankh_Micholi_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Umesh Shukla"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ashish Wagh",
             "Umesh Shukla"
         ],
@@ -4954,25 +4954,25 @@
             "Abhimanyu Dassani",
             "Mrunal Thakur"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Sameer Arya"
         ],
-        "Edited by": [
+        "edited_by": [
             "Steven H. Bernard"
         ],
-        "Music by": "<td class=\"infobox-data\"><a href=\"/wiki/Sachin%E2%80%93Jigar\" title=\"Sachin\u2013Jigar\">Sachin\u2013Jigar</a></td>",
-        "Productioncompany": "None",
-        "Distributed by": [
+        "music_by": "<td class=\"infobox-data\"><a href=\"/wiki/Sachin%E2%80%93Jigar\" title=\"Sachin\u2013Jigar\">Sachin\u2013Jigar</a></td>",
+        "productioncompany": "None",
+        "distributed_by": [
             "Sony Pictures"
         ],
         "release_date": "2023-10-27",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=KBuUqcJ5rco",
             "https://www.youtube.com/watch?v=Cj8ZzDQne7Y",
@@ -4985,16 +4985,16 @@
         "id": 104,
         "title": "Mujib: The Making of a Nation",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Mujib_-_The_Making_of_a_Nation_%28Poster%29.jpg/220px-Mujib_-_The_Making_of_a_Nation_%28Poster%29.jpg",
-        "Directed by": [
+        "directed_by": [
             "Shyam Benegal"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Atul Tiwari",
             "Shama Zaidi"
         ],
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": "None",
         "starring": [
             "Arifin Shuvoo",
             "Nusrat Imrose Tisha",
@@ -5003,23 +5003,23 @@
             "Nusraat Faria",
             "Riaz"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Akashdeep Pandey"
         ],
-        "Edited by": "None",
-        "Music by": [
+        "edited_by": "None",
+        "music_by": [
             "Shantanu Moitra"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Jaaz Multimedia"
         ],
         "release_date": "2023-10-13",
-        "Running time": "178 mins",
-        "Country": "None",
-        "Language": "None",
-        "Budget": "None",
-        "Box office": "None",
+        "running_time": "178 mins",
+        "country": "None",
+        "language": "None",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=jVFAiFgXQt4",
             "https://www.youtube.com/watch?v=givLtqsybMo",
@@ -5032,19 +5032,19 @@
         "id": 105,
         "title": "Tiger 3",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/f/f8/Tiger_3_poster.jpg/220px-Tiger_3_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Maneesh Sharma"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Shridhar Raghavan"
         ],
-        "Dialogues by": [
+        "dialogues_by": [
             "Anckur Chaudhry"
         ],
-        "Story by": [
+        "story_by": [
             "Aditya Chopra"
         ],
-        "Produced by": [
+        "produced_by": [
             "Aditya Chopra"
         ],
         "starring": [
@@ -5052,30 +5052,30 @@
             "Katrina Kaif",
             "Emraan Hashmi"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Anay Goswamy"
         ],
-        "Edited by": [
+        "edited_by": [
             "Rameshwar S. Bhagat"
         ],
-        "Music by": [
+        "music_by": [
             "Pritam",
             "Tanuj Tiku"
         ],
-        "Productioncompany": [
+        "productioncompany": [
             "Yash Raj Films"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Yash Raj Films"
         ],
         "release_date": "None",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b9300 crore",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "\u20b9300 crore",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=KySsZCy587g",
             "https://www.youtube.com/watch?v=Gy_5ZRXU1L0",
@@ -5088,17 +5088,17 @@
         "id": 106,
         "title": "Emergency",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/3/32/Emergency_movie_poster.jpg/220px-Emergency_movie_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Kangana Ranaut"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Ritesh Shah"
         ],
-        "Dialogues by": "None",
-        "Story by": [
+        "dialogues_by": "None",
+        "story_by": [
             "Kangana Ranaut"
         ],
-        "Produced by": [
+        "produced_by": [
             "Kangana Ranaut",
             "Renu Pitti"
         ],
@@ -5109,28 +5109,28 @@
             "Mahima Chaudhary",
             "Milind Soman"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Tetsuo Nagata"
         ],
-        "Edited by": [
+        "edited_by": [
             "Rameshwar S. Bhagat"
         ],
-        "Music by": [
+        "music_by": [
             "G. V. Prakash Kumar"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "AA Films",
             "Coconut Movies"
         ],
         "release_date": "2023-11-24",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=PdcciqXAEjo",
             "https://www.youtube.com/watch?v=MzxGN2xAa-4",
@@ -5143,19 +5143,19 @@
         "id": 107,
         "title": "Animal",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/9/90/Animal_%282023_film%29_poster.jpg/220px-Animal_%282023_film%29_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sandeep Reddy Vanga"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Sandeep Reddy Vanga",
             "Pranay Reddy Vanga",
             "Suresh Bandaru"
         ],
-        "Dialogues by": "None",
-        "Story by": [
+        "dialogues_by": "None",
+        "story_by": [
             "Sandeep Reddy Vanga"
         ],
-        "Produced by": [
+        "produced_by": [
             "Bhushan Kumar",
             "Krishan Kumar",
             "Murad Khetani",
@@ -5168,13 +5168,13 @@
             "Rashmika Mandanna",
             "Tripti Dimri"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Amit Roy"
         ],
-        "Edited by": [
+        "edited_by": [
             "Sandeep Reddy Vanga"
         ],
-        "Music by": [
+        "music_by": [
             "Vishal Mishra",
             "Jaani",
             "Manan Bhardwaj",
@@ -5185,18 +5185,18 @@
             "Gurinder Seagal",
             "Harshwardhan Rameshwar"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "AA Films"
         ],
         "release_date": "2023-12-01",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "\u20b9100 crore",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "\u20b9100 crore",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=Dydmpfo68DA",
             "https://www.youtube.com/watch?v=KySsZCy587g",
@@ -5209,13 +5209,13 @@
         "id": 108,
         "title": "Sam Bahadur",
         "poster_link": "None",
-        "Directed by": [
+        "directed_by": [
             "Meghna Gulzar"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ronnie Screwvala"
         ],
         "starring": [
@@ -5226,27 +5226,27 @@
             "Edward Sonnenblick",
             "Zeeshan Ayyub"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Jay I. Patel"
         ],
-        "Edited by": "None",
-        "Music by": "<td class=\"infobox-data\"><a href=\"/wiki/Shankar%E2%80%93Ehsaan%E2%80%93Loy\" title=\"Shankar\u2013Ehsaan\u2013Loy\">Shankar\u2013Ehsaan\u2013Loy</a></td>",
-        "Productioncompany": [
+        "edited_by": "None",
+        "music_by": "<td class=\"infobox-data\"><a href=\"/wiki/Shankar%E2%80%93Ehsaan%E2%80%93Loy\" title=\"Shankar\u2013Ehsaan\u2013Loy\">Shankar\u2013Ehsaan\u2013Loy</a></td>",
+        "productioncompany": [
             "RSVP Movies"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Zee Studios",
             "(International)",
             "Pen Marudhar Entertainment"
         ],
         "release_date": "None",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=uT15gSnz8n4",
             "https://www.youtube.com/watch?v=t9wBUSpNMPw",
@@ -5259,17 +5259,17 @@
         "id": 109,
         "title": "The Archies",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/5/55/The_archies.jpg/220px-The_archies.jpg",
-        "Directed by": [
+        "directed_by": [
             "Zoya Akhtar"
         ],
-        "Screenplay by": [
+        "screenplay_by": [
             "Ayesha Devitre Dhillon",
             "Reema Kagti",
             "Zoya Akhtar"
         ],
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Tiger Baby Productions"
         ],
         "starring": [
@@ -5281,25 +5281,25 @@
             "Aditi Dot Saigal",
             "Yuvraj Menda"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Nikos Andritsakis"
         ],
-        "Edited by": "None",
-        "Music by": "None",
-        "Productioncompany": [
+        "edited_by": "None",
+        "music_by": "None",
+        "productioncompany": [
             "Tiger Baby Films"
         ],
-        "Distributed by": [
+        "distributed_by": [
             "Netflix"
         ],
         "release_date": "None",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=NN71kSL7uEM",
             "https://www.youtube.com/watch?v=_x5BvWZavQ8",
@@ -5312,14 +5312,14 @@
         "id": 110,
         "title": "Yodha",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/0/02/Yodha_2022_film.jpg/220px-Yodha_2022_film.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sagar Ambre",
             "Pushkar Ojha"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Hiroo Yash Johar",
             "Karan Johar",
             "Apoorva Mehta",
@@ -5330,19 +5330,19 @@
             "Disha Patani",
             "Raashii Khanna"
         ],
-        "Cinematography": "None",
-        "Edited by": "None",
-        "Music by": "None",
-        "Productioncompany": "None",
-        "Distributed by": "None",
+        "cinematography": "None",
+        "edited_by": "None",
+        "music_by": "None",
+        "productioncompany": "None",
+        "distributed_by": "None",
         "release_date": "2023-12-08",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=enNNhCstE3k",
             "https://www.youtube.com/watch?v=AKB2ntpaRNg",
@@ -5355,13 +5355,13 @@
         "id": 111,
         "title": "Merry Christmas",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/b/b0/Merry_Christmas_film_poster.jpg/220px-Merry_Christmas_film_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Sriram Raghavan"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Ramesh Turani",
             "Jaya Turani",
             "Sanjay Routray",
@@ -5371,28 +5371,28 @@
             "Vijay Sethupathi",
             "Katrina Kaif"
         ],
-        "Cinematography": [
+        "cinematography": [
             "Madhu Neelakandan"
         ],
-        "Edited by": [
+        "edited_by": [
             "Pooja Ladha Surti"
         ],
-        "Music by": [
+        "music_by": [
             "Pritam",
             "Daniel B. George"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pen Marudhar Entertainment"
         ],
         "release_date": "2023-12-08",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "None",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "None",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=v0ofvqtwctg",
             "https://www.youtube.com/watch?v=UMXCQJ3KgVw",
@@ -5405,13 +5405,13 @@
         "id": 112,
         "title": "Dunki",
         "poster_link": "//upload.wikimedia.org/wikipedia/en/thumb/4/4f/Dunki_poster.jpg/220px-Dunki_poster.jpg",
-        "Directed by": [
+        "directed_by": [
             "Rajkumar Hirani"
         ],
-        "Screenplay by": "None",
-        "Dialogues by": "None",
-        "Story by": "None",
-        "Produced by": [
+        "screenplay_by": "None",
+        "dialogues_by": "None",
+        "story_by": "None",
+        "produced_by": [
             "Gauri Khan",
             "Rajkumar Hirani",
             "Jyoti Deshpande"
@@ -5422,30 +5422,30 @@
             "Dia Mirza",
             "Boman Irani"
         ],
-        "Cinematography": [
+        "cinematography": [
             "C. K. Muraleedharan"
         ],
-        "Edited by": [
+        "edited_by": [
             "Rajkumar Hirani"
         ],
-        "Music by": [
+        "music_by": [
             "Pritam"
         ],
-        "Productioncompany": "None",
-        "Distributed by": [
+        "productioncompany": "None",
+        "distributed_by": [
             "Pen Marudhar Entertainment",
             "(North India)",
             "Yash Raj Films",
             "(overseas)"
         ],
         "release_date": "2023-12-21",
-        "Running time": "None",
-        "Country": [
+        "running_time": "None",
+        "country": [
             "India"
         ],
-        "Language": "Hindi",
-        "Budget": "None",
-        "Box office": "None",
+        "language": "Hindi",
+        "budget": "None",
+        "box_office": "None",
         "trailer": [
             "https://www.youtube.com/watch?v=E0TJPL7k4To",
             "https://www.youtube.com/watch?v=9k2oBYn3600",
