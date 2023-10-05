@@ -50,12 +50,9 @@ function MovieDetails() {
   }, [storedIdRef]);
 
   return (
-    <div>
+    <div className='my-3'>
 
     
-      <p className='cursor-pointer'>Movie Details</p>
-
-        <p>ID: {storedIdRef.current}</p>
         <div className={`${styles.DetailSlug}`}>
           <div className={`${styles.title}`}>{filteredData.title}</div>
           <div className={`${styles.media_content} md:m-auto`}>
