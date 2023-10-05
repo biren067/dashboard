@@ -12,24 +12,14 @@ import { IdProvider } from '@/context/IdContext';
 
 export default function App({ Component, pageProps }: AppProps) {
   useEffect(() => {
-  Modal.setAppElement('#__next'); // Use #__next, which is the default Next.js root element
+  // Modal.setAppElement('#__next'); // Use #__next, which is the default Next.js root element
 }, []);
     //  const [theme, colorMode] = useMode();
       const [theme, colorMode] = useMode();
   return (
-    // <>
-    // {/* <ColorModeContext.Provider value={colorMode}>
-    //   <ThemeProvider theme={theme}>
-    //     <CssBaseline /> */}
-    //   <Header/>
-    //   <Component {...pageProps} />
-    //   <Footer/>
-    //   {/* </ThemeProvider>
-    // </ColorModeContext.Provider> */}
-    // </>
     <>
     <IdProvider>
-              <ColorModeContext.Provider value={colorMode}>
+    <ColorModeContext.Provider value={colorMode}>
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <Header/>

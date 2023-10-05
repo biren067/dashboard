@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import {fetchId} from '@/context/IdContext'
 import styles from '@/styles/DetailSlug.module.css'
 import Image from 'next/image'
+import YouTube from 'react-youtube';
 
 
 function MovieDetails() {
@@ -57,10 +58,10 @@ function MovieDetails() {
         <p>ID: {storedIdRef.current}</p>
         <div className={`${styles.DetailSlug}`}>
           <div className={`${styles.title}`}>{filteredData.title}</div>
-          <div className={`${styles.media_content} md:ml-2`}>
+          <div className={`${styles.media_content} md:m-auto`}>
             {/* poster */}
             <div className={`${styles.media_poster}`}>
-              <Image src={filteredData.poster_link} width={290} height={500} unoptimized alt="no Image"/>
+              <Image src={filteredData.poster_link} width={380} height={700} unoptimized alt="no Image"/>
             </div>
             <div className={`${styles.media_description} mx-1 md:w-1/3`}>
               {/* director */}
@@ -147,12 +148,29 @@ function MovieDetails() {
             </div>
           </div>
           {/* Trailer */}
-          <div className={`${styles.trailer} flex justify-between items-center`}>
-            <span className={`${styles.label}`}>Video To Watch:</span>
-            <span>{filteredData.trailer}</span>
+          <div className={`${styles.trailer}`}>
+           <span className={`${styles.label} mt-100`}>Video To Watch:</span>
+
+                  <span>
+                    {filteredData.trailer &&
+                      filteredData.trailer.map((item, index) => (
+                        <div key={index} className="">
+                          {index<3 && 
+                          <iframe
+                            src={`https://www.youtube.com/embed/${item}`} 
+                              className={'py-2  md:ml-2 md:h-96 md:w-3/5 inline'}/>
+                          }
+                        </div>
+                      ))
+                    }
+                  </span>
+
+
+
           </div>
         </div>
         {/* {JSON.stringify(filteredData)} */}
+        {/* <YouTube videoId={'bsi8_9EoYyg'}/> */}
 
 
 

@@ -49,11 +49,11 @@
         "budget": "\u20b9300 crore",
         "box_office": "\u20b91,090.89 crore",
         "trailer": [
-            "COv52Qyctws",
-            "Ua1jWmGNw9g",
-            "OZGaxw1GyYA",
-            "C_bCka4OBFI",
-            "k8YiqM0Y-78"
+            "https://www.youtube.com/watch?v=COv52Qyctws",
+            "https://www.youtube.com/watch?v=Ua1jWmGNw9g",
+            "https://www.youtube.com/watch?v=OZGaxw1GyYA",
+            "https://www.youtube.com/watch?v=C_bCka4OBFI",
+            "https://www.youtube.com/watch?v=k8YiqM0Y-78"
         ]
     },
     {
@@ -108,11 +108,11 @@
         "budget": "\u20b9225 crore",
         "box_office": "\u20b91,050.30 crore",
         "trailer": [
-            "vqu4z34wENw",
-            "COv52Qyctws",
-            "4xl9KfUg8Lc",
-            "KySsZCy587g",
-            "huxhqphtDrM"
+            "https://www.youtube.com/watch?v=vqu4z34wENw",
+            "https://www.youtube.com/watch?v=COv52Qyctws",
+            "https://www.youtube.com/watch?v=4xl9KfUg8Lc",
+            "https://www.youtube.com/watch?v=KySsZCy587g",
+            "https://www.youtube.com/watch?v=huxhqphtDrM"
         ]
     },
     {
@@ -162,11 +162,11 @@
         "budget": "\u20b960 crore",
         "box_office": "\u20b9690.54 crore",
         "trailer": [
-            "vhwr4vc_GY0",
-            "2nK6WBcGPOw",
-            "7VppHj0Rue0",
-            "p_oYiDR6S0E",
-            "BsqrmY91nUQ"
+            "https://www.youtube.com/watch?v=vhwr4vc_GY0",
+            "https://www.youtube.com/watch?v=2nK6WBcGPOw",
+            "https://www.youtube.com/watch?v=7VppHj0Rue0",
+            "https://www.youtube.com/watch?v=p_oYiDR6S0E",
+            "https://www.youtube.com/watch?v=BsqrmY91nUQ"
         ]
     },
     {
@@ -213,12 +213,12 @@
         "budget": "\u20b9160 crore",
         "box_office": "\u20b9355.61 crore",
         "trailer": [
-            "6mdxy3zohEk",
-            "87JIOAX3njM",
-            "HZAyjBMTiaM",
-            "taRBVfDRukY",
-            "3qpxJEp4Ec4",
-            "s-EpMimXw9Y"
+            "https://www.youtube.com/watch?v=6mdxy3zohEk",
+            "https://www.youtube.com/watch?v=87JIOAX3njM",
+            "https://www.youtube.com/watch?v=HZAyjBMTiaM",
+            "https://www.youtube.com/watch?v=taRBVfDRukY",
+            "https://www.youtube.com/watch?v=3qpxJEp4Ec4",
+            "https://www.youtube.com/watch?v=s-EpMimXw9Y"
         ]
     },
     {
@@ -275,11 +275,11 @@
         "budget": "\u20b9500\u2013700 crore",
         "box_office": "\u20b9353\u2013450 crore",
         "trailer": [
-            "scNmYjoR-qM",
-            "X7lRGozX8KQ",
-            "Tl4bQBfOtbg",
-            "GXWfue9VhTY",
-            "jF5rJAXUY4A"
+            "https://www.youtube.com/watch?v=scNmYjoR-qM",
+            "https://www.youtube.com/watch?v=X7lRGozX8KQ",
+            "https://www.youtube.com/watch?v=Tl4bQBfOtbg",
+            "https://www.youtube.com/watch?v=GXWfue9VhTY",
+            "https://www.youtube.com/watch?v=jF5rJAXUY4A"
         ]
     },
     {
@@ -324,11 +324,11 @@
         "budget": "\u20b915\u201320 crore",
         "box_office": "\u20b9303.97 crore",
         "trailer": [
-            "3Jk3vquJDGs",
-            "vZDjsGlrNfw",
-            "ZRZM9jgg0Vw",
-            "Vhehh6urfRw",
-            "abtO_YU3qnY"
+            "https://www.youtube.com/watch?v=3Jk3vquJDGs",
+            "https://www.youtube.com/watch?v=vZDjsGlrNfw",
+            "https://www.youtube.com/watch?v=ZRZM9jgg0Vw",
+            "https://www.youtube.com/watch?v=Vhehh6urfRw",
+            "https://www.youtube.com/watch?v=abtO_YU3qnY"
         ]
     },
     {
@@ -378,11 +378,11 @@
         "budget": "\u20b950 crore",
         "box_office": "\u20b9221.08 crore",
         "trailer": [
-            "Y6ZKXqM7HNQ",
-            "xZ1FXdIGf9Q",
-            "TrVaKSCUttU",
-            "LBIo7vGWHXw",
-            "vQScOKqu5pA"
+            "https://www.youtube.com/watch?v=Y6ZKXqM7HNQ",
+            "https://www.youtube.com/watch?v=xZ1FXdIGf9Q",
+            "https://www.youtube.com/watch?v=TrVaKSCUttU",
+            "https://www.youtube.com/watch?v=LBIo7vGWHXw",
+            "https://www.youtube.com/watch?v=vQScOKqu5pA"
         ]
     },
     {
@@ -429,11 +429,11 @@
         "budget": "\u20b9200 crore",
         "box_office": "\u20b9220.10 crore",
         "trailer": [
-            "Cx_Dtwn4ayw",
-            "2yeRRm9AIxI",
-            "fiyRdalRRQA",
-            "EdftT8GMU1U",
-            "npwn6KVMtFI"
+            "https://www.youtube.com/watch?v=Cx_Dtwn4ayw",
+            "https://www.youtube.com/watch?v=2yeRRm9AIxI",
+            "https://www.youtube.com/watch?v=fiyRdalRRQA",
+            "https://www.youtube.com/watch?v=EdftT8GMU1U",
+            "https://www.youtube.com/watch?v=npwn6KVMtFI"
         ]
     },
     {
@@ -485,13 +485,13 @@
         "budget": "\u20b9125 crore",
         "box_office": "\u20b9182.44 crore",
         "trailer": [
-            "bsi8_9EoYyg",
-            "jVgAMJc4s9M",
-            "lzEop75AeOk",
-            "5bAxTGjcLs4",
-            "xb59o_op8Z0",
-            "bGM490nJoDE",
-            "pTlBmNFiFUc"
+            "https://www.youtube.com/watch?v=bsi8_9EoYyg",
+            "https://www.youtube.com/watch?v=jVgAMJc4s9M",
+            "https://www.youtube.com/watch?v=lzEop75AeOk",
+            "https://www.youtube.com/watch?v=5bAxTGjcLs4",
+            "https://www.youtube.com/watch?v=xb59o_op8Z0",
+            "https://www.youtube.com/watch?v=bGM490nJoDE",
+            "https://www.youtube.com/watch?v=pTlBmNFiFUc"
         ]
     },
     {
@@ -543,11 +543,11 @@
         "budget": "\u20b935 crore",
         "box_office": "\u20b9140.26 crore",
         "trailer": [
-            "dlC1tNsr-n8",
-            "ATWWmFU-xLk",
-            "UMqAzASR-3o",
-            "IfWS3M7u_OU",
-            "bbTzbf7A_88"
+            "https://www.youtube.com/watch?v=dlC1tNsr-n8",
+            "https://www.youtube.com/watch?v=ATWWmFU-xLk",
+            "https://www.youtube.com/watch?v=UMqAzASR-3o",
+            "https://www.youtube.com/watch?v=IfWS3M7u_OU",
+            "https://www.youtube.com/watch?v=bbTzbf7A_88"
         ]
     },
     {
@@ -596,11 +596,11 @@
         "budget": "\u20b935 crore",
         "box_office": "\u20b94.65 crore",
         "trailer": [
-            "76BhvV8ihRM",
-            "B3gQ31_Kbvs",
-            "1j62ZNMJqrY",
-            "onIPD-_E-C0",
-            "uLFNse-zXVc"
+            "https://www.youtube.com/watch?v=76BhvV8ihRM",
+            "https://www.youtube.com/watch?v=B3gQ31_Kbvs",
+            "https://www.youtube.com/watch?v=1j62ZNMJqrY",
+            "https://www.youtube.com/watch?v=onIPD-_E-C0",
+            "https://www.youtube.com/watch?v=uLFNse-zXVc"
         ]
     },
     {
@@ -644,11 +644,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "hep-UIKFg_Y",
-            "MN8kWwqnzZ8",
-            "bXGJYFo8OwI",
-            "i8xKLCzJBLo",
-            "5gH3NG2VIug"
+            "https://www.youtube.com/watch?v=hep-UIKFg_Y",
+            "https://www.youtube.com/watch?v=MN8kWwqnzZ8",
+            "https://www.youtube.com/watch?v=bXGJYFo8OwI",
+            "https://www.youtube.com/watch?v=i8xKLCzJBLo",
+            "https://www.youtube.com/watch?v=5gH3NG2VIug"
         ]
     },
     {
@@ -704,11 +704,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "Gw77Nx4eBMc",
-            "QFf91hnpClI",
-            "Nyz7suxlrI4",
-            "GjfxDRRLXAQ",
-            "_9a9pvwblQ8"
+            "https://www.youtube.com/watch?v=Gw77Nx4eBMc",
+            "https://www.youtube.com/watch?v=QFf91hnpClI",
+            "https://www.youtube.com/watch?v=Nyz7suxlrI4",
+            "https://www.youtube.com/watch?v=GjfxDRRLXAQ",
+            "https://www.youtube.com/watch?v=_9a9pvwblQ8"
         ]
     },
     {
@@ -760,11 +760,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "qdBt_g2ST40",
-            "8Ij6dbJdv9Q",
-            "_Q3PaNli8ms",
-            "Bsw6BlVLqJ0",
-            "B8gYZ-zkmqo"
+            "https://www.youtube.com/watch?v=qdBt_g2ST40",
+            "https://www.youtube.com/watch?v=8Ij6dbJdv9Q",
+            "https://www.youtube.com/watch?v=_Q3PaNli8ms",
+            "https://www.youtube.com/watch?v=Bsw6BlVLqJ0",
+            "https://www.youtube.com/watch?v=B8gYZ-zkmqo"
         ]
     },
     {
@@ -813,11 +813,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "2xdHQPhUTJQ",
-            "zfRsBEm2yrQ",
-            "jFuDx-wSi7A",
-            "9nhMforPMcU",
-            "tGaQ8YwCA9M"
+            "https://www.youtube.com/watch?v=2xdHQPhUTJQ",
+            "https://www.youtube.com/watch?v=zfRsBEm2yrQ",
+            "https://www.youtube.com/watch?v=jFuDx-wSi7A",
+            "https://www.youtube.com/watch?v=9nhMforPMcU",
+            "https://www.youtube.com/watch?v=tGaQ8YwCA9M"
         ]
     },
     {
@@ -864,11 +864,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "CRdDegCYxJM",
-            "SbLFK5TLX2Y",
-            "SoQZYFfcKSM",
-            "KO1_Dv8NZEc",
-            "kEv8baSyuMk"
+            "https://www.youtube.com/watch?v=CRdDegCYxJM",
+            "https://www.youtube.com/watch?v=SbLFK5TLX2Y",
+            "https://www.youtube.com/watch?v=SoQZYFfcKSM",
+            "https://www.youtube.com/watch?v=KO1_Dv8NZEc",
+            "https://www.youtube.com/watch?v=kEv8baSyuMk"
         ]
     },
     {
@@ -923,11 +923,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "aNvVwGAtnLg",
-            "MjY-bhKp3SY",
-            "HvtIJ9gc6d4",
-            "rcQ_xZdzPBc",
-            "eN3h2wYgYK4"
+            "https://www.youtube.com/watch?v=aNvVwGAtnLg",
+            "https://www.youtube.com/watch?v=MjY-bhKp3SY",
+            "https://www.youtube.com/watch?v=HvtIJ9gc6d4",
+            "https://www.youtube.com/watch?v=rcQ_xZdzPBc",
+            "https://www.youtube.com/watch?v=eN3h2wYgYK4"
         ]
     },
     {
@@ -972,11 +972,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "8Acp006qJPQ",
-            "dbpOXwT1ZOs",
-            "hHLY1MPhYDo",
-            "naQpYyDHmtQ",
-            "WBO1lnRBhAk"
+            "https://www.youtube.com/watch?v=8Acp006qJPQ",
+            "https://www.youtube.com/watch?v=dbpOXwT1ZOs",
+            "https://www.youtube.com/watch?v=hHLY1MPhYDo",
+            "https://www.youtube.com/watch?v=naQpYyDHmtQ",
+            "https://www.youtube.com/watch?v=WBO1lnRBhAk"
         ]
     },
     {
@@ -1027,11 +1027,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "tlQ2iQIgBeQ",
-            "KTu8iDynwNc",
-            "FV3bqvOHRQo",
-            "kgwOzw8jGyM",
-            "no1rl9Gvx-s"
+            "https://www.youtube.com/watch?v=tlQ2iQIgBeQ",
+            "https://www.youtube.com/watch?v=KTu8iDynwNc",
+            "https://www.youtube.com/watch?v=FV3bqvOHRQo",
+            "https://www.youtube.com/watch?v=kgwOzw8jGyM",
+            "https://www.youtube.com/watch?v=no1rl9Gvx-s"
         ]
     },
     {
@@ -1087,11 +1087,11 @@
         "budget": "\u20b965 crore",
         "box_office": "\u20b947.43 crore",
         "trailer": [
-            "vbSGPIS2_ao",
-            "9GFMdZDg6gw",
-            "Ep3T-MX_Ntg",
-            "I6KjFLDyBUs",
-            "iLb8ERCePk4"
+            "https://www.youtube.com/watch?v=vbSGPIS2_ao",
+            "https://www.youtube.com/watch?v=9GFMdZDg6gw",
+            "https://www.youtube.com/watch?v=Ep3T-MX_Ntg",
+            "https://www.youtube.com/watch?v=I6KjFLDyBUs",
+            "https://www.youtube.com/watch?v=iLb8ERCePk4"
         ]
     },
     {
@@ -1148,11 +1148,11 @@
         "budget": "\u20b9100 crore",
         "box_office": "\u20b923.63 crore",
         "trailer": [
-            "lS1KScfdr70",
-            "aqjZj9f0ceo",
-            "q5ZJknyUpVE",
-            "eizIc5eQiEM",
-            "ha3QcOXcUyY"
+            "https://www.youtube.com/watch?v=lS1KScfdr70",
+            "https://www.youtube.com/watch?v=aqjZj9f0ceo",
+            "https://www.youtube.com/watch?v=q5ZJknyUpVE",
+            "https://www.youtube.com/watch?v=eizIc5eQiEM",
+            "https://www.youtube.com/watch?v=ha3QcOXcUyY"
         ]
     },
     {
@@ -1203,11 +1203,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "0wTPn5XXgjg",
-            "0szlqpAGZXM",
-            "j-y52ZyC-6I",
-            "dYTUwZAVCrk",
-            "v3fMWzzIRQ8"
+            "https://www.youtube.com/watch?v=0wTPn5XXgjg",
+            "https://www.youtube.com/watch?v=0szlqpAGZXM",
+            "https://www.youtube.com/watch?v=j-y52ZyC-6I",
+            "https://www.youtube.com/watch?v=dYTUwZAVCrk",
+            "https://www.youtube.com/watch?v=v3fMWzzIRQ8"
         ]
     },
     {
@@ -1256,11 +1256,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "dF-DUTR7rxY",
-            "7yO8bk7_Ya0",
-            "SmqaiFOsUpo",
-            "o_qvS7qi20g",
-            "S5ixGOMTliE"
+            "https://www.youtube.com/watch?v=dF-DUTR7rxY",
+            "https://www.youtube.com/watch?v=7yO8bk7_Ya0",
+            "https://www.youtube.com/watch?v=SmqaiFOsUpo",
+            "https://www.youtube.com/watch?v=o_qvS7qi20g",
+            "https://www.youtube.com/watch?v=S5ixGOMTliE"
         ]
     },
     {
@@ -1308,11 +1308,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "O7vZ38k9-ck",
-            "99RZQxUPXi0",
-            "RvYHkmfBuk4",
-            "VhmuFNHPeWQ",
-            "OjdhtoPaIbY"
+            "https://www.youtube.com/watch?v=O7vZ38k9-ck",
+            "https://www.youtube.com/watch?v=99RZQxUPXi0",
+            "https://www.youtube.com/watch?v=RvYHkmfBuk4",
+            "https://www.youtube.com/watch?v=VhmuFNHPeWQ",
+            "https://www.youtube.com/watch?v=OjdhtoPaIbY"
         ]
     },
     {
@@ -1356,11 +1356,11 @@
         "budget": "\u20b929 crore",
         "box_office": "\u20b936.53 crore",
         "trailer": [
-            "1Bll53fBa9U",
-            "GaG88xge7w0",
-            "rUaZDBU9f4s",
-            "4ZWQYdzS_WY",
-            "dlb4xLPU2pU"
+            "https://www.youtube.com/watch?v=1Bll53fBa9U",
+            "https://www.youtube.com/watch?v=GaG88xge7w0",
+            "https://www.youtube.com/watch?v=rUaZDBU9f4s",
+            "https://www.youtube.com/watch?v=4ZWQYdzS_WY",
+            "https://www.youtube.com/watch?v=dlb4xLPU2pU"
         ]
     },
     {
@@ -1403,11 +1403,11 @@
         "budget": "None",
         "box_office": "\u20b93.53 crore",
         "trailer": [
-            "RCMxX6lWJcY",
-            "Cvw6ohO08lU",
-            "xoOcIlbQsLQ",
-            "nXpIyvucHXM",
-            "hEM8aJkZo9c"
+            "https://www.youtube.com/watch?v=RCMxX6lWJcY",
+            "https://www.youtube.com/watch?v=Cvw6ohO08lU",
+            "https://www.youtube.com/watch?v=xoOcIlbQsLQ",
+            "https://www.youtube.com/watch?v=nXpIyvucHXM",
+            "https://www.youtube.com/watch?v=hEM8aJkZo9c"
         ]
     },
     {
@@ -1456,11 +1456,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "5xoSaAWyH7Y",
-            "4-XIWbJDm3o",
-            "Sf6l492kclQ",
-            "dSB1Sh1al4g",
-            "oKYE6_6U94o"
+            "https://www.youtube.com/watch?v=5xoSaAWyH7Y",
+            "https://www.youtube.com/watch?v=4-XIWbJDm3o",
+            "https://www.youtube.com/watch?v=Sf6l492kclQ",
+            "https://www.youtube.com/watch?v=dSB1Sh1al4g",
+            "https://www.youtube.com/watch?v=oKYE6_6U94o"
         ]
     },
     {
@@ -1506,11 +1506,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "0B4fbzWGub4",
-            "H1YR5rsScC8",
-            "uHBLwhFt2tA",
-            "0vhGd6m28ps",
-            "p-h0ZP-NEtQ"
+            "https://www.youtube.com/watch?v=0B4fbzWGub4",
+            "https://www.youtube.com/watch?v=H1YR5rsScC8",
+            "https://www.youtube.com/watch?v=uHBLwhFt2tA",
+            "https://www.youtube.com/watch?v=0vhGd6m28ps",
+            "https://www.youtube.com/watch?v=p-h0ZP-NEtQ"
         ]
     },
     {
@@ -1560,11 +1560,11 @@
         "budget": "None",
         "box_office": "\u20b93.33 crore",
         "trailer": [
-            "lGAKZ6L9IVo",
-            "G6Wdt73_eCg",
-            "P6EpkN8a6GE",
-            "cDaZf16Qr7M",
-            "JF4u_c2KpeI"
+            "https://www.youtube.com/watch?v=lGAKZ6L9IVo",
+            "https://www.youtube.com/watch?v=G6Wdt73_eCg",
+            "https://www.youtube.com/watch?v=P6EpkN8a6GE",
+            "https://www.youtube.com/watch?v=cDaZf16Qr7M",
+            "https://www.youtube.com/watch?v=JF4u_c2KpeI"
         ]
     },
     {
@@ -1612,11 +1612,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "UEm2K24xRwQ",
-            "WadghxTUHnY",
-            "hIXyT2WuTCs",
-            "Zq-WrrnhWzs",
-            "Ni8KPvf1ydQ"
+            "https://www.youtube.com/watch?v=UEm2K24xRwQ",
+            "https://www.youtube.com/watch?v=WadghxTUHnY",
+            "https://www.youtube.com/watch?v=hIXyT2WuTCs",
+            "https://www.youtube.com/watch?v=Zq-WrrnhWzs",
+            "https://www.youtube.com/watch?v=Ni8KPvf1ydQ"
         ]
     },
     {
@@ -1671,11 +1671,11 @@
         "budget": "\u20b9100 crore",
         "box_office": "\u20b9111.64 crore",
         "trailer": [
-            "K-EMszLvRIQ",
-            "W3EC1fx1Yqg",
-            "0bWhOuE8QtY",
-            "oUWZxJLnpQ4",
-            "V9wgzIn-VNE"
+            "https://www.youtube.com/watch?v=K-EMszLvRIQ",
+            "https://www.youtube.com/watch?v=W3EC1fx1Yqg",
+            "https://www.youtube.com/watch?v=0bWhOuE8QtY",
+            "https://www.youtube.com/watch?v=oUWZxJLnpQ4",
+            "https://www.youtube.com/watch?v=V9wgzIn-VNE"
         ]
     },
     {
@@ -1719,11 +1719,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "bA00GJQbS1s",
-            "0ToLfQU2xmg",
-            "kNQC548wN-I",
-            "2g6BsFB7OXM",
-            "IcFn0b0XMaw"
+            "https://www.youtube.com/watch?v=bA00GJQbS1s",
+            "https://www.youtube.com/watch?v=0ToLfQU2xmg",
+            "https://www.youtube.com/watch?v=kNQC548wN-I",
+            "https://www.youtube.com/watch?v=2g6BsFB7OXM",
+            "https://www.youtube.com/watch?v=IcFn0b0XMaw"
         ]
     },
     {
@@ -1775,11 +1775,11 @@
         "budget": "\u20b925 crore",
         "box_office": "\u20b910.68 crore",
         "trailer": [
-            "lNzZqCb4ero",
-            "E7APBBJG34E",
-            "Lshiv-DpQ8o",
-            "bG9cMINXTTg",
-            "HxlcCZM9A90"
+            "https://www.youtube.com/watch?v=lNzZqCb4ero",
+            "https://www.youtube.com/watch?v=E7APBBJG34E",
+            "https://www.youtube.com/watch?v=Lshiv-DpQ8o",
+            "https://www.youtube.com/watch?v=bG9cMINXTTg",
+            "https://www.youtube.com/watch?v=HxlcCZM9A90"
         ]
     },
     {
@@ -1835,11 +1835,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "tB6J9GDiBB4",
-            "GV1cAwqW79s",
-            "yfsSGt6ct8E",
-            "-pp82DMHcp0",
-            "8gArqVMuD6s"
+            "https://www.youtube.com/watch?v=tB6J9GDiBB4",
+            "https://www.youtube.com/watch?v=GV1cAwqW79s",
+            "https://www.youtube.com/watch?v=yfsSGt6ct8E",
+            "https://www.youtube.com/watch?v=-pp82DMHcp0",
+            "https://www.youtube.com/watch?v=8gArqVMuD6s"
         ]
     },
     {
@@ -1883,11 +1883,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "bXOD_YOIh_A",
-            "u8Pcgeg5FSU",
-            "EAfdpdYgNaM",
-            "4SQhcXlQiKg",
-            "83md8NE2sO4"
+            "https://www.youtube.com/watch?v=bXOD_YOIh_A",
+            "https://www.youtube.com/watch?v=u8Pcgeg5FSU",
+            "https://www.youtube.com/watch?v=EAfdpdYgNaM",
+            "https://www.youtube.com/watch?v=4SQhcXlQiKg",
+            "https://www.youtube.com/watch?v=83md8NE2sO4"
         ]
     },
     {
@@ -1941,11 +1941,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "cfEkzG88-Z0",
-            "mgsDL3ixSao",
-            "EAFtx938D8U",
-            "9bt-0ISUwQ0",
-            "LuYpqQqKW7s"
+            "https://www.youtube.com/watch?v=cfEkzG88-Z0",
+            "https://www.youtube.com/watch?v=mgsDL3ixSao",
+            "https://www.youtube.com/watch?v=EAFtx938D8U",
+            "https://www.youtube.com/watch?v=9bt-0ISUwQ0",
+            "https://www.youtube.com/watch?v=LuYpqQqKW7s"
         ]
     },
     {
@@ -1997,11 +1997,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "0drCO1XmlNU",
-            "ByojhBwG_-E",
-            "SRhDjptowzE",
-            "N8tXe4fayrM",
-            "-V9tu8rqWIg"
+            "https://www.youtube.com/watch?v=0drCO1XmlNU",
+            "https://www.youtube.com/watch?v=ByojhBwG_-E",
+            "https://www.youtube.com/watch?v=SRhDjptowzE",
+            "https://www.youtube.com/watch?v=N8tXe4fayrM",
+            "https://www.youtube.com/watch?v=-V9tu8rqWIg"
         ]
     },
     {
@@ -2055,11 +2055,11 @@
         "budget": "\u20b950 crore",
         "box_office": "\u20b92.5 crore",
         "trailer": [
-            "6Q0P8KBOt4c",
-            "VlnP_sBmmRg",
-            "zLNHpnE3-KI",
-            "AFt1neZLHns",
-            "l09bsLdsD8E"
+            "https://www.youtube.com/watch?v=6Q0P8KBOt4c",
+            "https://www.youtube.com/watch?v=VlnP_sBmmRg",
+            "https://www.youtube.com/watch?v=zLNHpnE3-KI",
+            "https://www.youtube.com/watch?v=AFt1neZLHns",
+            "https://www.youtube.com/watch?v=l09bsLdsD8E"
         ]
     },
     {
@@ -2107,11 +2107,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "-O7iy1_VHGM",
-            "J5hD0hutvi0",
-            "Wx4j26tXf5I",
-            "pIPB06D3kNg",
-            "MjY-bhKp3SY"
+            "https://www.youtube.com/watch?v=-O7iy1_VHGM",
+            "https://www.youtube.com/watch?v=J5hD0hutvi0",
+            "https://www.youtube.com/watch?v=Wx4j26tXf5I",
+            "https://www.youtube.com/watch?v=pIPB06D3kNg",
+            "https://www.youtube.com/watch?v=MjY-bhKp3SY"
         ]
     },
     {
@@ -2174,11 +2174,11 @@
         "budget": "\u20b928 crore",
         "box_office": "\u20b929.19 crore",
         "trailer": [
-            "-V9tu8rqWIg",
-            "QUzk2XXguro",
-            "XWP6MFMBRIU",
-            "aDyi1KPjGko",
-            "LVSV198JENI"
+            "https://www.youtube.com/watch?v=-V9tu8rqWIg",
+            "https://www.youtube.com/watch?v=QUzk2XXguro",
+            "https://www.youtube.com/watch?v=XWP6MFMBRIU",
+            "https://www.youtube.com/watch?v=aDyi1KPjGko",
+            "https://www.youtube.com/watch?v=LVSV198JENI"
         ]
     },
     {
@@ -2227,11 +2227,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "Wkqp8bs3Bro",
-            "JO58WTosGSs",
-            "XZOr7Iv6VHQ",
-            "AdKr1_OzGqU",
-            "xLPLmDHZNdI"
+            "https://www.youtube.com/watch?v=Wkqp8bs3Bro",
+            "https://www.youtube.com/watch?v=JO58WTosGSs",
+            "https://www.youtube.com/watch?v=XZOr7Iv6VHQ",
+            "https://www.youtube.com/watch?v=AdKr1_OzGqU",
+            "https://www.youtube.com/watch?v=xLPLmDHZNdI"
         ]
     },
     {
@@ -2278,11 +2278,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "ApOjRqnDR3g",
-            "qVkMaH6D8Sg",
-            "U-J62pbG9cU",
-            "3I2Dzo1vpeg",
-            "j3tBVf9QxZs"
+            "https://www.youtube.com/watch?v=ApOjRqnDR3g",
+            "https://www.youtube.com/watch?v=qVkMaH6D8Sg",
+            "https://www.youtube.com/watch?v=U-J62pbG9cU",
+            "https://www.youtube.com/watch?v=3I2Dzo1vpeg",
+            "https://www.youtube.com/watch?v=j3tBVf9QxZs"
         ]
     },
     {
@@ -2329,11 +2329,11 @@
         "budget": "\u20b94 crore",
         "box_office": "None",
         "trailer": [
-            "Sf6l492kclQ",
-            "evRZzTpdX0E",
-            "rNsQdJx4Nwk",
-            "wWAR6aonI5Q",
-            "vANe7e9WRgc"
+            "https://www.youtube.com/watch?v=Sf6l492kclQ",
+            "https://www.youtube.com/watch?v=evRZzTpdX0E",
+            "https://www.youtube.com/watch?v=rNsQdJx4Nwk",
+            "https://www.youtube.com/watch?v=wWAR6aonI5Q",
+            "https://www.youtube.com/watch?v=vANe7e9WRgc"
         ]
     },
     {
@@ -2378,11 +2378,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "V4y6oGJzonA",
-            "V5yFwl8Kidw",
-            "zxdC791lRAo",
-            "mU8V2HI94Uw",
-            "f6DRZuTWUUk"
+            "https://www.youtube.com/watch?v=V4y6oGJzonA",
+            "https://www.youtube.com/watch?v=V5yFwl8Kidw",
+            "https://www.youtube.com/watch?v=zxdC791lRAo",
+            "https://www.youtube.com/watch?v=mU8V2HI94Uw",
+            "https://www.youtube.com/watch?v=f6DRZuTWUUk"
         ]
     },
     {
@@ -2430,11 +2430,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "MWH7lfZdP-8",
-            "uO-csOo3uT4",
-            "nw8DWUJjirI",
-            "TcuGoyG7TBg",
-            "Aheci7_Ey04"
+            "https://www.youtube.com/watch?v=MWH7lfZdP-8",
+            "https://www.youtube.com/watch?v=uO-csOo3uT4",
+            "https://www.youtube.com/watch?v=nw8DWUJjirI",
+            "https://www.youtube.com/watch?v=TcuGoyG7TBg",
+            "https://www.youtube.com/watch?v=Aheci7_Ey04"
         ]
     },
     {
@@ -2483,11 +2483,11 @@
         "budget": "\u20b925 crore",
         "box_office": "\u20b91.75 crore",
         "trailer": [
-            "D2L6t0wuEtE",
-            "pqAvSyjxXMk",
-            "2whrK5VqJl0",
-            "IPH8Mkd1O5Y",
-            "ImDltW-BYLU"
+            "https://www.youtube.com/watch?v=D2L6t0wuEtE",
+            "https://www.youtube.com/watch?v=pqAvSyjxXMk",
+            "https://www.youtube.com/watch?v=2whrK5VqJl0",
+            "https://www.youtube.com/watch?v=IPH8Mkd1O5Y",
+            "https://www.youtube.com/watch?v=ImDltW-BYLU"
         ]
     },
     {
@@ -2532,11 +2532,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "wnIzGtDNGaM",
-            "gGSC6rMwYS0",
-            "pzy6OQkaJuo",
-            "ZRlBTRwPbFk",
-            "rIg8zi8AdoM"
+            "https://www.youtube.com/watch?v=wnIzGtDNGaM",
+            "https://www.youtube.com/watch?v=gGSC6rMwYS0",
+            "https://www.youtube.com/watch?v=pzy6OQkaJuo",
+            "https://www.youtube.com/watch?v=ZRlBTRwPbFk",
+            "https://www.youtube.com/watch?v=rIg8zi8AdoM"
         ]
     },
     {
@@ -2579,11 +2579,11 @@
         "budget": "\u20b950 crore",
         "box_office": "\u20b9115.89 crore",
         "trailer": [
-            "ziK8HzNk04A",
-            "X7WXHhokylc",
-            "1FrGglmTstc",
-            "TNuFo9GBXAc",
-            "4sOKDMGQveY"
+            "https://www.youtube.com/watch?v=ziK8HzNk04A",
+            "https://www.youtube.com/watch?v=X7WXHhokylc",
+            "https://www.youtube.com/watch?v=1FrGglmTstc",
+            "https://www.youtube.com/watch?v=TNuFo9GBXAc",
+            "https://www.youtube.com/watch?v=4sOKDMGQveY"
         ]
     },
     {
@@ -2631,11 +2631,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "6-RpbvyLSDw",
-            "ogwYhOVs1kI",
-            "LaXHjtkiqvM",
-            "WGh6Sv2OzhQ",
-            "8GJ8zJZ54Pg"
+            "https://www.youtube.com/watch?v=6-RpbvyLSDw",
+            "https://www.youtube.com/watch?v=ogwYhOVs1kI",
+            "https://www.youtube.com/watch?v=LaXHjtkiqvM",
+            "https://www.youtube.com/watch?v=WGh6Sv2OzhQ",
+            "https://www.youtube.com/watch?v=8GJ8zJZ54Pg"
         ]
     },
     {
@@ -2687,11 +2687,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "O1vDPCGygkQ",
-            "KBuUqcJ5rco",
-            "ZwOeTu6ciP8",
-            "ByojhBwG_-E",
-            "LEojqtWew8g"
+            "https://www.youtube.com/watch?v=O1vDPCGygkQ",
+            "https://www.youtube.com/watch?v=KBuUqcJ5rco",
+            "https://www.youtube.com/watch?v=ZwOeTu6ciP8",
+            "https://www.youtube.com/watch?v=ByojhBwG_-E",
+            "https://www.youtube.com/watch?v=LEojqtWew8g"
         ]
     },
     {
@@ -2737,11 +2737,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "x1HXCfxgm0g",
-            "j0kro6SuwxM",
-            "CZzW6_hR068",
-            "vqKdsYxDrA0",
-            "Vw9fgeNoTDU"
+            "https://www.youtube.com/watch?v=x1HXCfxgm0g",
+            "https://www.youtube.com/watch?v=j0kro6SuwxM",
+            "https://www.youtube.com/watch?v=CZzW6_hR068",
+            "https://www.youtube.com/watch?v=vqKdsYxDrA0",
+            "https://www.youtube.com/watch?v=Vw9fgeNoTDU"
         ]
     },
     {
@@ -2788,11 +2788,11 @@
         "budget": "\u20b910 crore",
         "box_office": "None",
         "trailer": [
-            "cLthAiz_PnQ",
-            "ap7wcYHuFAI",
-            "0je9KrlbW84",
-            "z34FR7U5RdI",
-            "TOXdNYUZECM"
+            "https://www.youtube.com/watch?v=cLthAiz_PnQ",
+            "https://www.youtube.com/watch?v=ap7wcYHuFAI",
+            "https://www.youtube.com/watch?v=0je9KrlbW84",
+            "https://www.youtube.com/watch?v=z34FR7U5RdI",
+            "https://www.youtube.com/watch?v=TOXdNYUZECM"
         ]
     },
     {
@@ -2838,11 +2838,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "0mvglHtAGC8",
-            "VLMy0zw_mF8",
-            "CCAYOkjpGtE",
-            "O2Jbveu5cZk",
-            "sEpbqu50LBQ"
+            "https://www.youtube.com/watch?v=0mvglHtAGC8",
+            "https://www.youtube.com/watch?v=VLMy0zw_mF8",
+            "https://www.youtube.com/watch?v=CCAYOkjpGtE",
+            "https://www.youtube.com/watch?v=O2Jbveu5cZk",
+            "https://www.youtube.com/watch?v=sEpbqu50LBQ"
         ]
     },
     {
@@ -2886,11 +2886,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "VjP7msJ7xQ4",
-            "0TyPk8MSggU",
-            "qvXJXBjWfjQ",
-            "MykhQsz86sQ",
-            "e6o0RK-laZw"
+            "https://www.youtube.com/watch?v=VjP7msJ7xQ4",
+            "https://www.youtube.com/watch?v=0TyPk8MSggU",
+            "https://www.youtube.com/watch?v=qvXJXBjWfjQ",
+            "https://www.youtube.com/watch?v=MykhQsz86sQ",
+            "https://www.youtube.com/watch?v=e6o0RK-laZw"
         ]
     },
     {
@@ -2941,12 +2941,12 @@
         "budget": "\u20b960 crore",
         "box_office": "\u20b9117.77 crore",
         "trailer": [
-            "8EPJiFfWRfw",
-            "Ykg50pOUnQs",
-            "Sk0DsJuJ_y8",
-            "-B6V03hwHQg",
-            "smtQV8lpwoI",
-            "m9AwA5ZKeso"
+            "https://www.youtube.com/watch?v=8EPJiFfWRfw",
+            "https://www.youtube.com/watch?v=Ykg50pOUnQs",
+            "https://www.youtube.com/watch?v=Sk0DsJuJ_y8",
+            "https://www.youtube.com/watch?v=-B6V03hwHQg",
+            "https://www.youtube.com/watch?v=smtQV8lpwoI",
+            "https://www.youtube.com/watch?v=m9AwA5ZKeso"
         ]
     },
     {
@@ -3007,11 +3007,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "Z3Z7RocQUXI",
-            "4aanxonXWiM",
-            "lj6MRBXZWwI",
-            "8oEbtCA9go0",
-            "6Nck8D7kPXg"
+            "https://www.youtube.com/watch?v=Z3Z7RocQUXI",
+            "https://www.youtube.com/watch?v=4aanxonXWiM",
+            "https://www.youtube.com/watch?v=lj6MRBXZWwI",
+            "https://www.youtube.com/watch?v=8oEbtCA9go0",
+            "https://www.youtube.com/watch?v=6Nck8D7kPXg"
         ]
     },
     {
@@ -3062,11 +3062,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "63CsnILifDw",
-            "CcD6npnuSIw",
-            "YTuQkEmyIlk",
-            "KvorFo2pivI",
-            "MalReqKf2m0"
+            "https://www.youtube.com/watch?v=63CsnILifDw",
+            "https://www.youtube.com/watch?v=CcD6npnuSIw",
+            "https://www.youtube.com/watch?v=YTuQkEmyIlk",
+            "https://www.youtube.com/watch?v=KvorFo2pivI",
+            "https://www.youtube.com/watch?v=MalReqKf2m0"
         ]
     },
     {
@@ -3116,11 +3116,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "ptiMDzLQnzo",
-            "edvOL96jndI",
-            "ngfcN3TH9kQ",
-            "GKooovNZHsI",
-            "JRlT6tPAZSI"
+            "https://www.youtube.com/watch?v=ptiMDzLQnzo",
+            "https://www.youtube.com/watch?v=edvOL96jndI",
+            "https://www.youtube.com/watch?v=ngfcN3TH9kQ",
+            "https://www.youtube.com/watch?v=GKooovNZHsI",
+            "https://www.youtube.com/watch?v=JRlT6tPAZSI"
         ]
     },
     {
@@ -3166,11 +3166,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "n0-_OZDjU2g",
-            "Hj24KE1tC4o",
-            "ByojhBwG_-E",
-            "Itob-YF5vdk",
-            "MjY-bhKp3SY"
+            "https://www.youtube.com/watch?v=n0-_OZDjU2g",
+            "https://www.youtube.com/watch?v=Hj24KE1tC4o",
+            "https://www.youtube.com/watch?v=ByojhBwG_-E",
+            "https://www.youtube.com/watch?v=Itob-YF5vdk",
+            "https://www.youtube.com/watch?v=MjY-bhKp3SY"
         ]
     },
     {
@@ -3221,11 +3221,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "YOxnL1jSfFo",
-            "bLQ6sJtHRyI",
-            "ZQB9Y8CiwV0",
-            "dE2wUVknVj8",
-            "lH1FiyjKhVI"
+            "https://www.youtube.com/watch?v=YOxnL1jSfFo",
+            "https://www.youtube.com/watch?v=bLQ6sJtHRyI",
+            "https://www.youtube.com/watch?v=ZQB9Y8CiwV0",
+            "https://www.youtube.com/watch?v=dE2wUVknVj8",
+            "https://www.youtube.com/watch?v=lH1FiyjKhVI"
         ]
     },
     {
@@ -3275,11 +3275,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "5gH3NG2VIug",
-            "MUPm4VEj1W0",
-            "3PDu91_W3Tw",
-            "WxChctigJPc",
-            "ZJxLsNULSqY"
+            "https://www.youtube.com/watch?v=5gH3NG2VIug",
+            "https://www.youtube.com/watch?v=MUPm4VEj1W0",
+            "https://www.youtube.com/watch?v=3PDu91_W3Tw",
+            "https://www.youtube.com/watch?v=WxChctigJPc",
+            "https://www.youtube.com/watch?v=ZJxLsNULSqY"
         ]
     },
     {
@@ -3327,11 +3327,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "ibPlQq5ARWc",
-            "ipzhi9l0Yq4",
-            "_DT_OgWQm1g",
-            "3g0Boe0K-sE",
-            "euLFJbkB6Eo"
+            "https://www.youtube.com/watch?v=ibPlQq5ARWc",
+            "https://www.youtube.com/watch?v=ipzhi9l0Yq4",
+            "https://www.youtube.com/watch?v=_DT_OgWQm1g",
+            "https://www.youtube.com/watch?v=3g0Boe0K-sE",
+            "https://www.youtube.com/watch?v=euLFJbkB6Eo"
         ]
     },
     {
@@ -3379,11 +3379,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "NyeG2mLVCS4",
-            "9tbOxIbVsxQ",
-            "NIBLAYqNIRU",
-            "Js6-CjR7xNA",
-            "tPTXc-Aguz4"
+            "https://www.youtube.com/watch?v=NyeG2mLVCS4",
+            "https://www.youtube.com/watch?v=9tbOxIbVsxQ",
+            "https://www.youtube.com/watch?v=NIBLAYqNIRU",
+            "https://www.youtube.com/watch?v=Js6-CjR7xNA",
+            "https://www.youtube.com/watch?v=tPTXc-Aguz4"
         ]
     },
     {
@@ -3444,11 +3444,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "nVaFJnbvf-M",
-            "o-RlJPYL_tk",
-            "eKQdL42sWkA",
-            "KYC5PUCi4vQ",
-            "AJ7QzqJi9YE"
+            "https://www.youtube.com/watch?v=nVaFJnbvf-M",
+            "https://www.youtube.com/watch?v=o-RlJPYL_tk",
+            "https://www.youtube.com/watch?v=eKQdL42sWkA",
+            "https://www.youtube.com/watch?v=KYC5PUCi4vQ",
+            "https://www.youtube.com/watch?v=AJ7QzqJi9YE"
         ]
     },
     {
@@ -3502,11 +3502,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "5zqnxuDI4kU",
-            "YqH_gFujcGY",
-            "EmtLTExmPuU",
-            "HpqxBxytGQE",
-            "YTuQkEmyIlk"
+            "https://www.youtube.com/watch?v=5zqnxuDI4kU",
+            "https://www.youtube.com/watch?v=YqH_gFujcGY",
+            "https://www.youtube.com/watch?v=EmtLTExmPuU",
+            "https://www.youtube.com/watch?v=HpqxBxytGQE",
+            "https://www.youtube.com/watch?v=YTuQkEmyIlk"
         ]
     },
     {
@@ -3553,11 +3553,11 @@
         "budget": "\u20b96 crore",
         "box_office": "\u20b92.12 crore",
         "trailer": [
-            "bHMOc2kb8AM",
-            "D5ewCw-rfsY",
-            "gaWHTFNu0Ng",
-            "5kYwyEXgHBc",
-            "S3LNnmW8tSU"
+            "https://www.youtube.com/watch?v=bHMOc2kb8AM",
+            "https://www.youtube.com/watch?v=D5ewCw-rfsY",
+            "https://www.youtube.com/watch?v=gaWHTFNu0Ng",
+            "https://www.youtube.com/watch?v=5kYwyEXgHBc",
+            "https://www.youtube.com/watch?v=S3LNnmW8tSU"
         ]
     },
     {
@@ -3602,11 +3602,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "xUhH4CZr5Iw",
-            "EwSus-3W5Gs",
-            "NnR0bDOKcjo",
-            "YTuQkEmyIlk",
-            "2tSEeJNsxKY"
+            "https://www.youtube.com/watch?v=xUhH4CZr5Iw",
+            "https://www.youtube.com/watch?v=EwSus-3W5Gs",
+            "https://www.youtube.com/watch?v=NnR0bDOKcjo",
+            "https://www.youtube.com/watch?v=YTuQkEmyIlk",
+            "https://www.youtube.com/watch?v=2tSEeJNsxKY"
         ]
     },
     {
@@ -3656,11 +3656,11 @@
         "budget": "\u20b933 crore",
         "box_office": "\u20b935.48 crore",
         "trailer": [
-            "1kZtT0xpsww",
-            "fm4euY1MyJU",
-            "QoBBcoi1F0I",
-            "bNRFXSZ12NY",
-            "aN1Lb8HLsaU"
+            "https://www.youtube.com/watch?v=1kZtT0xpsww",
+            "https://www.youtube.com/watch?v=fm4euY1MyJU",
+            "https://www.youtube.com/watch?v=QoBBcoi1F0I",
+            "https://www.youtube.com/watch?v=bNRFXSZ12NY",
+            "https://www.youtube.com/watch?v=aN1Lb8HLsaU"
         ]
     },
     {
@@ -3760,11 +3760,11 @@
         "budget": "\u20b920 crore",
         "box_office": "\u20b96.05 crore",
         "trailer": [
-            "S5ixGOMTliE",
-            "TEkPJhbOd7s",
-            "YGMREujFtRc",
-            "ByojhBwG_-E",
-            "iLvGR23ioBE"
+            "https://www.youtube.com/watch?v=S5ixGOMTliE",
+            "https://www.youtube.com/watch?v=TEkPJhbOd7s",
+            "https://www.youtube.com/watch?v=YGMREujFtRc",
+            "https://www.youtube.com/watch?v=ByojhBwG_-E",
+            "https://www.youtube.com/watch?v=iLvGR23ioBE"
         ]
     },
     {
@@ -3812,11 +3812,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "vZCoEvDtkPE",
-            "sIlK-pHhTjI",
-            "gBqtIjqkenw",
-            "3PgplFEsl68",
-            "QiqdBXDtTc0"
+            "https://www.youtube.com/watch?v=vZCoEvDtkPE",
+            "https://www.youtube.com/watch?v=sIlK-pHhTjI",
+            "https://www.youtube.com/watch?v=gBqtIjqkenw",
+            "https://www.youtube.com/watch?v=3PgplFEsl68",
+            "https://www.youtube.com/watch?v=QiqdBXDtTc0"
         ]
     },
     {
@@ -3870,11 +3870,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "HEXTEC-xqWA",
-            "KJhgqXku6jI",
-            "4yCYLD9HoWM",
-            "rb0ZqPkf0gw",
-            "78YqattYUZ4"
+            "https://www.youtube.com/watch?v=HEXTEC-xqWA",
+            "https://www.youtube.com/watch?v=KJhgqXku6jI",
+            "https://www.youtube.com/watch?v=4yCYLD9HoWM",
+            "https://www.youtube.com/watch?v=rb0ZqPkf0gw",
+            "https://www.youtube.com/watch?v=78YqattYUZ4"
         ]
     },
     {
@@ -3921,11 +3921,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "Lz_jlyGDoqM",
-            "pcFGbBxiIKM",
-            "0n6N4QLwBOo",
-            "YTuQkEmyIlk",
-            "61Rnpt-SwDw"
+            "https://www.youtube.com/watch?v=Lz_jlyGDoqM",
+            "https://www.youtube.com/watch?v=pcFGbBxiIKM",
+            "https://www.youtube.com/watch?v=0n6N4QLwBOo",
+            "https://www.youtube.com/watch?v=YTuQkEmyIlk",
+            "https://www.youtube.com/watch?v=61Rnpt-SwDw"
         ]
     },
     {
@@ -3969,11 +3969,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "pamLV6P1STE",
-            "ptjy8yUbbRk",
-            "coZ65NO1RpQ",
-            "YRGPMAidLhU",
-            "zRpQeszbZCQ"
+            "https://www.youtube.com/watch?v=pamLV6P1STE",
+            "https://www.youtube.com/watch?v=ptjy8yUbbRk",
+            "https://www.youtube.com/watch?v=coZ65NO1RpQ",
+            "https://www.youtube.com/watch?v=YRGPMAidLhU",
+            "https://www.youtube.com/watch?v=zRpQeszbZCQ"
         ]
     },
     {
@@ -4021,11 +4021,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "IleX8QX5Uyw",
-            "YTuQkEmyIlk",
-            "ByojhBwG_-E",
-            "lhUpSZ1FhOs",
-            "Ok99Wy2PHOg"
+            "https://www.youtube.com/watch?v=IleX8QX5Uyw",
+            "https://www.youtube.com/watch?v=YTuQkEmyIlk",
+            "https://www.youtube.com/watch?v=ByojhBwG_-E",
+            "https://www.youtube.com/watch?v=lhUpSZ1FhOs",
+            "https://www.youtube.com/watch?v=Ok99Wy2PHOg"
         ]
     },
     {
@@ -4073,11 +4073,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "SRhDjptowzE",
-            "Q2WH6R3lKUU",
-            "mO5Y5bFdH78",
-            "HjGZpVA8SZ8",
-            "Sooq_53GaxI"
+            "https://www.youtube.com/watch?v=SRhDjptowzE",
+            "https://www.youtube.com/watch?v=Q2WH6R3lKUU",
+            "https://www.youtube.com/watch?v=mO5Y5bFdH78",
+            "https://www.youtube.com/watch?v=HjGZpVA8SZ8",
+            "https://www.youtube.com/watch?v=Sooq_53GaxI"
         ]
     },
     {
@@ -4127,11 +4127,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "GHX6yT9Lxfo",
-            "ByojhBwG_-E",
-            "WmlCIxZk7RQ",
-            "YTuQkEmyIlk",
-            "2mUFAyVXa9U"
+            "https://www.youtube.com/watch?v=GHX6yT9Lxfo",
+            "https://www.youtube.com/watch?v=ByojhBwG_-E",
+            "https://www.youtube.com/watch?v=WmlCIxZk7RQ",
+            "https://www.youtube.com/watch?v=YTuQkEmyIlk",
+            "https://www.youtube.com/watch?v=2mUFAyVXa9U"
         ]
     },
     {
@@ -4179,11 +4179,11 @@
         "budget": "\u20b940 crore",
         "box_office": "\u20b97.8 crore",
         "trailer": [
-            "jxRgnlvep94",
-            "M1vbhsuGLFE",
-            "4ZWT6KPbYnE",
-            "GUHtyEo8_gs",
-            "z2WWazS8EfA"
+            "https://www.youtube.com/watch?v=jxRgnlvep94",
+            "https://www.youtube.com/watch?v=M1vbhsuGLFE",
+            "https://www.youtube.com/watch?v=4ZWT6KPbYnE",
+            "https://www.youtube.com/watch?v=GUHtyEo8_gs",
+            "https://www.youtube.com/watch?v=z2WWazS8EfA"
         ]
     },
     {
@@ -4234,11 +4234,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "MjY-bhKp3SY",
-            "7EwAT0N1sRw",
-            "tZCdDo4bm8s",
-            "ByojhBwG_-E",
-            "HeDdkMIyhoQ"
+            "https://www.youtube.com/watch?v=MjY-bhKp3SY",
+            "https://www.youtube.com/watch?v=7EwAT0N1sRw",
+            "https://www.youtube.com/watch?v=tZCdDo4bm8s",
+            "https://www.youtube.com/watch?v=ByojhBwG_-E",
+            "https://www.youtube.com/watch?v=HeDdkMIyhoQ"
         ]
     },
     {
@@ -4288,11 +4288,11 @@
         "budget": "\u20b910 crore",
         "box_office": "\u20b95.74 crore",
         "trailer": [
-            "Y-ULaz6I9oY",
-            "oiGUggg32lI",
-            "kiQ5Y2C_Gws",
-            "SOuzPyl6HyI",
-            "8pibn9J7AoA"
+            "https://www.youtube.com/watch?v=Y-ULaz6I9oY",
+            "https://www.youtube.com/watch?v=oiGUggg32lI",
+            "https://www.youtube.com/watch?v=kiQ5Y2C_Gws",
+            "https://www.youtube.com/watch?v=SOuzPyl6HyI",
+            "https://www.youtube.com/watch?v=8pibn9J7AoA"
         ]
     },
     {
@@ -4343,11 +4343,11 @@
         "budget": "None",
         "box_office": "\u20b969.24 crore",
         "trailer": [
-            "HeDdkMIyhoQ",
-            "ocQ5XBRv_Wg",
-            "g4oODhranE0",
-            "_FSObm3jqVE",
-            "HLrq2H05hbE"
+            "https://www.youtube.com/watch?v=HeDdkMIyhoQ",
+            "https://www.youtube.com/watch?v=ocQ5XBRv_Wg",
+            "https://www.youtube.com/watch?v=g4oODhranE0",
+            "https://www.youtube.com/watch?v=_FSObm3jqVE",
+            "https://www.youtube.com/watch?v=HLrq2H05hbE"
         ]
     },
     {
@@ -4396,13 +4396,13 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "jcd9YYE1EXk",
-            "j1d7W_gnV2w",
-            "A7065b_5vv4",
-            "XRgVik3IsPU",
-            "7ILZW67O8FE",
-            "FuDj0VfCAtY",
-            "iPi42aDO7i8"
+            "https://www.youtube.com/watch?v=jcd9YYE1EXk",
+            "https://www.youtube.com/watch?v=j1d7W_gnV2w",
+            "https://www.youtube.com/watch?v=A7065b_5vv4",
+            "https://www.youtube.com/watch?v=XRgVik3IsPU",
+            "https://www.youtube.com/watch?v=7ILZW67O8FE",
+            "https://www.youtube.com/watch?v=FuDj0VfCAtY",
+            "https://www.youtube.com/watch?v=iPi42aDO7i8"
         ]
     },
     {
@@ -4448,11 +4448,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "vX-8Xvon8tM",
-            "s08OwbluBGU",
-            "3Q38mFO_JZU",
-            "UEQXPyhfv6k",
-            "rQUnDtwjbFc"
+            "https://www.youtube.com/watch?v=vX-8Xvon8tM",
+            "https://www.youtube.com/watch?v=s08OwbluBGU",
+            "https://www.youtube.com/watch?v=3Q38mFO_JZU",
+            "https://www.youtube.com/watch?v=UEQXPyhfv6k",
+            "https://www.youtube.com/watch?v=rQUnDtwjbFc"
         ]
     },
     {
@@ -4498,11 +4498,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "ByojhBwG_-E",
-            "9kcYzWG7fxA",
-            "YTuQkEmyIlk",
-            "0plrLFZyrA4",
-            "ppwImAPxgD8"
+            "https://www.youtube.com/watch?v=ByojhBwG_-E",
+            "https://www.youtube.com/watch?v=9kcYzWG7fxA",
+            "https://www.youtube.com/watch?v=YTuQkEmyIlk",
+            "https://www.youtube.com/watch?v=0plrLFZyrA4",
+            "https://www.youtube.com/watch?v=ppwImAPxgD8"
         ]
     },
     {
@@ -4559,11 +4559,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "QFf91hnpClI",
-            "aSEcaBuHwlI",
-            "-vbI4gliS4c",
-            "Q-rG6uWJK2o",
-            "-vihQmidl2M"
+            "https://www.youtube.com/watch?v=QFf91hnpClI",
+            "https://www.youtube.com/watch?v=aSEcaBuHwlI",
+            "https://www.youtube.com/watch?v=-vbI4gliS4c",
+            "https://www.youtube.com/watch?v=Q-rG6uWJK2o",
+            "https://www.youtube.com/watch?v=-vihQmidl2M"
         ]
     },
     {
@@ -4615,11 +4615,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "mHKrjUZJoK4",
-            "ahA1Pecwmss",
-            "FQscHZg8ve0",
-            "MTFaBGGmpaQ",
-            "wB6KLPCXosM"
+            "https://www.youtube.com/watch?v=mHKrjUZJoK4",
+            "https://www.youtube.com/watch?v=ahA1Pecwmss",
+            "https://www.youtube.com/watch?v=FQscHZg8ve0",
+            "https://www.youtube.com/watch?v=MTFaBGGmpaQ",
+            "https://www.youtube.com/watch?v=wB6KLPCXosM"
         ]
     },
     {
@@ -4666,11 +4666,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "MNyg8FB71To",
-            "VcB7FHVevAY",
-            "BqI8Vkxvxys",
-            "bBcdO6bA-9E",
-            "cX9a-0gE-JA"
+            "https://www.youtube.com/watch?v=MNyg8FB71To",
+            "https://www.youtube.com/watch?v=VcB7FHVevAY",
+            "https://www.youtube.com/watch?v=BqI8Vkxvxys",
+            "https://www.youtube.com/watch?v=bBcdO6bA-9E",
+            "https://www.youtube.com/watch?v=cX9a-0gE-JA"
         ]
     },
     {
@@ -4715,13 +4715,13 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "KBuUqcJ5rco",
-            "Y6GYtbQDuXw",
-            "KyCBrtuh4Zc",
-            "hsF3LMJcNfI",
-            "mJkM9ORHCNg",
-            "5KaLhGFL51U",
-            "TAMC3CNmcHs"
+            "https://www.youtube.com/watch?v=KBuUqcJ5rco",
+            "https://www.youtube.com/watch?v=Y6GYtbQDuXw",
+            "https://www.youtube.com/watch?v=KyCBrtuh4Zc",
+            "https://www.youtube.com/watch?v=hsF3LMJcNfI",
+            "https://www.youtube.com/watch?v=mJkM9ORHCNg",
+            "https://www.youtube.com/watch?v=5KaLhGFL51U",
+            "https://www.youtube.com/watch?v=TAMC3CNmcHs"
         ]
     },
     {
@@ -4770,11 +4770,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "34rwwNqHB4U",
-            "jxRgnlvep94",
-            "xAJ8KOfRjZ8",
-            "Hqp6J-EGPP4",
-            "yTYAcmQHj9U"
+            "https://www.youtube.com/watch?v=34rwwNqHB4U",
+            "https://www.youtube.com/watch?v=jxRgnlvep94",
+            "https://www.youtube.com/watch?v=xAJ8KOfRjZ8",
+            "https://www.youtube.com/watch?v=Hqp6J-EGPP4",
+            "https://www.youtube.com/watch?v=yTYAcmQHj9U"
         ]
     },
     {
@@ -4825,11 +4825,11 @@
         "budget": "\u20b9200 crore",
         "box_office": "None",
         "trailer": [
-            "Gy_5ZRXU1L0",
-            "KySsZCy587g",
-            "Xu_zp8APzCk",
-            "fOorjtv_Xeg",
-            "xtUV4fB5AoE"
+            "https://www.youtube.com/watch?v=Gy_5ZRXU1L0",
+            "https://www.youtube.com/watch?v=KySsZCy587g",
+            "https://www.youtube.com/watch?v=Xu_zp8APzCk",
+            "https://www.youtube.com/watch?v=fOorjtv_Xeg",
+            "https://www.youtube.com/watch?v=xtUV4fB5AoE"
         ]
     },
     {
@@ -4889,11 +4889,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "XRgVik3IsPU",
-            "ZWUgBdzgGyQ",
-            "us9ZeVn6pM0",
-            "KBuUqcJ5rco",
-            "7NwlZzItYH4"
+            "https://www.youtube.com/watch?v=XRgVik3IsPU",
+            "https://www.youtube.com/watch?v=ZWUgBdzgGyQ",
+            "https://www.youtube.com/watch?v=us9ZeVn6pM0",
+            "https://www.youtube.com/watch?v=KBuUqcJ5rco",
+            "https://www.youtube.com/watch?v=7NwlZzItYH4"
         ]
     },
     {
@@ -4934,7 +4934,7 @@
         "language": "Hindi",
         "budget": "None",
         "box_office": "None",
-        "trailer": "COv52Qyctws"
+        "trailer": "https://www.youtube.com/watch?v=COv52Qyctws"
     },
     {
         "id": 103,
@@ -4974,11 +4974,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "KBuUqcJ5rco",
-            "Cj8ZzDQne7Y",
-            "9rSPmV9Wa1I",
-            "ByojhBwG_-E",
-            "1zOt8Q3YNC0"
+            "https://www.youtube.com/watch?v=KBuUqcJ5rco",
+            "https://www.youtube.com/watch?v=Cj8ZzDQne7Y",
+            "https://www.youtube.com/watch?v=9rSPmV9Wa1I",
+            "https://www.youtube.com/watch?v=ByojhBwG_-E",
+            "https://www.youtube.com/watch?v=1zOt8Q3YNC0"
         ]
     },
     {
@@ -5021,11 +5021,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "jVFAiFgXQt4",
-            "givLtqsybMo",
-            "VKneFkMH4Y4",
-            "j1yqQfwR_i0",
-            "Bf-97m38RUU"
+            "https://www.youtube.com/watch?v=jVFAiFgXQt4",
+            "https://www.youtube.com/watch?v=givLtqsybMo",
+            "https://www.youtube.com/watch?v=VKneFkMH4Y4",
+            "https://www.youtube.com/watch?v=j1yqQfwR_i0",
+            "https://www.youtube.com/watch?v=Bf-97m38RUU"
         ]
     },
     {
@@ -5077,11 +5077,11 @@
         "budget": "\u20b9300 crore",
         "box_office": "None",
         "trailer": [
-            "KySsZCy587g",
-            "Gy_5ZRXU1L0",
-            "a-ScM-hDnHk",
-            "lfteqbMSGyk",
-            "_824qZVIcZg"
+            "https://www.youtube.com/watch?v=KySsZCy587g",
+            "https://www.youtube.com/watch?v=Gy_5ZRXU1L0",
+            "https://www.youtube.com/watch?v=a-ScM-hDnHk",
+            "https://www.youtube.com/watch?v=lfteqbMSGyk",
+            "https://www.youtube.com/watch?v=_824qZVIcZg"
         ]
     },
     {
@@ -5132,11 +5132,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "PdcciqXAEjo",
-            "MzxGN2xAa-4",
-            "FVi9hlvQOrg",
-            "a3sDvCCnKRc",
-            "SwU5pcjquzY"
+            "https://www.youtube.com/watch?v=PdcciqXAEjo",
+            "https://www.youtube.com/watch?v=MzxGN2xAa-4",
+            "https://www.youtube.com/watch?v=FVi9hlvQOrg",
+            "https://www.youtube.com/watch?v=a3sDvCCnKRc",
+            "https://www.youtube.com/watch?v=SwU5pcjquzY"
         ]
     },
     {
@@ -5198,11 +5198,11 @@
         "budget": "\u20b9100 crore",
         "box_office": "None",
         "trailer": [
-            "Dydmpfo68DA",
-            "KySsZCy587g",
-            "Gy_5ZRXU1L0",
-            "EywX_uxreYA",
-            "QFf91hnpClI"
+            "https://www.youtube.com/watch?v=Dydmpfo68DA",
+            "https://www.youtube.com/watch?v=KySsZCy587g",
+            "https://www.youtube.com/watch?v=Gy_5ZRXU1L0",
+            "https://www.youtube.com/watch?v=EywX_uxreYA",
+            "https://www.youtube.com/watch?v=QFf91hnpClI"
         ]
     },
     {
@@ -5248,11 +5248,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "uT15gSnz8n4",
-            "t9wBUSpNMPw",
-            "pvBrYuWXlHI",
-            "L_0_w4qSpGQ",
-            "1IiMa_l4TEI"
+            "https://www.youtube.com/watch?v=uT15gSnz8n4",
+            "https://www.youtube.com/watch?v=t9wBUSpNMPw",
+            "https://www.youtube.com/watch?v=pvBrYuWXlHI",
+            "https://www.youtube.com/watch?v=L_0_w4qSpGQ",
+            "https://www.youtube.com/watch?v=1IiMa_l4TEI"
         ]
     },
     {
@@ -5301,11 +5301,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "NN71kSL7uEM",
-            "_x5BvWZavQ8",
-            "RULBOWboe8g",
-            "-uhyytleax8",
-            "4mv2nQobrl0"
+            "https://www.youtube.com/watch?v=NN71kSL7uEM",
+            "https://www.youtube.com/watch?v=_x5BvWZavQ8",
+            "https://www.youtube.com/watch?v=RULBOWboe8g",
+            "https://www.youtube.com/watch?v=-uhyytleax8",
+            "https://www.youtube.com/watch?v=4mv2nQobrl0"
         ]
     },
     {
@@ -5344,11 +5344,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "enNNhCstE3k",
-            "AKB2ntpaRNg",
-            "OFNp4_gv2HE",
-            "lndlvybToLI",
-            "ByojhBwG_-E"
+            "https://www.youtube.com/watch?v=enNNhCstE3k",
+            "https://www.youtube.com/watch?v=AKB2ntpaRNg",
+            "https://www.youtube.com/watch?v=OFNp4_gv2HE",
+            "https://www.youtube.com/watch?v=lndlvybToLI",
+            "https://www.youtube.com/watch?v=ByojhBwG_-E"
         ]
     },
     {
@@ -5394,11 +5394,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "v0ofvqtwctg",
-            "UMXCQJ3KgVw",
-            "_1Eze1So-yM",
-            "Hh8qqMOKczc",
-            "z9CEIcmWmtA"
+            "https://www.youtube.com/watch?v=v0ofvqtwctg",
+            "https://www.youtube.com/watch?v=UMXCQJ3KgVw",
+            "https://www.youtube.com/watch?v=_1Eze1So-yM",
+            "https://www.youtube.com/watch?v=Hh8qqMOKczc",
+            "https://www.youtube.com/watch?v=z9CEIcmWmtA"
         ]
     },
     {
@@ -5447,11 +5447,11 @@
         "budget": "None",
         "box_office": "None",
         "trailer": [
-            "E0TJPL7k4To",
-            "9k2oBYn3600",
-            "aNxd01VzJsw",
-            "rkAf3EGzs74",
-            "Dsa3JzhSJ0I"
+            "https://www.youtube.com/watch?v=E0TJPL7k4To",
+            "https://www.youtube.com/watch?v=9k2oBYn3600",
+            "https://www.youtube.com/watch?v=aNxd01VzJsw",
+            "https://www.youtube.com/watch?v=rkAf3EGzs74",
+            "https://www.youtube.com/watch?v=Dsa3JzhSJ0I"
         ]
     }
 ]
